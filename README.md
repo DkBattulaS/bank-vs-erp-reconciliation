@@ -1,4 +1,3 @@
-# Bank vs ERP Reconciliation Automation 
 # 🧾 Bank vs ERP Reconciliation Automation with Power BI Dashboard
 
 This project automates the reconciliation process between bank statements and ERP ledger data using Python. It also provides a Power BI dashboard for visualizing matched and unmatched transactions with interactive insights.
@@ -35,5 +34,4 @@ Manually reconciling financial entries between bank statements and ERP systems i
 
 ---
 
-## 🗂 Project Structure
 
