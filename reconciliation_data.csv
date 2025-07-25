@@ -1,0 +1,2076 @@
+date,amount,description,key,Status
+2025-03-23,1202.18,"travel expense - werner, perez and navarro","(Timestamp('2025-03-23 00:00:00'), 1202.18, 'travel expense - werner, perez and navarro')",Matched
+2025-01-04,1027.58,salary transfer - ellis plc,"(Timestamp('2025-01-04 00:00:00'), 1027.58, 'salary transfer - ellis plc')",Matched
+2025-01-26,7188.59,customer refund - scott ltd,"(Timestamp('2025-01-26 00:00:00'), 7188.59, 'customer refund - scott ltd')",Matched
+2025-01-21,7011.58,bank charges - nash-smith,"(Timestamp('2025-01-21 00:00:00'), 7011.58, 'bank charges - nash-smith')",Matched
+2025-02-05,1639.25,"bank charges - gentry, brown and moran","(Timestamp('2025-02-05 00:00:00'), 1639.25, 'bank charges - gentry, brown and moran')",Matched
+2025-02-15,8490.19,insurance payout - stewart group,"(Timestamp('2025-02-15 00:00:00'), 8490.19, 'insurance payout - stewart group')",Matched
+2025-02-03,8090.57,"equipment purchase - freeman, hinton and brown","(Timestamp('2025-02-03 00:00:00'), 8090.57, 'equipment purchase - freeman, hinton and brown')",Matched
+2025-01-06,6646.51,travel expense - daniel group,"(Timestamp('2025-01-06 00:00:00'), 6646.51, 'travel expense - daniel group')",Matched
+2025-02-18,2851.94,bank charges - crawford-park,"(Timestamp('2025-02-18 00:00:00'), 2851.94, 'bank charges - crawford-park')",Matched
+2025-02-01,1717.68,"service fee - zhang, schmidt and smith","(Timestamp('2025-02-01 00:00:00'), 1717.68, 'service fee - zhang, schmidt and smith')",Matched
+2025-02-21,2750.63,salary transfer - cook-kim,"(Timestamp('2025-02-21 00:00:00'), 2750.63, 'salary transfer - cook-kim')",Matched
+2025-03-14,8776.04,bank charges - martinez inc,"(Timestamp('2025-03-14 00:00:00'), 8776.04, 'bank charges - martinez inc')",Matched
+2025-03-24,4642.63,"travel expense - reilly, ashley and moore","(Timestamp('2025-03-24 00:00:00'), 4642.63, 'travel expense - reilly, ashley and moore')",Matched
+2025-03-10,2701.14,insurance payout - fisher plc,"(Timestamp('2025-03-10 00:00:00'), 2701.14, 'insurance payout - fisher plc')",Matched
+2025-02-24,8988.45,"service fee - davis, williams and campbell","(Timestamp('2025-02-24 00:00:00'), 8988.45, 'service fee - davis, williams and campbell')",Matched
+2025-02-16,2271.28,"office rent - hanson, gordon and andrade","(Timestamp('2025-02-16 00:00:00'), 2271.28, 'office rent - hanson, gordon and andrade')",Matched
+2025-03-09,2589.0,"customer refund - garcia, molina and washington","(Timestamp('2025-03-09 00:00:00'), 2589.0, 'customer refund - garcia, molina and washington')",Matched
+2025-01-02,6834.81,vendor payment - wilson-fisher,"(Timestamp('2025-01-02 00:00:00'), 6834.81, 'vendor payment - wilson-fisher')",Matched
+2025-03-24,3467.74,travel expense - jarvis-johnson,"(Timestamp('2025-03-24 00:00:00'), 3467.74, 'travel expense - jarvis-johnson')",Matched
+2025-03-06,9135.02,travel expense - castro ltd,"(Timestamp('2025-03-06 00:00:00'), 9135.02, 'travel expense - castro ltd')",Matched
+2025-01-01,6029.55,"equipment purchase - briggs, lara and horton","(Timestamp('2025-01-01 00:00:00'), 6029.55, 'equipment purchase - briggs, lara and horton')",Matched
+2025-03-14,9474.8,vendor payment - jensen-williams,"(Timestamp('2025-03-14 00:00:00'), 9474.8, 'vendor payment - jensen-williams')",Matched
+2025-01-17,1371.08,"equipment purchase - turner, sullivan and rodriguez","(Timestamp('2025-01-17 00:00:00'), 1371.08, 'equipment purchase - turner, sullivan and rodriguez')",Matched
+2025-03-11,7577.13,salary transfer - frederick-bailey,"(Timestamp('2025-03-11 00:00:00'), 7577.13, 'salary transfer - frederick-bailey')",Matched
+2025-02-09,4050.02,"bank charges - neal, rodriguez and patel","(Timestamp('2025-02-09 00:00:00'), 4050.02, 'bank charges - neal, rodriguez and patel')",Matched
+2025-02-26,9006.18,equipment purchase - fischer plc,"(Timestamp('2025-02-26 00:00:00'), 9006.18, 'equipment purchase - fischer plc')",Matched
+2025-02-13,308.24,"customer refund - hayes, mcfarland and bryant","(Timestamp('2025-02-13 00:00:00'), 308.24, 'customer refund - hayes, mcfarland and bryant')",Matched
+2025-02-12,801.49,"salary transfer - hill, fowler and alvarez","(Timestamp('2025-02-12 00:00:00'), 801.49, 'salary transfer - hill, fowler and alvarez')",Matched
+2025-03-11,1409.89,"insurance payout - benitez, adams and vega","(Timestamp('2025-03-11 00:00:00'), 1409.89, 'insurance payout - benitez, adams and vega')",Matched
+2025-02-22,1985.06,"vendor payment - young, nelson and powell","(Timestamp('2025-02-22 00:00:00'), 1985.06, 'vendor payment - young, nelson and powell')",Matched
+2025-03-10,4541.27,service fee - byrd-daniel,"(Timestamp('2025-03-10 00:00:00'), 4541.27, 'service fee - byrd-daniel')",Matched
+2025-01-13,600.82,customer refund - brandt ltd,"(Timestamp('2025-01-13 00:00:00'), 600.82, 'customer refund - brandt ltd')",Matched
+2025-01-22,4123.5,"equipment purchase - lopez, haley and blair","(Timestamp('2025-01-22 00:00:00'), 4123.5, 'equipment purchase - lopez, haley and blair')",Matched
+2025-01-22,3851.83,service fee - roberts-torres,"(Timestamp('2025-01-22 00:00:00'), 3851.83, 'service fee - roberts-torres')",Matched
+2025-02-06,4287.77,customer refund - adkins-king,"(Timestamp('2025-02-06 00:00:00'), 4287.77, 'customer refund - adkins-king')",Matched
+2025-02-10,665.94,"insurance payout - johnson, williams and davis","(Timestamp('2025-02-10 00:00:00'), 665.94, 'insurance payout - johnson, williams and davis')",Matched
+2025-01-27,6730.29,"bank charges - howard, miles and lamb","(Timestamp('2025-01-27 00:00:00'), 6730.29, 'bank charges - howard, miles and lamb')",Matched
+2025-03-27,6490.46,equipment purchase - davis ltd,"(Timestamp('2025-03-27 00:00:00'), 6490.46, 'equipment purchase - davis ltd')",Matched
+2025-02-06,1661.69,customer refund - rice plc,"(Timestamp('2025-02-06 00:00:00'), 1661.69, 'customer refund - rice plc')",Matched
+2025-04-01,3094.92,customer refund - michael llc,"(Timestamp('2025-04-01 00:00:00'), 3094.92, 'customer refund - michael llc')",Matched
+2025-01-02,6711.85,"customer refund - jones, daniel and taylor","(Timestamp('2025-01-02 00:00:00'), 6711.85, 'customer refund - jones, daniel and taylor')",Matched
+2025-02-08,9324.38,"vendor payment - barton, cook and moore","(Timestamp('2025-02-08 00:00:00'), 9324.38, 'vendor payment - barton, cook and moore')",Matched
+2025-03-19,2185.23,"bank charges - mcintosh, travis and williams","(Timestamp('2025-03-19 00:00:00'), 2185.23, 'bank charges - mcintosh, travis and williams')",Matched
+2025-01-06,135.1,"office rent - jimenez, williams and silva","(Timestamp('2025-01-06 00:00:00'), 135.1, 'office rent - jimenez, williams and silva')",Matched
+2025-02-26,5561.64,service fee - kirby-villegas,"(Timestamp('2025-02-26 00:00:00'), 5561.64, 'service fee - kirby-villegas')",Matched
+2025-03-13,195.73,"vendor payment - golden, long and escobar","(Timestamp('2025-03-13 00:00:00'), 195.73, 'vendor payment - golden, long and escobar')",Matched
+2025-03-30,9048.89,"customer refund - neal, estrada and hunt","(Timestamp('2025-03-30 00:00:00'), 9048.89, 'customer refund - neal, estrada and hunt')",Matched
+2025-02-22,9740.99,"office rent - navarro, maynard and webster","(Timestamp('2025-02-22 00:00:00'), 9740.99, 'office rent - navarro, maynard and webster')",Matched
+2025-02-14,3121.39,"salary transfer - wright, lin and taylor","(Timestamp('2025-02-14 00:00:00'), 3121.39, 'salary transfer - wright, lin and taylor')",Matched
+2025-01-05,1173.19,service fee - hays-moran,"(Timestamp('2025-01-05 00:00:00'), 1173.19, 'service fee - hays-moran')",Matched
+2025-02-14,7312.6,bank charges - evans-reyes,"(Timestamp('2025-02-14 00:00:00'), 7312.6, 'bank charges - evans-reyes')",Matched
+2025-02-26,4477.38,salary transfer - klein-wilson,"(Timestamp('2025-02-26 00:00:00'), 4477.38, 'salary transfer - klein-wilson')",Matched
+2025-03-26,939.48,"customer refund - miller, sandoval and chan","(Timestamp('2025-03-26 00:00:00'), 939.48, 'customer refund - miller, sandoval and chan')",Matched
+2025-03-26,6366.11,"bank charges - reeves, gamble and bright","(Timestamp('2025-03-26 00:00:00'), 6366.11, 'bank charges - reeves, gamble and bright')",Matched
+2025-01-19,341.81,"salary transfer - poole, dodson and harrison","(Timestamp('2025-01-19 00:00:00'), 341.81, 'salary transfer - poole, dodson and harrison')",Matched
+2025-02-28,4202.97,insurance payout - travis ltd,"(Timestamp('2025-02-28 00:00:00'), 4202.97, 'insurance payout - travis ltd')",Matched
+2025-01-25,7211.62,service fee - aguilar-morales,"(Timestamp('2025-01-25 00:00:00'), 7211.62, 'service fee - aguilar-morales')",Matched
+2025-02-24,2266.53,customer refund - brown-morgan,"(Timestamp('2025-02-24 00:00:00'), 2266.53, 'customer refund - brown-morgan')",Matched
+2025-03-18,3241.25,"equipment purchase - huff, callahan and williams","(Timestamp('2025-03-18 00:00:00'), 3241.25, 'equipment purchase - huff, callahan and williams')",Matched
+2025-02-26,867.09,travel expense - hodges llc,"(Timestamp('2025-02-26 00:00:00'), 867.09, 'travel expense - hodges llc')",Matched
+2025-01-31,2789.98,"bank charges - bass, olsen and boone","(Timestamp('2025-01-31 00:00:00'), 2789.98, 'bank charges - bass, olsen and boone')",Matched
+2025-03-11,897.72,"office rent - buchanan, taylor and lee","(Timestamp('2025-03-11 00:00:00'), 897.72, 'office rent - buchanan, taylor and lee')",Matched
+2025-02-22,3375.73,"equipment purchase - martin, carpenter and little","(Timestamp('2025-02-22 00:00:00'), 3375.73, 'equipment purchase - martin, carpenter and little')",Matched
+2025-01-04,3949.69,service fee - ramirez-cummings,"(Timestamp('2025-01-04 00:00:00'), 3949.69, 'service fee - ramirez-cummings')",Matched
+2025-01-11,6463.22,"office rent - morgan, barron and fletcher","(Timestamp('2025-01-11 00:00:00'), 6463.22, 'office rent - morgan, barron and fletcher')",Matched
+2025-03-01,1899.12,travel expense - johnson and sons,"(Timestamp('2025-03-01 00:00:00'), 1899.12, 'travel expense - johnson and sons')",Matched
+2025-03-25,498.56,invoice payment - jackson and sons,"(Timestamp('2025-03-25 00:00:00'), 498.56, 'invoice payment - jackson and sons')",Matched
+2025-01-15,7800.14,office rent - tucker ltd,"(Timestamp('2025-01-15 00:00:00'), 7800.14, 'office rent - tucker ltd')",Matched
+2025-02-09,1170.18,invoice payment - francis-rodriguez,"(Timestamp('2025-02-09 00:00:00'), 1170.18, 'invoice payment - francis-rodriguez')",Matched
+2025-02-09,5800.39,service fee - berger-garza,"(Timestamp('2025-02-09 00:00:00'), 5800.39, 'service fee - berger-garza')",Matched
+2025-02-20,9420.56,"salary transfer - hernandez, kerr and payne","(Timestamp('2025-02-20 00:00:00'), 9420.56, 'salary transfer - hernandez, kerr and payne')",Matched
+2025-01-14,7002.21,"travel expense - williams, brown and patel","(Timestamp('2025-01-14 00:00:00'), 7002.21, 'travel expense - williams, brown and patel')",Matched
+2025-01-02,8510.8,equipment purchase - ruiz-short,"(Timestamp('2025-01-02 00:00:00'), 8510.8, 'equipment purchase - ruiz-short')",Matched
+2025-03-08,9658.19,travel expense - rodriguez ltd,"(Timestamp('2025-03-08 00:00:00'), 9658.19, 'travel expense - rodriguez ltd')",Matched
+2025-03-20,8101.17,"customer refund - dean, bowman and ramirez","(Timestamp('2025-03-20 00:00:00'), 8101.17, 'customer refund - dean, bowman and ramirez')",Matched
+2025-03-03,4702.25,"insurance payout - goodman, odonnell and washington","(Timestamp('2025-03-03 00:00:00'), 4702.25, 'insurance payout - goodman, odonnell and washington')",Matched
+2025-01-04,4993.63,bank charges - hernandez and sons,"(Timestamp('2025-01-04 00:00:00'), 4993.63, 'bank charges - hernandez and sons')",Matched
+2025-01-24,4926.74,"bank charges - sanchez, nguyen and padilla","(Timestamp('2025-01-24 00:00:00'), 4926.74, 'bank charges - sanchez, nguyen and padilla')",Matched
+2025-01-11,2489.42,service fee - harrison plc,"(Timestamp('2025-01-11 00:00:00'), 2489.42, 'service fee - harrison plc')",Matched
+2025-03-04,5596.24,salary transfer - hopkins and sons,"(Timestamp('2025-03-04 00:00:00'), 5596.24, 'salary transfer - hopkins and sons')",Matched
+2025-03-30,4813.32,equipment purchase - collins group,"(Timestamp('2025-03-30 00:00:00'), 4813.32, 'equipment purchase - collins group')",Matched
+2025-02-07,2293.8,salary transfer - wells-smith,"(Timestamp('2025-02-07 00:00:00'), 2293.8, 'salary transfer - wells-smith')",Matched
+2025-02-13,1925.2,"invoice payment - cruz, roberts and vega","(Timestamp('2025-02-13 00:00:00'), 1925.2, 'invoice payment - cruz, roberts and vega')",Matched
+2025-01-29,7779.37,"service fee - hill, richardson and foster","(Timestamp('2025-01-29 00:00:00'), 7779.37, 'service fee - hill, richardson and foster')",Matched
+2025-01-13,9481.14,"salary transfer - kent, porter and rivera","(Timestamp('2025-01-13 00:00:00'), 9481.14, 'salary transfer - kent, porter and rivera')",Matched
+2025-03-22,2189.15,vendor payment - proctor and sons,"(Timestamp('2025-03-22 00:00:00'), 2189.15, 'vendor payment - proctor and sons')",Matched
+2025-02-07,423.13,travel expense - knight inc,"(Timestamp('2025-02-07 00:00:00'), 423.13, 'travel expense - knight inc')",Matched
+2025-03-24,1575.0,travel expense - yang-anderson,"(Timestamp('2025-03-24 00:00:00'), 1575.0, 'travel expense - yang-anderson')",Matched
+2025-01-19,806.96,"office rent - lopez, sanchez and riley","(Timestamp('2025-01-19 00:00:00'), 806.96, 'office rent - lopez, sanchez and riley')",Matched
+2025-02-06,4447.62,equipment purchase - johnson-lucas,"(Timestamp('2025-02-06 00:00:00'), 4447.62, 'equipment purchase - johnson-lucas')",Matched
+2025-03-30,3110.5,"service fee - humphrey, romero and glover","(Timestamp('2025-03-30 00:00:00'), 3110.5, 'service fee - humphrey, romero and glover')",Matched
+2025-02-04,5054.67,"equipment purchase - flowers, nguyen and brown","(Timestamp('2025-02-04 00:00:00'), 5054.67, 'equipment purchase - flowers, nguyen and brown')",Matched
+2025-02-02,356.06,salary transfer - lowery ltd,"(Timestamp('2025-02-02 00:00:00'), 356.06, 'salary transfer - lowery ltd')",Matched
+2025-03-15,498.29,office rent - gallegos-salinas,"(Timestamp('2025-03-15 00:00:00'), 498.29, 'office rent - gallegos-salinas')",Matched
+2025-02-10,2598.75,vendor payment - garner-martin,"(Timestamp('2025-02-10 00:00:00'), 2598.75, 'vendor payment - garner-martin')",Matched
+2025-02-22,636.62,"customer refund - thomas, wilson and powers","(Timestamp('2025-02-22 00:00:00'), 636.62, 'customer refund - thomas, wilson and powers')",Matched
+2025-02-16,6264.08,equipment purchase - aguilar-foster,"(Timestamp('2025-02-16 00:00:00'), 6264.08, 'equipment purchase - aguilar-foster')",Matched
+2025-01-16,385.81,insurance payout - thompson-baxter,"(Timestamp('2025-01-16 00:00:00'), 385.81, 'insurance payout - thompson-baxter')",Matched
+2025-01-31,7126.85,"travel expense - hayden, greer and english","(Timestamp('2025-01-31 00:00:00'), 7126.85, 'travel expense - hayden, greer and english')",Matched
+2025-03-12,235.38,service fee - garza-jones,"(Timestamp('2025-03-12 00:00:00'), 235.38, 'service fee - garza-jones')",Matched
+2025-01-12,2324.54,vendor payment - brown ltd,"(Timestamp('2025-01-12 00:00:00'), 2324.54, 'vendor payment - brown ltd')",Matched
+2025-02-23,3464.76,"customer refund - boyd, fitzpatrick and carney","(Timestamp('2025-02-23 00:00:00'), 3464.76, 'customer refund - boyd, fitzpatrick and carney')",Matched
+2025-02-04,8223.44,travel expense - martinez plc,"(Timestamp('2025-02-04 00:00:00'), 8223.44, 'travel expense - martinez plc')",Matched
+2025-02-08,8391.01,insurance payout - allen-floyd,"(Timestamp('2025-02-08 00:00:00'), 8391.01, 'insurance payout - allen-floyd')",Matched
+2025-02-12,5563.98,"customer refund - miller, gibson and myers","(Timestamp('2025-02-12 00:00:00'), 5563.98, 'customer refund - miller, gibson and myers')",Matched
+2025-01-06,3249.95,"equipment purchase - barnes, higgins and phillips","(Timestamp('2025-01-06 00:00:00'), 3249.95, 'equipment purchase - barnes, higgins and phillips')",Matched
+2025-02-19,9885.3,office rent - hicks-horn,"(Timestamp('2025-02-19 00:00:00'), 9885.3, 'office rent - hicks-horn')",Matched
+2025-01-13,5306.92,"equipment purchase - shaw, johnson and hodge","(Timestamp('2025-01-13 00:00:00'), 5306.92, 'equipment purchase - shaw, johnson and hodge')",Matched
+2025-03-25,895.12,"bank charges - strickland, moore and duncan","(Timestamp('2025-03-25 00:00:00'), 895.12, 'bank charges - strickland, moore and duncan')",Matched
+2025-01-31,6348.49,travel expense - navarro and sons,"(Timestamp('2025-01-31 00:00:00'), 6348.49, 'travel expense - navarro and sons')",Matched
+2025-01-30,7492.99,service fee - dyer-watson,"(Timestamp('2025-01-30 00:00:00'), 7492.99, 'service fee - dyer-watson')",Matched
+2025-01-13,7627.66,vendor payment - nelson-williams,"(Timestamp('2025-01-13 00:00:00'), 7627.66, 'vendor payment - nelson-williams')",Matched
+2025-02-18,6235.13,salary transfer - collins-cooper,"(Timestamp('2025-02-18 00:00:00'), 6235.13, 'salary transfer - collins-cooper')",Matched
+2025-01-30,4665.38,"travel expense - robinson, kim and mason","(Timestamp('2025-01-30 00:00:00'), 4665.38, 'travel expense - robinson, kim and mason')",Matched
+2025-01-26,9993.8,equipment purchase - cain llc,"(Timestamp('2025-01-26 00:00:00'), 9993.8, 'equipment purchase - cain llc')",Matched
+2025-02-15,5790.64,"travel expense - cook, williams and miller","(Timestamp('2025-02-15 00:00:00'), 5790.64, 'travel expense - cook, williams and miller')",Matched
+2025-01-03,9781.65,service fee - armstrong and sons,"(Timestamp('2025-01-03 00:00:00'), 9781.65, 'service fee - armstrong and sons')",Matched
+2025-02-23,1838.84,office rent - davis ltd,"(Timestamp('2025-02-23 00:00:00'), 1838.84, 'office rent - davis ltd')",Matched
+2025-03-13,3721.17,"service fee - robinson, johnson and elliott","(Timestamp('2025-03-13 00:00:00'), 3721.17, 'service fee - robinson, johnson and elliott')",Matched
+2025-01-02,2718.14,vendor payment - parks-willis,"(Timestamp('2025-01-02 00:00:00'), 2718.14, 'vendor payment - parks-willis')",Matched
+2025-03-16,3872.15,"bank charges - chase, bass and gregory","(Timestamp('2025-03-16 00:00:00'), 3872.15, 'bank charges - chase, bass and gregory')",Matched
+2025-01-14,6780.88,"equipment purchase - peterson, ray and beck","(Timestamp('2025-01-14 00:00:00'), 6780.88, 'equipment purchase - peterson, ray and beck')",Matched
+2025-01-18,3947.59,"bank charges - fernandez, johnson and smith","(Timestamp('2025-01-18 00:00:00'), 3947.59, 'bank charges - fernandez, johnson and smith')",Matched
+2025-02-23,6583.73,equipment purchase - hampton plc,"(Timestamp('2025-02-23 00:00:00'), 6583.73, 'equipment purchase - hampton plc')",Matched
+2025-01-03,600.73,bank charges - richardson ltd,"(Timestamp('2025-01-03 00:00:00'), 600.73, 'bank charges - richardson ltd')",Matched
+2025-01-01,2845.02,office rent - dunn llc,"(Timestamp('2025-01-01 00:00:00'), 2845.02, 'office rent - dunn llc')",Matched
+2025-01-17,247.12,salary transfer - steele-wilson,"(Timestamp('2025-01-17 00:00:00'), 247.12, 'salary transfer - steele-wilson')",Matched
+2025-03-17,3305.34,office rent - fox plc,"(Timestamp('2025-03-17 00:00:00'), 3305.34, 'office rent - fox plc')",Matched
+2025-02-11,6122.14,vendor payment - hamilton-atkinson,"(Timestamp('2025-02-11 00:00:00'), 6122.14, 'vendor payment - hamilton-atkinson')",Matched
+2025-02-10,4324.96,travel expense - perkins group,"(Timestamp('2025-02-10 00:00:00'), 4324.96, 'travel expense - perkins group')",Matched
+2025-01-09,1003.13,vendor payment - watson-marshall,"(Timestamp('2025-01-09 00:00:00'), 1003.13, 'vendor payment - watson-marshall')",Matched
+2025-03-13,3738.85,"travel expense - carter, adams and fuller","(Timestamp('2025-03-13 00:00:00'), 3738.85, 'travel expense - carter, adams and fuller')",Matched
+2025-01-09,1504.56,invoice payment - moses group,"(Timestamp('2025-01-09 00:00:00'), 1504.56, 'invoice payment - moses group')",Matched
+2025-01-12,7486.51,salary transfer - hunter plc,"(Timestamp('2025-01-12 00:00:00'), 7486.51, 'salary transfer - hunter plc')",Matched
+2025-01-21,3763.53,"bank charges - malone, zuniga and gentry","(Timestamp('2025-01-21 00:00:00'), 3763.53, 'bank charges - malone, zuniga and gentry')",Matched
+2025-03-19,4476.24,"travel expense - robinson, lamb and robinson","(Timestamp('2025-03-19 00:00:00'), 4476.24, 'travel expense - robinson, lamb and robinson')",Matched
+2025-02-14,4356.14,"travel expense - watkins, clark and garcia","(Timestamp('2025-02-14 00:00:00'), 4356.14, 'travel expense - watkins, clark and garcia')",Matched
+2025-03-09,6704.61,invoice payment - perry-reed,"(Timestamp('2025-03-09 00:00:00'), 6704.61, 'invoice payment - perry-reed')",Matched
+2025-01-29,4013.11,"insurance payout - lynn, hawkins and stein","(Timestamp('2025-01-29 00:00:00'), 4013.11, 'insurance payout - lynn, hawkins and stein')",Matched
+2025-02-01,4413.2,service fee - mcguire-little,"(Timestamp('2025-02-01 00:00:00'), 4413.2, 'service fee - mcguire-little')",Matched
+2025-02-13,2293.56,"office rent - cohen, walter and padilla","(Timestamp('2025-02-13 00:00:00'), 2293.56, 'office rent - cohen, walter and padilla')",Matched
+2025-03-09,5148.53,"bank charges - guzman, allen and mahoney","(Timestamp('2025-03-09 00:00:00'), 5148.53, 'bank charges - guzman, allen and mahoney')",Matched
+2025-03-25,846.0,equipment purchase - roy group,"(Timestamp('2025-03-25 00:00:00'), 846.0, 'equipment purchase - roy group')",Matched
+2025-03-24,6389.45,"insurance payout - gray, houston and henderson","(Timestamp('2025-03-24 00:00:00'), 6389.45, 'insurance payout - gray, houston and henderson')",Matched
+2025-01-05,663.21,travel expense - freeman and sons,"(Timestamp('2025-01-05 00:00:00'), 663.21, 'travel expense - freeman and sons')",Matched
+2025-01-11,5095.04,office rent - wade ltd,"(Timestamp('2025-01-11 00:00:00'), 5095.04, 'office rent - wade ltd')",Matched
+2025-02-26,5288.28,insurance payout - lopez-mckee,"(Timestamp('2025-02-26 00:00:00'), 5288.28, 'insurance payout - lopez-mckee')",Matched
+2025-03-28,3926.99,"travel expense - howell, maldonado and ho","(Timestamp('2025-03-28 00:00:00'), 3926.99, 'travel expense - howell, maldonado and ho')",Matched
+2025-02-09,5633.33,bank charges - gonzalez-jordan,"(Timestamp('2025-02-09 00:00:00'), 5633.33, 'bank charges - gonzalez-jordan')",Matched
+2025-01-17,6734.15,"customer refund - evans, scott and gonzalez","(Timestamp('2025-01-17 00:00:00'), 6734.15, 'customer refund - evans, scott and gonzalez')",Matched
+2025-02-13,9481.92,equipment purchase - hamilton-hall,"(Timestamp('2025-02-13 00:00:00'), 9481.92, 'equipment purchase - hamilton-hall')",Matched
+2025-01-20,863.93,vendor payment - evans plc,"(Timestamp('2025-01-20 00:00:00'), 863.93, 'vendor payment - evans plc')",Matched
+2025-01-05,6653.1,insurance payout - myers-johnson,"(Timestamp('2025-01-05 00:00:00'), 6653.1, 'insurance payout - myers-johnson')",Matched
+2025-02-26,6144.89,"equipment purchase - smith, maddox and smith","(Timestamp('2025-02-26 00:00:00'), 6144.89, 'equipment purchase - smith, maddox and smith')",Matched
+2025-02-17,6815.24,insurance payout - smith group,"(Timestamp('2025-02-17 00:00:00'), 6815.24, 'insurance payout - smith group')",Matched
+2025-02-26,4670.63,"travel expense - davis, kane and walker","(Timestamp('2025-02-26 00:00:00'), 4670.63, 'travel expense - davis, kane and walker')",Matched
+2025-01-21,8187.22,insurance payout - brown-villa,"(Timestamp('2025-01-21 00:00:00'), 8187.22, 'insurance payout - brown-villa')",Matched
+2025-01-29,8185.36,bank charges - cook-ho,"(Timestamp('2025-01-29 00:00:00'), 8185.36, 'bank charges - cook-ho')",Matched
+2025-01-04,4207.48,service fee - gonzales-young,"(Timestamp('2025-01-04 00:00:00'), 4207.48, 'service fee - gonzales-young')",Matched
+2025-03-06,3802.22,service fee - robles group,"(Timestamp('2025-03-06 00:00:00'), 3802.22, 'service fee - robles group')",Matched
+2025-03-09,4290.22,travel expense - burns-green,"(Timestamp('2025-03-09 00:00:00'), 4290.22, 'travel expense - burns-green')",Matched
+2025-02-28,721.79,equipment purchase - reilly llc,"(Timestamp('2025-02-28 00:00:00'), 721.79, 'equipment purchase - reilly llc')",Matched
+2025-03-15,2495.19,office rent - wagner-long,"(Timestamp('2025-03-15 00:00:00'), 2495.19, 'office rent - wagner-long')",Matched
+2025-03-09,9749.08,vendor payment - garcia group,"(Timestamp('2025-03-09 00:00:00'), 9749.08, 'vendor payment - garcia group')",Matched
+2025-01-06,6393.14,bank charges - reilly-herring,"(Timestamp('2025-01-06 00:00:00'), 6393.14, 'bank charges - reilly-herring')",Matched
+2025-03-16,7378.35,"bank charges - webster, johnson and andrews","(Timestamp('2025-03-16 00:00:00'), 7378.35, 'bank charges - webster, johnson and andrews')",Matched
+2025-03-22,1904.55,"office rent - martin, frank and wilkinson","(Timestamp('2025-03-22 00:00:00'), 1904.55, 'office rent - martin, frank and wilkinson')",Matched
+2025-01-09,7188.85,equipment purchase - parker plc,"(Timestamp('2025-01-09 00:00:00'), 7188.85, 'equipment purchase - parker plc')",Matched
+2025-02-13,9739.86,"equipment purchase - thompson, johnson and taylor","(Timestamp('2025-02-13 00:00:00'), 9739.86, 'equipment purchase - thompson, johnson and taylor')",Matched
+2025-03-30,5025.48,customer refund - johnson-thompson,"(Timestamp('2025-03-30 00:00:00'), 5025.48, 'customer refund - johnson-thompson')",Matched
+2025-02-04,8031.37,service fee - livingston-stokes,"(Timestamp('2025-02-04 00:00:00'), 8031.37, 'service fee - livingston-stokes')",Matched
+2025-01-11,3346.41,"travel expense - rodriguez, williamson and patterson","(Timestamp('2025-01-11 00:00:00'), 3346.41, 'travel expense - rodriguez, williamson and patterson')",Matched
+2025-01-22,6928.67,bank charges - banks ltd,"(Timestamp('2025-01-22 00:00:00'), 6928.67, 'bank charges - banks ltd')",Matched
+2025-03-23,9802.27,invoice payment - hill-williams,"(Timestamp('2025-03-23 00:00:00'), 9802.27, 'invoice payment - hill-williams')",Matched
+2025-02-16,5179.55,"office rent - cole, roberts and park","(Timestamp('2025-02-16 00:00:00'), 5179.55, 'office rent - cole, roberts and park')",Matched
+2025-04-01,4518.1,"insurance payout - trevino, hall and johnson","(Timestamp('2025-04-01 00:00:00'), 4518.1, 'insurance payout - trevino, hall and johnson')",Matched
+2025-02-06,6970.41,equipment purchase - harrell-day,"(Timestamp('2025-02-06 00:00:00'), 6970.41, 'equipment purchase - harrell-day')",Matched
+2025-01-26,1314.11,vendor payment - williams group,"(Timestamp('2025-01-26 00:00:00'), 1314.11, 'vendor payment - williams group')",Matched
+2025-02-27,1809.3,equipment purchase - maxwell-flynn,"(Timestamp('2025-02-27 00:00:00'), 1809.3, 'equipment purchase - maxwell-flynn')",Matched
+2025-03-15,3752.22,customer refund - freeman inc,"(Timestamp('2025-03-15 00:00:00'), 3752.22, 'customer refund - freeman inc')",Matched
+2025-01-17,6158.29,vendor payment - ochoa-thompson,"(Timestamp('2025-01-17 00:00:00'), 6158.29, 'vendor payment - ochoa-thompson')",Matched
+2025-03-09,4166.87,"service fee - paul, gray and schmidt","(Timestamp('2025-03-09 00:00:00'), 4166.87, 'service fee - paul, gray and schmidt')",Matched
+2025-01-26,6387.07,customer refund - murray ltd,"(Timestamp('2025-01-26 00:00:00'), 6387.07, 'customer refund - murray ltd')",Matched
+2025-01-20,1794.89,"insurance payout - richard, kelly and hall","(Timestamp('2025-01-20 00:00:00'), 1794.89, 'insurance payout - richard, kelly and hall')",Matched
+2025-03-19,3442.43,insurance payout - clarke llc,"(Timestamp('2025-03-19 00:00:00'), 3442.43, 'insurance payout - clarke llc')",Matched
+2025-02-23,6219.27,invoice payment - jackson-davis,"(Timestamp('2025-02-23 00:00:00'), 6219.27, 'invoice payment - jackson-davis')",Matched
+2025-02-07,6454.88,"travel expense - ramirez, camacho and bowman","(Timestamp('2025-02-07 00:00:00'), 6454.88, 'travel expense - ramirez, camacho and bowman')",Matched
+2025-03-03,2524.29,service fee - may-shepard,"(Timestamp('2025-03-03 00:00:00'), 2524.29, 'service fee - may-shepard')",Matched
+2025-01-21,4452.09,equipment purchase - taylor-kennedy,"(Timestamp('2025-01-21 00:00:00'), 4452.09, 'equipment purchase - taylor-kennedy')",Matched
+2025-02-10,2493.2,vendor payment - glover and sons,"(Timestamp('2025-02-10 00:00:00'), 2493.2, 'vendor payment - glover and sons')",Matched
+2025-01-25,7654.9,"equipment purchase - brown, ballard and wilson","(Timestamp('2025-01-25 00:00:00'), 7654.9, 'equipment purchase - brown, ballard and wilson')",Matched
+2025-01-07,2885.43,insurance payout - chase-mercer,"(Timestamp('2025-01-07 00:00:00'), 2885.43, 'insurance payout - chase-mercer')",Matched
+2025-01-06,4065.76,insurance payout - roberts plc,"(Timestamp('2025-01-06 00:00:00'), 4065.76, 'insurance payout - roberts plc')",Matched
+2025-02-27,7667.6,"travel expense - sloan, smith and russo","(Timestamp('2025-02-27 00:00:00'), 7667.6, 'travel expense - sloan, smith and russo')",Matched
+2025-03-13,9395.59,office rent - villanueva llc,"(Timestamp('2025-03-13 00:00:00'), 9395.59, 'office rent - villanueva llc')",Matched
+2025-02-10,1708.77,insurance payout - torres plc,"(Timestamp('2025-02-10 00:00:00'), 1708.77, 'insurance payout - torres plc')",Matched
+2025-03-07,5370.16,insurance payout - townsend group,"(Timestamp('2025-03-07 00:00:00'), 5370.16, 'insurance payout - townsend group')",Matched
+2025-03-22,7239.71,service fee - martinez plc,"(Timestamp('2025-03-22 00:00:00'), 7239.71, 'service fee - martinez plc')",Matched
+2025-03-02,8740.9,"invoice payment - romero, lawrence and hicks","(Timestamp('2025-03-02 00:00:00'), 8740.9, 'invoice payment - romero, lawrence and hicks')",Matched
+2025-02-08,7734.63,salary transfer - anderson ltd,"(Timestamp('2025-02-08 00:00:00'), 7734.63, 'salary transfer - anderson ltd')",Matched
+2025-02-07,516.46,vendor payment - chambers group,"(Timestamp('2025-02-07 00:00:00'), 516.46, 'vendor payment - chambers group')",Matched
+2025-03-03,2218.47,"customer refund - graves, cox and cook","(Timestamp('2025-03-03 00:00:00'), 2218.47, 'customer refund - graves, cox and cook')",Matched
+2025-01-13,4191.68,equipment purchase - larson-jordan,"(Timestamp('2025-01-13 00:00:00'), 4191.68, 'equipment purchase - larson-jordan')",Matched
+2025-02-22,6563.64,equipment purchase - ryan and sons,"(Timestamp('2025-02-22 00:00:00'), 6563.64, 'equipment purchase - ryan and sons')",Matched
+2025-01-23,4237.06,office rent - everett llc,"(Timestamp('2025-01-23 00:00:00'), 4237.06, 'office rent - everett llc')",Matched
+2025-02-06,4598.06,"customer refund - payne, wiggins and foster","(Timestamp('2025-02-06 00:00:00'), 4598.06, 'customer refund - payne, wiggins and foster')",Matched
+2025-03-06,4733.41,salary transfer - williams llc,"(Timestamp('2025-03-06 00:00:00'), 4733.41, 'salary transfer - williams llc')",Matched
+2025-01-15,3373.77,equipment purchase - livingston-roy,"(Timestamp('2025-01-15 00:00:00'), 3373.77, 'equipment purchase - livingston-roy')",Matched
+2025-03-24,2646.92,"office rent - clark, nelson and salas","(Timestamp('2025-03-24 00:00:00'), 2646.92, 'office rent - clark, nelson and salas')",Matched
+2025-02-08,5866.36,insurance payout - cochran-davis,"(Timestamp('2025-02-08 00:00:00'), 5866.36, 'insurance payout - cochran-davis')",Matched
+2025-01-02,2689.38,"bank charges - phelps, keith and mendoza","(Timestamp('2025-01-02 00:00:00'), 2689.38, 'bank charges - phelps, keith and mendoza')",Matched
+2025-03-29,5074.95,travel expense - miller-bennett,"(Timestamp('2025-03-29 00:00:00'), 5074.95, 'travel expense - miller-bennett')",Matched
+2025-01-28,5825.28,invoice payment - irwin inc,"(Timestamp('2025-01-28 00:00:00'), 5825.28, 'invoice payment - irwin inc')",Matched
+2025-03-11,9941.82,vendor payment - dougherty llc,"(Timestamp('2025-03-11 00:00:00'), 9941.82, 'vendor payment - dougherty llc')",Matched
+2025-03-02,414.18,service fee - gould and sons,"(Timestamp('2025-03-02 00:00:00'), 414.18, 'service fee - gould and sons')",Matched
+2025-02-17,9929.28,"service fee - kent, velez and mcdonald","(Timestamp('2025-02-17 00:00:00'), 9929.28, 'service fee - kent, velez and mcdonald')",Matched
+2025-02-18,894.47,customer refund - ballard-cardenas,"(Timestamp('2025-02-18 00:00:00'), 894.47, 'customer refund - ballard-cardenas')",Matched
+2025-01-18,6569.99,bank charges - scott-burgess,"(Timestamp('2025-01-18 00:00:00'), 6569.99, 'bank charges - scott-burgess')",Matched
+2025-03-01,6767.65,customer refund - scott-cunningham,"(Timestamp('2025-03-01 00:00:00'), 6767.65, 'customer refund - scott-cunningham')",Matched
+2025-02-05,1965.96,vendor payment - spencer-carter,"(Timestamp('2025-02-05 00:00:00'), 1965.96, 'vendor payment - spencer-carter')",Matched
+2025-01-05,8113.83,"service fee - bell, carroll and johnson","(Timestamp('2025-01-05 00:00:00'), 8113.83, 'service fee - bell, carroll and johnson')",Matched
+2025-01-31,2140.21,"vendor payment - moore, harrison and rose","(Timestamp('2025-01-31 00:00:00'), 2140.21, 'vendor payment - moore, harrison and rose')",Matched
+2025-03-28,7062.53,"invoice payment - sanchez, harrison and garcia","(Timestamp('2025-03-28 00:00:00'), 7062.53, 'invoice payment - sanchez, harrison and garcia')",Matched
+2025-02-26,2419.96,salary transfer - garcia llc,"(Timestamp('2025-02-26 00:00:00'), 2419.96, 'salary transfer - garcia llc')",Matched
+2025-01-30,8176.28,insurance payout - barton and sons,"(Timestamp('2025-01-30 00:00:00'), 8176.28, 'insurance payout - barton and sons')",Matched
+2025-03-26,5260.39,"service fee - browning, nelson and mason","(Timestamp('2025-03-26 00:00:00'), 5260.39, 'service fee - browning, nelson and mason')",Matched
+2025-03-22,6819.63,"customer refund - melton, molina and pugh","(Timestamp('2025-03-22 00:00:00'), 6819.63, 'customer refund - melton, molina and pugh')",Matched
+2025-01-20,3068.9,"office rent - wilson, romero and barrett","(Timestamp('2025-01-20 00:00:00'), 3068.9, 'office rent - wilson, romero and barrett')",Matched
+2025-03-01,9155.94,customer refund - oliver ltd,"(Timestamp('2025-03-01 00:00:00'), 9155.94, 'customer refund - oliver ltd')",Matched
+2025-02-27,8486.62,"vendor payment - dyer, gomez and morgan","(Timestamp('2025-02-27 00:00:00'), 8486.62, 'vendor payment - dyer, gomez and morgan')",Matched
+2025-03-27,5632.62,equipment purchase - robertson inc,"(Timestamp('2025-03-27 00:00:00'), 5632.62, 'equipment purchase - robertson inc')",Matched
+2025-02-08,9574.5,"invoice payment - powell, singh and bryant","(Timestamp('2025-02-08 00:00:00'), 9574.5, 'invoice payment - powell, singh and bryant')",Matched
+2025-04-01,2124.68,salary transfer - schneider group,"(Timestamp('2025-04-01 00:00:00'), 2124.68, 'salary transfer - schneider group')",Matched
+2025-03-12,3283.99,travel expense - anderson-myers,"(Timestamp('2025-03-12 00:00:00'), 3283.99, 'travel expense - anderson-myers')",Matched
+2025-03-05,4713.44,"equipment purchase - ellis, byrd and watson","(Timestamp('2025-03-05 00:00:00'), 4713.44, 'equipment purchase - ellis, byrd and watson')",Matched
+2025-01-29,7438.4,invoice payment - baker and sons,"(Timestamp('2025-01-29 00:00:00'), 7438.4, 'invoice payment - baker and sons')",Matched
+2025-02-03,5577.78,insurance payout - lawrence-garcia,"(Timestamp('2025-02-03 00:00:00'), 5577.78, 'insurance payout - lawrence-garcia')",Matched
+2025-01-22,1485.59,"customer refund - mcdonald, velasquez and higgins","(Timestamp('2025-01-22 00:00:00'), 1485.59, 'customer refund - mcdonald, velasquez and higgins')",Matched
+2025-03-04,1922.07,"customer refund - porter, reynolds and nolan","(Timestamp('2025-03-04 00:00:00'), 1922.07, 'customer refund - porter, reynolds and nolan')",Matched
+2025-01-08,6216.57,insurance payout - arnold and sons,"(Timestamp('2025-01-08 00:00:00'), 6216.57, 'insurance payout - arnold and sons')",Matched
+2025-01-23,1159.46,vendor payment - nunez llc,"(Timestamp('2025-01-23 00:00:00'), 1159.46, 'vendor payment - nunez llc')",Matched
+2025-03-14,2507.76,"salary transfer - cox, brown and rodriguez","(Timestamp('2025-03-14 00:00:00'), 2507.76, 'salary transfer - cox, brown and rodriguez')",Matched
+2025-03-25,9917.58,"invoice payment - powell, hayes and malone","(Timestamp('2025-03-25 00:00:00'), 9917.58, 'invoice payment - powell, hayes and malone')",Matched
+2025-03-14,9775.56,vendor payment - mcmahon-kelly,"(Timestamp('2025-03-14 00:00:00'), 9775.56, 'vendor payment - mcmahon-kelly')",Matched
+2025-03-29,9263.29,"customer refund - meyer, allen and davis","(Timestamp('2025-03-29 00:00:00'), 9263.29, 'customer refund - meyer, allen and davis')",Matched
+2025-01-10,3062.84,"insurance payout - carroll, webb and bradley","(Timestamp('2025-01-10 00:00:00'), 3062.84, 'insurance payout - carroll, webb and bradley')",Matched
+2025-02-20,9692.31,bank charges - tucker inc,"(Timestamp('2025-02-20 00:00:00'), 9692.31, 'bank charges - tucker inc')",Matched
+2025-03-18,7865.94,"service fee - mora, hall and acevedo","(Timestamp('2025-03-18 00:00:00'), 7865.94, 'service fee - mora, hall and acevedo')",Matched
+2025-01-02,2989.29,service fee - kidd group,"(Timestamp('2025-01-02 00:00:00'), 2989.29, 'service fee - kidd group')",Matched
+2025-02-01,5762.41,office rent - walsh-robertson,"(Timestamp('2025-02-01 00:00:00'), 5762.41, 'office rent - walsh-robertson')",Matched
+2025-01-19,726.34,service fee - smith-gordon,"(Timestamp('2025-01-19 00:00:00'), 726.34, 'service fee - smith-gordon')",Matched
+2025-02-08,167.0,service fee - perez inc,"(Timestamp('2025-02-08 00:00:00'), 167.0, 'service fee - perez inc')",Matched
+2025-03-15,7841.55,bank charges - benson-hicks,"(Timestamp('2025-03-15 00:00:00'), 7841.55, 'bank charges - benson-hicks')",Matched
+2025-03-16,4067.97,"customer refund - hernandez, barron and silva","(Timestamp('2025-03-16 00:00:00'), 4067.97, 'customer refund - hernandez, barron and silva')",Matched
+2025-03-18,6417.99,"vendor payment - richardson, farmer and wallace","(Timestamp('2025-03-18 00:00:00'), 6417.99, 'vendor payment - richardson, farmer and wallace')",Matched
+2025-03-13,5847.13,"insurance payout - lee, powell and boyd","(Timestamp('2025-03-13 00:00:00'), 5847.13, 'insurance payout - lee, powell and boyd')",Matched
+2025-01-04,4879.43,travel expense - rose-harrell,"(Timestamp('2025-01-04 00:00:00'), 4879.43, 'travel expense - rose-harrell')",Matched
+2025-02-23,9213.42,"vendor payment - davis, brock and stanton","(Timestamp('2025-02-23 00:00:00'), 9213.42, 'vendor payment - davis, brock and stanton')",Matched
+2025-01-27,5259.04,bank charges - howard-hernandez,"(Timestamp('2025-01-27 00:00:00'), 5259.04, 'bank charges - howard-hernandez')",Matched
+2025-03-24,1182.69,"office rent - nelson, branch and nguyen","(Timestamp('2025-03-24 00:00:00'), 1182.69, 'office rent - nelson, branch and nguyen')",Matched
+2025-01-21,3376.8,service fee - parks-murphy,"(Timestamp('2025-01-21 00:00:00'), 3376.8, 'service fee - parks-murphy')",Matched
+2025-03-01,2395.37,"service fee - anderson, bautista and medina","(Timestamp('2025-03-01 00:00:00'), 2395.37, 'service fee - anderson, bautista and medina')",Matched
+2025-02-19,144.06,"salary transfer - cuevas, robles and perry","(Timestamp('2025-02-19 00:00:00'), 144.06, 'salary transfer - cuevas, robles and perry')",Matched
+2025-01-27,2855.61,vendor payment - hancock-ellison,"(Timestamp('2025-01-27 00:00:00'), 2855.61, 'vendor payment - hancock-ellison')",Matched
+2025-03-15,1107.35,customer refund - combs llc,"(Timestamp('2025-03-15 00:00:00'), 1107.35, 'customer refund - combs llc')",Matched
+2025-02-28,1228.15,equipment purchase - fisher-calderon,"(Timestamp('2025-02-28 00:00:00'), 1228.15, 'equipment purchase - fisher-calderon')",Matched
+2025-03-09,9662.57,bank charges - marshall-morris,"(Timestamp('2025-03-09 00:00:00'), 9662.57, 'bank charges - marshall-morris')",Matched
+2025-03-17,1230.9,bank charges - brown group,"(Timestamp('2025-03-17 00:00:00'), 1230.9, 'bank charges - brown group')",Matched
+2025-03-20,5942.67,office rent - casey plc,"(Timestamp('2025-03-20 00:00:00'), 5942.67, 'office rent - casey plc')",Matched
+2025-01-15,1912.14,office rent - prince ltd,"(Timestamp('2025-01-15 00:00:00'), 1912.14, 'office rent - prince ltd')",Matched
+2025-01-18,1952.28,"equipment purchase - faulkner, cooper and mcbride","(Timestamp('2025-01-18 00:00:00'), 1952.28, 'equipment purchase - faulkner, cooper and mcbride')",Matched
+2025-01-02,4897.63,salary transfer - avila-robertson,"(Timestamp('2025-01-02 00:00:00'), 4897.63, 'salary transfer - avila-robertson')",Matched
+2025-02-23,7130.41,"equipment purchase - charles, mills and baker","(Timestamp('2025-02-23 00:00:00'), 7130.41, 'equipment purchase - charles, mills and baker')",Matched
+2025-01-14,7386.29,salary transfer - martinez-mckay,"(Timestamp('2025-01-14 00:00:00'), 7386.29, 'salary transfer - martinez-mckay')",Matched
+2025-02-08,8760.62,invoice payment - gonzalez plc,"(Timestamp('2025-02-08 00:00:00'), 8760.62, 'invoice payment - gonzalez plc')",Matched
+2025-02-26,8666.38,"vendor payment - watkins, benson and price","(Timestamp('2025-02-26 00:00:00'), 8666.38, 'vendor payment - watkins, benson and price')",Matched
+2025-01-18,7870.01,salary transfer - brown-andersen,"(Timestamp('2025-01-18 00:00:00'), 7870.01, 'salary transfer - brown-andersen')",Matched
+2025-01-08,5743.74,customer refund - ray-garcia,"(Timestamp('2025-01-08 00:00:00'), 5743.74, 'customer refund - ray-garcia')",Matched
+2025-02-11,9792.1,travel expense - hartman-stanley,"(Timestamp('2025-02-11 00:00:00'), 9792.1, 'travel expense - hartman-stanley')",Matched
+2025-03-25,1356.19,office rent - jackson-west,"(Timestamp('2025-03-25 00:00:00'), 1356.19, 'office rent - jackson-west')",Matched
+2025-03-30,9369.73,"bank charges - lewis, martinez and rodriguez","(Timestamp('2025-03-30 00:00:00'), 9369.73, 'bank charges - lewis, martinez and rodriguez')",Matched
+2025-02-13,5518.37,"office rent - brown, williams and tran","(Timestamp('2025-02-13 00:00:00'), 5518.37, 'office rent - brown, williams and tran')",Matched
+2025-03-14,8538.98,"bank charges - williams, davis and frazier","(Timestamp('2025-03-14 00:00:00'), 8538.98, 'bank charges - williams, davis and frazier')",Matched
+2025-01-13,6299.18,"equipment purchase - rojas, hodges and williams","(Timestamp('2025-01-13 00:00:00'), 6299.18, 'equipment purchase - rojas, hodges and williams')",Matched
+2025-01-07,4023.78,travel expense - goodwin ltd,"(Timestamp('2025-01-07 00:00:00'), 4023.78, 'travel expense - goodwin ltd')",Matched
+2025-01-01,2212.87,vendor payment - phillips-west,"(Timestamp('2025-01-01 00:00:00'), 2212.87, 'vendor payment - phillips-west')",Matched
+2025-01-14,1121.7,"bank charges - carlson, morrison and smith","(Timestamp('2025-01-14 00:00:00'), 1121.7, 'bank charges - carlson, morrison and smith')",Matched
+2025-02-08,1457.58,"office rent - frazier, gibson and baker","(Timestamp('2025-02-08 00:00:00'), 1457.58, 'office rent - frazier, gibson and baker')",Matched
+2025-03-20,6535.2,"equipment purchase - wilson, hill and coleman","(Timestamp('2025-03-20 00:00:00'), 6535.2, 'equipment purchase - wilson, hill and coleman')",Matched
+2025-02-22,6199.15,"equipment purchase - kelly, clark and beck","(Timestamp('2025-02-22 00:00:00'), 6199.15, 'equipment purchase - kelly, clark and beck')",Matched
+2025-02-05,6481.74,"salary transfer - foster, cook and myers","(Timestamp('2025-02-05 00:00:00'), 6481.74, 'salary transfer - foster, cook and myers')",Matched
+2025-01-10,5330.04,invoice payment - norris ltd,"(Timestamp('2025-01-10 00:00:00'), 5330.04, 'invoice payment - norris ltd')",Matched
+2025-02-23,3717.58,"office rent - watson, stewart and reeves","(Timestamp('2025-02-23 00:00:00'), 3717.58, 'office rent - watson, stewart and reeves')",Matched
+2025-02-09,882.31,salary transfer - fields-richmond,"(Timestamp('2025-02-09 00:00:00'), 882.31, 'salary transfer - fields-richmond')",Matched
+2025-02-09,7016.89,salary transfer - fuller-peterson,"(Timestamp('2025-02-09 00:00:00'), 7016.89, 'salary transfer - fuller-peterson')",Matched
+2025-01-08,2520.35,"service fee - molina, durham and aguirre","(Timestamp('2025-01-08 00:00:00'), 2520.35, 'service fee - molina, durham and aguirre')",Matched
+2025-01-22,3781.51,travel expense - newman ltd,"(Timestamp('2025-01-22 00:00:00'), 3781.51, 'travel expense - newman ltd')",Matched
+2025-01-16,7737.16,"invoice payment - villarreal, becker and schmidt","(Timestamp('2025-01-16 00:00:00'), 7737.16, 'invoice payment - villarreal, becker and schmidt')",Matched
+2025-03-09,732.33,insurance payout - campbell-garcia,"(Timestamp('2025-03-09 00:00:00'), 732.33, 'insurance payout - campbell-garcia')",Matched
+2025-03-22,862.99,equipment purchase - kelly plc,"(Timestamp('2025-03-22 00:00:00'), 862.99, 'equipment purchase - kelly plc')",Matched
+2025-02-01,555.22,"bank charges - salazar, phillips and bishop","(Timestamp('2025-02-01 00:00:00'), 555.22, 'bank charges - salazar, phillips and bishop')",Matched
+2025-02-19,9210.24,"office rent - bailey, flores and gomez","(Timestamp('2025-02-19 00:00:00'), 9210.24, 'office rent - bailey, flores and gomez')",Matched
+2025-01-05,5573.36,service fee - anderson-hardy,"(Timestamp('2025-01-05 00:00:00'), 5573.36, 'service fee - anderson-hardy')",Matched
+2025-02-10,2785.45,"vendor payment - guzman, meyer and clark","(Timestamp('2025-02-10 00:00:00'), 2785.45, 'vendor payment - guzman, meyer and clark')",Matched
+2025-01-29,8062.95,invoice payment - price ltd,"(Timestamp('2025-01-29 00:00:00'), 8062.95, 'invoice payment - price ltd')",Matched
+2025-02-11,955.22,equipment purchase - aguirre inc,"(Timestamp('2025-02-11 00:00:00'), 955.22, 'equipment purchase - aguirre inc')",Matched
+2025-03-23,8411.78,invoice payment - arroyo-glass,"(Timestamp('2025-03-23 00:00:00'), 8411.78, 'invoice payment - arroyo-glass')",Matched
+2025-02-12,114.47,service fee - simon group,"(Timestamp('2025-02-12 00:00:00'), 114.47, 'service fee - simon group')",Matched
+2025-01-31,4256.18,invoice payment - conner-jones,"(Timestamp('2025-01-31 00:00:00'), 4256.18, 'invoice payment - conner-jones')",Matched
+2025-01-06,9220.62,"customer refund - cannon, woodard and lopez","(Timestamp('2025-01-06 00:00:00'), 9220.62, 'customer refund - cannon, woodard and lopez')",Matched
+2025-03-17,5721.43,service fee - howell plc,"(Timestamp('2025-03-17 00:00:00'), 5721.43, 'service fee - howell plc')",Matched
+2025-02-03,8539.57,vendor payment - davis and sons,"(Timestamp('2025-02-03 00:00:00'), 8539.57, 'vendor payment - davis and sons')",Matched
+2025-01-28,8375.66,"bank charges - underwood, bates and jensen","(Timestamp('2025-01-28 00:00:00'), 8375.66, 'bank charges - underwood, bates and jensen')",Matched
+2025-03-28,3058.52,office rent - keller plc,"(Timestamp('2025-03-28 00:00:00'), 3058.52, 'office rent - keller plc')",Matched
+2025-02-17,6894.22,vendor payment - ritter inc,"(Timestamp('2025-02-17 00:00:00'), 6894.22, 'vendor payment - ritter inc')",Matched
+2025-01-03,9971.9,salary transfer - johnson-gibson,"(Timestamp('2025-01-03 00:00:00'), 9971.9, 'salary transfer - johnson-gibson')",Matched
+2025-03-05,391.87,service fee - sanders llc,"(Timestamp('2025-03-05 00:00:00'), 391.87, 'service fee - sanders llc')",Matched
+2025-01-23,3604.04,"office rent - hayes, williams and henson","(Timestamp('2025-01-23 00:00:00'), 3604.04, 'office rent - hayes, williams and henson')",Matched
+2025-01-18,4250.42,"customer refund - mckenzie, farmer and berry","(Timestamp('2025-01-18 00:00:00'), 4250.42, 'customer refund - mckenzie, farmer and berry')",Matched
+2025-03-03,5490.73,"equipment purchase - hill, burch and abbott","(Timestamp('2025-03-03 00:00:00'), 5490.73, 'equipment purchase - hill, burch and abbott')",Matched
+2025-02-14,9135.5,customer refund - yang llc,"(Timestamp('2025-02-14 00:00:00'), 9135.5, 'customer refund - yang llc')",Matched
+2025-02-11,3944.97,"office rent - owens, figueroa and taylor","(Timestamp('2025-02-11 00:00:00'), 3944.97, 'office rent - owens, figueroa and taylor')",Matched
+2025-01-29,5799.35,service fee - hart llc,"(Timestamp('2025-01-29 00:00:00'), 5799.35, 'service fee - hart llc')",Matched
+2025-01-23,2441.86,"bank charges - mills, perez and jimenez","(Timestamp('2025-01-23 00:00:00'), 2441.86, 'bank charges - mills, perez and jimenez')",Matched
+2025-03-19,2266.21,customer refund - daniel-olsen,"(Timestamp('2025-03-19 00:00:00'), 2266.21, 'customer refund - daniel-olsen')",Matched
+2025-04-01,9180.52,vendor payment - may ltd,"(Timestamp('2025-04-01 00:00:00'), 9180.52, 'vendor payment - may ltd')",Matched
+2025-02-17,7074.93,service fee - may-massey,"(Timestamp('2025-02-17 00:00:00'), 7074.93, 'service fee - may-massey')",Matched
+2025-03-17,1100.22,travel expense - harris-yu,"(Timestamp('2025-03-17 00:00:00'), 1100.22, 'travel expense - harris-yu')",Matched
+2025-02-11,1450.87,office rent - stevens-brown,"(Timestamp('2025-02-11 00:00:00'), 1450.87, 'office rent - stevens-brown')",Matched
+2025-01-23,3846.0,travel expense - houston-smith,"(Timestamp('2025-01-23 00:00:00'), 3846.0, 'travel expense - houston-smith')",Matched
+2025-03-31,9492.11,service fee - ortiz-leach,"(Timestamp('2025-03-31 00:00:00'), 9492.11, 'service fee - ortiz-leach')",Matched
+2025-01-29,6432.5,vendor payment - howell-preston,"(Timestamp('2025-01-29 00:00:00'), 6432.5, 'vendor payment - howell-preston')",Matched
+2025-03-05,1492.37,vendor payment - hancock-hall,"(Timestamp('2025-03-05 00:00:00'), 1492.37, 'vendor payment - hancock-hall')",Matched
+2025-01-22,6398.25,vendor payment - fleming-walters,"(Timestamp('2025-01-22 00:00:00'), 6398.25, 'vendor payment - fleming-walters')",Matched
+2025-01-13,8305.19,"insurance payout - white, boyd and mccormick","(Timestamp('2025-01-13 00:00:00'), 8305.19, 'insurance payout - white, boyd and mccormick')",Matched
+2025-04-01,3094.92,customer refund - michael llc,"(Timestamp('2025-04-01 00:00:00'), 3094.92, 'customer refund - michael llc')",Matched
+2025-01-12,2324.54,vendor payment - brown ltd,"(Timestamp('2025-01-12 00:00:00'), 2324.54, 'vendor payment - brown ltd')",Matched
+2025-02-01,2309.79,"vendor payment - nelson, lowe and price",,Only in Bank
+2025-03-28,7432.61,customer refund - lynch inc,,Only in Bank
+2025-01-12,5945.88,invoice payment - hale llc,,Only in Bank
+2025-03-06,6059.99,customer refund - weber inc,,Only in Bank
+2025-02-23,2282.36,"insurance payout - roberts, park and schneider",,Only in Bank
+2025-02-05,8113.36,invoice payment - collins llc,,Only in Bank
+2025-01-14,1018.18,vendor payment - reyes llc,,Only in Bank
+2025-03-10,1335.78,service fee - foster-thomas,,Only in Bank
+2025-01-11,5565.2,insurance payout - frederick group,,Only in Bank
+2025-02-16,5815.79,vendor payment - anderson-jones,,Only in Bank
+2025-01-11,8567.65,vendor payment - powers plc,,Only in Bank
+2025-01-21,3764.79,salary transfer - collins-johnson,,Only in Bank
+2025-03-27,2743.08,vendor payment - richardson-sampson,,Only in Bank
+2025-03-19,6386.29,customer refund - rodriguez-charles,,Only in Bank
+2025-02-04,9896.28,customer refund - welch plc,,Only in Bank
+2025-01-29,6877.68,invoice payment - nelson llc,,Only in Bank
+2025-01-30,8235.85,bank charges - burke ltd,,Only in Bank
+2025-01-28,6588.84,service fee - summers and sons,,Only in Bank
+2025-01-18,2541.61,"customer refund - soto, wilson and young",,Only in Bank
+2025-03-07,4985.81,invoice payment - palmer-holland,,Only in Bank
+2025-01-15,1613.13,office rent - cross-li,,Only in Bank
+2025-03-29,4279.38,vendor payment - cameron ltd,,Only in Bank
+2025-02-19,3878.03,"equipment purchase - tran, lopez and villa",,Only in Bank
+2025-03-29,8859.41,travel expense - cameron ltd,,Only in Bank
+2025-02-25,1665.76,invoice payment - noble-jensen,,Only in Bank
+2025-02-03,9721.69,"office rent - schneider, lee and gomez",,Only in Bank
+2025-03-23,5125.86,"salary transfer - graham, walker and jones",,Only in Bank
+2025-01-20,3801.75,"office rent - smith, perez and rogers",,Only in Bank
+2025-03-11,9539.65,customer refund - white-hill,,Only in Bank
+2025-01-03,1207.49,bank charges - alvarez-sanders,,Only in Bank
+2025-02-09,2470.58,salary transfer - swanson-blackwell,,Only in Bank
+2025-03-04,8178.63,customer refund - roberson-guzman,,Only in Bank
+2025-03-12,1734.76,customer refund - hanson-hall,,Only in Bank
+2025-03-19,4289.07,salary transfer - martin ltd,,Only in Bank
+2025-01-16,2554.27,"vendor payment - romero, torres and lawson",,Only in Bank
+2025-01-30,5925.56,invoice payment - lee-robinson,,Only in Bank
+2025-01-10,7107.63,invoice payment - tate-arnold,,Only in Bank
+2025-01-30,767.26,"invoice payment - owens, thompson and gonzalez",,Only in Bank
+2025-02-05,6722.88,salary transfer - butler-smith,,Only in Bank
+2025-03-15,4779.44,"equipment purchase - mitchell, flores and cox",,Only in Bank
+2025-03-26,4367.41,"service fee - snyder, marquez and dean",,Only in Bank
+2025-02-22,4723.54,invoice payment - hayes-lindsey,,Only in Bank
+2025-03-28,6569.21,vendor payment - ramirez llc,,Only in Bank
+2025-01-08,4085.95,bank charges - gutierrez-clark,,Only in Bank
+2025-01-14,2561.7,salary transfer - lowery plc,,Only in Bank
+2025-01-24,2857.6,salary transfer - turner-holmes,,Only in Bank
+2025-01-10,4486.99,customer refund - williams plc,,Only in Bank
+2025-01-02,9693.06,"salary transfer - conley, wu and turner",,Only in Bank
+2025-01-28,8660.04,invoice payment - vance-olson,,Only in Bank
+2025-02-03,9272.53,"equipment purchase - zhang, schneider and moreno",,Only in Bank
+2025-03-26,7212.24,"office rent - cunningham, martinez and hall",,Only in Bank
+2025-01-25,3037.41,"invoice payment - gilbert, munoz and willis",,Only in Bank
+2025-03-16,7383.8,invoice payment - lee llc,,Only in Bank
+2025-03-03,5078.22,customer refund - wilson-williams,,Only in Bank
+2025-01-21,663.11,customer refund - vazquez-sherman,,Only in Bank
+2025-01-11,8528.29,vendor payment - thomas inc,,Only in Bank
+2025-03-18,772.81,salary transfer - hartman-barton,,Only in Bank
+2025-02-21,1286.88,insurance payout - pope-randall,,Only in Bank
+2025-02-01,5831.3,invoice payment - white and sons,,Only in Bank
+2025-03-21,911.64,"insurance payout - hood, black and underwood",,Only in Bank
+2025-03-14,5275.55,travel expense - kennedy inc,,Only in Bank
+2025-01-31,2729.58,office rent - manning llc,,Only in Bank
+2025-02-10,9297.28,"vendor payment - obrien, douglas and moore",,Only in Bank
+2025-01-02,4637.03,"insurance payout - levy, gibson and perkins",,Only in Bank
+2025-01-13,825.28,salary transfer - anderson-hernandez,,Only in Bank
+2025-03-06,2725.48,bank charges - jimenez and sons,,Only in Bank
+2025-01-09,8804.78,bank charges - juarez plc,,Only in Bank
+2025-01-18,2718.21,"vendor payment - santiago, warren and moore",,Only in Bank
+2025-03-12,1638.93,travel expense - mendoza-brooks,,Only in Bank
+2025-01-27,6906.22,"travel expense - santiago, butler and woods",,Only in Bank
+2025-03-06,4936.47,"invoice payment - cox, bennett and price",,Only in Bank
+2025-01-12,6379.42,travel expense - king plc,,Only in Bank
+2025-03-23,9800.0,office rent - simmons llc,,Only in Bank
+2025-01-05,8362.49,insurance payout - hinton llc,,Only in Bank
+2025-03-12,1566.13,office rent - conley-lopez,,Only in Bank
+2025-01-06,3151.76,invoice payment - hawkins plc,,Only in Bank
+2025-02-15,2179.76,salary transfer - brooks-brown,,Only in Bank
+2025-03-27,1117.66,"customer refund - king, cook and gross",,Only in Bank
+2025-01-31,8659.6,"office rent - adams, hodges and kennedy",,Only in Bank
+2025-02-22,345.38,bank charges - rodriguez-robinson,,Only in Bank
+2025-02-22,8042.13,salary transfer - harper-horton,,Only in Bank
+2025-02-04,1676.06,vendor payment - hodge-bailey,,Only in Bank
+2025-02-18,8734.45,equipment purchase - oconnell inc,,Only in Bank
+2025-01-29,2075.77,equipment purchase - webb group,,Only in Bank
+2025-01-29,334.28,"salary transfer - stephens, chapman and gardner",,Only in Bank
+2025-02-21,3349.79,"vendor payment - johnson, boone and morgan",,Only in Bank
+2025-02-05,3576.35,customer refund - jensen-solomon,,Only in Bank
+2025-02-21,6827.23,customer refund - daniels-johnson,,Only in Bank
+2025-02-12,9398.45,vendor payment - contreras-mccoy,,Only in Bank
+2025-02-03,1867.82,travel expense - baxter-hawkins,,Only in Bank
+2025-02-25,6101.47,customer refund - johnson plc,,Only in Bank
+2025-01-15,3913.43,"insurance payout - short, mitchell and jenkins",,Only in Bank
+2025-01-25,2621.75,service fee - woods ltd,,Only in Bank
+2025-01-01,5247.21,customer refund - robinson-hurst,,Only in Bank
+2025-03-29,7222.36,salary transfer - harris group,,Only in Bank
+2025-02-16,4369.84,bank charges - green group,,Only in Bank
+2025-03-21,3207.76,"vendor payment - hodges, aguilar and hughes",,Only in Bank
+2025-02-08,5120.51,service fee - allen-martin,,Only in Bank
+2025-02-11,4083.76,travel expense - carter-lee,,Only in Bank
+2025-03-12,1360.15,service fee - lloyd ltd,,Only in Bank
+2025-03-27,9409.6,office rent - gould-henry,,Only in Bank
+2025-03-20,5734.14,"service fee - rivera, massey and myers",,Only in Bank
+2025-03-12,8353.88,travel expense - butler-colon,,Only in Bank
+2025-02-06,2180.81,insurance payout - turner group,,Only in Bank
+2025-03-19,6581.59,"equipment purchase - byrd, miller and jones",,Only in Bank
+2025-03-07,4784.54,office rent - barry-woodard,,Only in Bank
+2025-01-12,8202.39,salary transfer - oneill-perez,,Only in Bank
+2025-03-28,3173.15,salary transfer - chen llc,,Only in Bank
+2025-03-02,6151.61,vendor payment - houston-love,,Only in Bank
+2025-03-05,4056.56,office rent - perry group,,Only in Bank
+2025-03-25,6907.46,vendor payment - bullock-hill,,Only in Bank
+2025-03-01,597.16,"salary transfer - watson, colon and hill",,Only in Bank
+2025-01-16,4618.97,equipment purchase - holland inc,,Only in Bank
+2025-03-27,5358.21,"customer refund - lozano, johnson and hodges",,Only in Bank
+2025-03-20,8168.56,customer refund - peters group,,Only in Bank
+2025-02-24,8322.63,"customer refund - duncan, davis and turner",,Only in Bank
+2025-02-27,8982.36,"equipment purchase - silva, stafford and mercado",,Only in Bank
+2025-02-27,2666.0,salary transfer - williams and sons,,Only in Bank
+2025-03-23,2845.38,customer refund - figueroa group,,Only in Bank
+2025-03-04,6304.81,travel expense - schmidt-ayala,,Only in Bank
+2025-01-30,3892.05,"office rent - torres, johnson and miller",,Only in Bank
+2025-04-01,2218.13,service fee - sanchez-lee,,Only in Bank
+2025-02-23,716.43,service fee - hill-jones,,Only in Bank
+2025-02-19,9057.9,"insurance payout - wells, murphy and wheeler",,Only in Bank
+2025-03-31,293.37,insurance payout - potts-schmitt,,Only in Bank
+2025-02-18,4822.1,bank charges - macdonald-taylor,,Only in Bank
+2025-02-08,7559.4,service fee - valdez group,,Only in Bank
+2025-03-10,7500.41,"customer refund - jones, gallagher and bryant",,Only in Bank
+2025-03-19,8988.33,"equipment purchase - clarke, shields and johnson",,Only in Bank
+2025-01-29,2802.06,"equipment purchase - hill, scott and montgomery",,Only in Bank
+2025-01-22,8421.01,"office rent - pineda, escobar and kelley",,Only in Bank
+2025-03-21,5387.82,service fee - martin inc,,Only in Bank
+2025-03-17,5687.48,invoice payment - lane inc,,Only in Bank
+2025-02-18,3340.79,equipment purchase - shields llc,,Only in Bank
+2025-02-11,3441.26,service fee - gonzalez-salas,,Only in Bank
+2025-02-05,7544.9,"service fee - warner, hart and parker",,Only in Bank
+2025-02-02,8365.62,"equipment purchase - reed, marshall and english",,Only in Bank
+2025-01-03,7515.34,invoice payment - kennedy and sons,,Only in Bank
+2025-02-14,2319.8,"vendor payment - costa, kelly and santos",,Only in Bank
+2025-02-01,2073.67,invoice payment - caldwell ltd,,Only in Bank
+2025-03-21,1608.59,"office rent - walker, alvarez and rose",,Only in Bank
+2025-03-02,6727.64,insurance payout - gutierrez-williams,,Only in Bank
+2025-01-28,4703.84,travel expense - tran llc,,Only in Bank
+2025-02-17,1761.11,"insurance payout - schultz, brown and king",,Only in Bank
+2025-01-10,5961.77,"salary transfer - warner, sims and johnson",,Only in Bank
+2025-03-29,6044.07,vendor payment - blake inc,,Only in Bank
+2025-03-14,7848.09,bank charges - lee plc,,Only in Bank
+2025-03-10,4340.94,bank charges - green-gray,,Only in Bank
+2025-01-09,5109.01,bank charges - berg and sons,,Only in Bank
+2025-01-14,4391.88,bank charges - harvey-obrien,,Only in Bank
+2025-03-23,8926.59,equipment purchase - barr group,,Only in Bank
+2025-04-01,1614.61,office rent - rich inc,,Only in Bank
+2025-02-04,3290.82,"salary transfer - taylor, hudson and dunn",,Only in Bank
+2025-01-12,2861.39,equipment purchase - kerr llc,,Only in Bank
+2025-02-01,7529.72,insurance payout - washington-sawyer,,Only in Bank
+2025-03-20,6715.07,bank charges - mcclain plc,,Only in Bank
+2025-02-03,3469.35,insurance payout - fox-singh,,Only in Bank
+2025-03-31,8813.06,customer refund - morgan group,,Only in Bank
+2025-01-02,5214.61,salary transfer - moore group,,Only in Bank
+2025-02-27,7950.04,"vendor payment - hanson, carpenter and harmon",,Only in Bank
+2025-02-09,6673.2,"bank charges - bowman, chavez and mason",,Only in Bank
+2025-03-02,5579.38,bank charges - higgins-garner,,Only in Bank
+2025-02-24,9966.65,customer refund - riley-choi,,Only in Bank
+2025-02-12,3582.92,"equipment purchase - nunez, gill and dickerson",,Only in Bank
+2025-02-04,3135.57,salary transfer - johnson llc,,Only in Bank
+2025-01-16,7240.71,"bank charges - lloyd, reynolds and daniel",,Only in Bank
+2025-01-16,7454.52,"office rent - pennington, carney and carter",,Only in Bank
+2025-01-25,2242.21,"equipment purchase - sullivan, sullivan and wade",,Only in Bank
+2025-02-05,7273.39,customer refund - hernandez-arellano,,Only in Bank
+2025-03-18,2901.69,vendor payment - smith llc,,Only in Bank
+2025-01-25,3032.84,bank charges - davis-schroeder,,Only in Bank
+2025-01-23,3092.45,customer refund - walls-hunt,,Only in Bank
+2025-01-17,2815.68,invoice payment - smith-alexander,,Only in Bank
+2025-03-12,2992.15,office rent - kelly-thornton,,Only in Bank
+2025-03-23,8697.77,"equipment purchase - kirby, hensley and ruiz",,Only in Bank
+2025-01-14,8739.93,"insurance payout - owen, wong and jones",,Only in Bank
+2025-02-06,4747.03,equipment purchase - lewis-spears,,Only in Bank
+2025-02-02,9416.53,"equipment purchase - solomon, edwards and bennett",,Only in Bank
+2025-01-15,8238.94,"service fee - murray, hernandez and mason",,Only in Bank
+2025-03-04,833.41,"invoice payment - wells, hodges and hinton",,Only in Bank
+2025-01-20,1577.06,insurance payout - robertson-chan,,Only in Bank
+2025-02-08,943.29,"salary transfer - watkins, henry and burke",,Only in Bank
+2025-01-16,5624.92,service fee - skinner-kennedy,,Only in Bank
+2025-03-19,6001.66,insurance payout - hamilton-wise,,Only in Bank
+2025-02-27,9094.19,travel expense - nelson-brewer,,Only in Bank
+2025-03-17,9901.31,travel expense - reilly-wood,,Only in Bank
+2025-03-14,6248.17,insurance payout - hernandez-hampton,,Only in Bank
+2025-01-21,2474.67,customer refund - bass-barrett,,Only in Bank
+2025-01-10,1649.67,service fee - richardson group,,Only in Bank
+2025-02-27,6924.77,equipment purchase - turner and sons,,Only in Bank
+2025-04-01,2898.91,"equipment purchase - williams, alvarado and lucas",,Only in Bank
+2025-01-10,6905.11,"travel expense - taylor, baker and ortega",,Only in Bank
+2025-03-22,5938.92,"salary transfer - miller, howard and dean",,Only in Bank
+2025-02-24,1236.29,salary transfer - ruiz and sons,,Only in Bank
+2025-02-09,5990.94,insurance payout - kelly-moore,,Only in Bank
+2025-02-26,896.37,"invoice payment - tran, kim and valencia",,Only in Bank
+2025-02-25,7371.89,insurance payout - reynolds-peters,,Only in Bank
+2025-03-28,8375.99,insurance payout - taylor ltd,,Only in Bank
+2025-03-17,9512.78,"travel expense - jones, pitts and willis",,Only in Bank
+2025-03-02,5237.74,equipment purchase - dennis-humphrey,,Only in Bank
+2025-02-05,1896.74,insurance payout - hampton and sons,,Only in Bank
+2025-02-25,6384.37,equipment purchase - richardson group,,Only in Bank
+2025-01-12,4753.1,service fee - burke-thompson,,Only in Bank
+2025-02-12,3278.48,vendor payment - hernandez-cooke,,Only in Bank
+2025-01-21,3365.06,"equipment purchase - salas, young and kelly",,Only in Bank
+2025-02-06,6659.58,"service fee - bowman, smith and conway",,Only in Bank
+2025-03-12,463.3,vendor payment - bond group,,Only in Bank
+2025-02-21,8662.61,invoice payment - brewer-santiago,,Only in Bank
+2025-03-26,8706.74,equipment purchase - drake-turner,,Only in Bank
+2025-03-22,4476.21,invoice payment - durham inc,,Only in Bank
+2025-01-27,2743.86,office rent - hood-collins,,Only in Bank
+2025-02-06,4437.35,equipment purchase - mcmahon-ford,,Only in Bank
+2025-03-01,9475.9,"office rent - price, thomas and charles",,Only in Bank
+2025-03-05,9333.27,travel expense - kelley plc,,Only in Bank
+2025-03-07,7083.58,"service fee - carrillo, ramirez and thomas",,Only in Bank
+2025-03-03,9804.42,salary transfer - perez and sons,,Only in Bank
+2025-02-28,5557.52,service fee - hall group,,Only in Bank
+2025-01-25,9226.49,"customer refund - marks, garcia and baker",,Only in Bank
+2025-01-18,8653.87,travel expense - mitchell-lopez,,Only in Bank
+2025-03-26,4947.44,office rent - king-levy,,Only in Bank
+2025-02-27,5431.95,bank charges - jacobs inc,,Only in Bank
+2025-02-18,4607.91,bank charges - ramirez plc,,Only in Bank
+2025-01-25,9809.67,"salary transfer - shaw, huff and walters",,Only in Bank
+2025-03-15,3891.41,"service fee - smith, white and hansen",,Only in Bank
+2025-04-01,9142.96,service fee - johnson plc,,Only in Bank
+2025-03-05,9651.76,"office rent - moore, page and adams",,Only in Bank
+2025-03-06,9657.0,"bank charges - brown, brown and brown",,Only in Bank
+2025-01-13,8754.48,"equipment purchase - hernandez, hernandez and oneal",,Only in Bank
+2025-01-02,7252.19,service fee - sheppard-williams,,Only in Bank
+2025-03-25,9702.57,vendor payment - scott plc,,Only in Bank
+2025-03-02,7837.1,travel expense - lutz-stephens,,Only in Bank
+2025-02-13,6270.27,"service fee - price, cervantes and cooper",,Only in Bank
+2025-03-28,8607.49,service fee - hawkins-wilson,,Only in Bank
+2025-02-10,6305.31,equipment purchase - benjamin llc,,Only in Bank
+2025-03-11,455.4,vendor payment - welch group,,Only in Bank
+2025-02-26,1747.01,travel expense - stewart-perez,,Only in Bank
+2025-01-04,555.31,invoice payment - pena and sons,,Only in Bank
+2025-02-07,3648.79,"service fee - parrish, chan and taylor",,Only in Bank
+2025-01-19,2517.55,service fee - davis ltd,,Only in Bank
+2025-03-14,6849.82,office rent - smith llc,,Only in Bank
+2025-01-22,1833.19,insurance payout - ross-riley,,Only in Bank
+2025-03-05,9137.01,"office rent - proctor, smith and cortez",,Only in Bank
+2025-02-28,2627.73,invoice payment - garner and sons,,Only in Bank
+2025-03-01,9021.97,"customer refund - garcia, reynolds and campbell",,Only in Bank
+2025-01-21,831.23,bank charges - berg ltd,,Only in Bank
+2025-03-17,3061.63,"service fee - medina, hull and hernandez",,Only in Bank
+2025-03-30,2575.97,travel expense - meyers-robinson,,Only in Bank
+2025-01-14,2448.34,insurance payout - compton inc,,Only in Bank
+2025-02-05,180.17,invoice payment - white-dunlap,,Only in Bank
+2025-03-19,7477.2,travel expense - jacobs ltd,,Only in Bank
+2025-01-30,6109.94,bank charges - welch-smith,,Only in Bank
+2025-01-29,6402.52,"insurance payout - ward, rodgers and preston",,Only in Bank
+2025-02-02,6809.87,office rent - jones and sons,,Only in Bank
+2025-03-22,1061.92,invoice payment - mejia-charles,,Only in Bank
+2025-02-09,7907.24,invoice payment - stewart-lynch,,Only in Bank
+2025-03-16,3712.13,office rent - thomas-sanders,,Only in Bank
+2025-01-12,9105.32,bank charges - kramer and sons,,Only in Bank
+2025-03-11,8776.96,"bank charges - cook, rodriguez and cisneros",,Only in Bank
+2025-03-09,5067.77,"travel expense - soto, bean and joseph",,Only in Bank
+2025-01-22,2644.0,equipment purchase - burnett-perez,,Only in Bank
+2025-02-07,7490.94,bank charges - lawson group,,Only in Bank
+2025-01-15,4736.48,vendor payment - johnson-simmons,,Only in Bank
+2025-01-19,7566.1,"salary transfer - martinez, graham and white",,Only in Bank
+2025-03-28,7269.75,service fee - knight-pope,,Only in Bank
+2025-02-28,3749.0,"travel expense - west, atkins and patterson",,Only in Bank
+2025-01-04,6233.51,customer refund - morales-hill,,Only in Bank
+2025-02-11,9161.03,salary transfer - gomez-jackson,,Only in Bank
+2025-03-24,725.85,equipment purchase - wilson llc,,Only in Bank
+2025-03-31,3091.68,service fee - jackson plc,,Only in Bank
+2025-01-15,1483.79,invoice payment - harrison llc,,Only in Bank
+2025-02-08,9959.68,vendor payment - mitchell llc,,Only in Bank
+2025-01-13,2424.52,customer refund - cooley plc,,Only in Bank
+2025-03-27,9498.87,"customer refund - sexton, leach and mitchell",,Only in Bank
+2025-02-23,5914.67,"office rent - gonzalez, estes and hess",,Only in Bank
+2025-03-20,4140.35,travel expense - barnes ltd,,Only in Bank
+2025-01-05,6933.78,salary transfer - jones-reynolds,,Only in Bank
+2025-02-26,4502.49,"salary transfer - campbell, martinez and roberts",,Only in Bank
+2025-02-16,1083.61,bank charges - pope-weiss,,Only in Bank
+2025-03-11,9026.79,"bank charges - coleman, martin and anderson",,Only in Bank
+2025-01-08,4041.58,salary transfer - weaver-mcintyre,,Only in Bank
+2025-01-16,9495.21,"equipment purchase - lynch, buck and mann",,Only in Bank
+2025-01-12,6661.41,insurance payout - hernandez-wilkins,,Only in Bank
+2025-02-01,9889.33,"insurance payout - dillon, mitchell and sanchez",,Only in Bank
+2025-01-27,779.24,"customer refund - baker, castro and green",,Only in Bank
+2025-01-27,5905.19,salary transfer - garcia-evans,,Only in Bank
+2025-02-12,7766.25,insurance payout - navarro-harris,,Only in Bank
+2025-01-17,5448.13,"office rent - lucas, yang and phelps",,Only in Bank
+2025-01-15,6644.47,"invoice payment - harrison, booth and stanley",,Only in Bank
+2025-02-03,618.75,service fee - bowers-coleman,,Only in Bank
+2025-03-09,1225.13,"vendor payment - blevins, brown and ortiz",,Only in Bank
+2025-03-02,4537.92,"bank charges - randolph, watson and cohen",,Only in Bank
+2025-03-07,5977.29,equipment purchase - torres inc,,Only in Bank
+2025-03-06,2293.34,"insurance payout - boone, casey and roy",,Only in Bank
+2025-01-06,7299.71,"customer refund - thompson, pruitt and gordon",,Only in Bank
+2025-02-08,4634.62,invoice payment - castillo inc,,Only in Bank
+2025-01-08,9986.01,service fee - savage-roberts,,Only in Bank
+2025-02-24,6892.37,equipment purchase - lamb-white,,Only in Bank
+2025-02-26,827.56,vendor payment - fitzgerald ltd,,Only in Bank
+2025-01-17,2822.66,insurance payout - jones inc,,Only in Bank
+2025-03-12,7150.31,service fee - jones inc,,Only in Bank
+2025-03-18,5352.51,equipment purchase - smith-watkins,,Only in Bank
+2025-03-06,6093.73,vendor payment - hernandez-butler,,Only in Bank
+2025-03-31,1232.7,"customer refund - davis, delgado and howell",,Only in Bank
+2025-01-28,4357.69,"salary transfer - williams, brooks and baker",,Only in Bank
+2025-02-22,3455.42,equipment purchase - carroll-ramsey,,Only in Bank
+2025-02-21,4218.3,vendor payment - bell-rodriguez,,Only in Bank
+2025-02-17,9540.57,"equipment purchase - lynch, cook and hubbard",,Only in Bank
+2025-01-12,4375.58,bank charges - valdez plc,,Only in Bank
+2025-01-17,5608.07,"insurance payout - ortiz, jenkins and jimenez",,Only in Bank
+2025-03-13,5660.67,"vendor payment - black, west and stephens",,Only in Bank
+2025-02-22,3600.62,service fee - kelley llc,,Only in Bank
+2025-01-07,9687.15,insurance payout - young plc,,Only in Bank
+2025-02-09,3581.3,insurance payout - george-mason,,Only in Bank
+2025-03-06,2206.11,equipment purchase - walker llc,,Only in Bank
+2025-01-29,8488.02,"bank charges - alvarez, schwartz and myers",,Only in Bank
+2025-03-15,2338.98,service fee - smith plc,,Only in Bank
+2025-03-13,9748.01,insurance payout - harris llc,,Only in Bank
+2025-03-20,6782.27,customer refund - turner-sparks,,Only in Bank
+2025-01-04,6129.05,travel expense - johnston and sons,,Only in Bank
+2025-01-04,1886.12,travel expense - perez-jackson,,Only in Bank
+2025-02-13,3575.13,office rent - davis-ryan,,Only in Bank
+2025-01-19,5706.58,service fee - morris llc,,Only in Bank
+2025-02-18,4256.34,"bank charges - wood, miller and brandt",,Only in Bank
+2025-03-14,6002.62,invoice payment - bailey-wilcox,,Only in Bank
+2025-01-20,1658.36,"insurance payout - henson, walsh and ross",,Only in Bank
+2025-01-07,6772.29,travel expense - bauer-turner,,Only in Bank
+2025-02-26,6653.19,"equipment purchase - orr, villarreal and woodward",,Only in Bank
+2025-01-28,7573.94,vendor payment - rice plc,,Only in Bank
+2025-03-28,6817.01,equipment purchase - santana-harris,,Only in Bank
+2025-01-08,176.1,travel expense - sims-bray,,Only in Bank
+2025-01-28,7696.76,travel expense - lee-singh,,Only in Bank
+2025-02-07,3348.41,invoice payment - jones-peterson,,Only in Bank
+2025-03-05,7495.44,office rent - hernandez llc,,Only in Bank
+2025-01-17,3864.05,"salary transfer - nguyen, ruiz and medina",,Only in Bank
+2025-03-06,5631.36,bank charges - torres inc,,Only in Bank
+2025-01-10,4031.0,invoice payment - day ltd,,Only in Bank
+2025-02-25,285.54,vendor payment - curtis ltd,,Only in Bank
+2025-02-10,5800.02,insurance payout - wallace llc,,Only in Bank
+2025-02-21,7124.04,service fee - fischer-sanders,,Only in Bank
+2025-02-07,1240.22,"invoice payment - marquez, ortiz and gonzales",,Only in Bank
+2025-02-11,1801.54,"insurance payout - bowman, glass and williamson",,Only in Bank
+2025-02-28,8337.06,bank charges - fisher inc,,Only in Bank
+2025-01-12,4423.45,"vendor payment - hurley, holder and ruiz",,Only in Bank
+2025-03-09,878.61,travel expense - benson group,,Only in Bank
+2025-01-10,5153.78,vendor payment - robertson inc,,Only in Bank
+2025-02-14,7301.05,"office rent - frey, harris and snyder",,Only in Bank
+2025-01-31,1117.76,travel expense - hale plc,,Only in Bank
+2025-01-26,1817.64,office rent - aguirre group,,Only in Bank
+2025-03-01,7569.01,insurance payout - horton ltd,,Only in Bank
+2025-02-27,6843.22,"insurance payout - aguilar, riggs and mccann",,Only in Bank
+2025-02-11,8656.04,"bank charges - lawrence, johnston and holloway",,Only in Bank
+2025-01-20,4453.65,equipment purchase - rangel plc,,Only in Bank
+2025-02-26,6350.71,travel expense - ware-williams,,Only in Bank
+2025-03-17,656.1,"customer refund - bishop, sparks and clark",,Only in Bank
+2025-01-10,3173.04,"equipment purchase - barton, moore and mcdowell",,Only in Bank
+2025-01-10,6482.2,"vendor payment - smith, love and trevino",,Only in Bank
+2025-03-20,5981.39,"service fee - williams, collins and tate",,Only in Bank
+2025-03-01,5845.26,"invoice payment - carson, torres and richards",,Only in Bank
+2025-02-27,9099.59,"insurance payout - rowland, estrada and malone",,Only in Bank
+2025-03-25,1963.57,insurance payout - matthews-vasquez,,Only in Bank
+2025-03-02,5063.54,invoice payment - harris plc,,Only in Bank
+2025-02-27,1124.67,"bank charges - nguyen, clements and castro",,Only in Bank
+2025-01-06,2552.66,equipment purchase - boyd group,,Only in Bank
+2025-01-21,3702.59,travel expense - fernandez-phillips,,Only in Bank
+2025-02-19,4146.82,bank charges - williams-nunez,,Only in Bank
+2025-03-28,6019.07,"bank charges - mendez, banks and cooper",,Only in Bank
+2025-01-09,3363.94,"customer refund - howard, wilson and medina",,Only in Bank
+2025-03-26,9647.66,insurance payout - alvarez-reyes,,Only in Bank
+2025-01-20,3400.28,"insurance payout - fitzpatrick, rose and pearson",,Only in Bank
+2025-03-26,1500.14,"bank charges - chapman, mclean and dixon",,Only in Bank
+2025-02-09,9680.2,service fee - fitzgerald llc,,Only in Bank
+2025-01-17,5990.91,vendor payment - boyd inc,,Only in Bank
+2025-01-12,6495.65,service fee - peterson-higgins,,Only in Bank
+2025-03-07,3682.1,bank charges - solis-hester,,Only in Bank
+2025-02-09,1884.6,salary transfer - wood-ortiz,,Only in Bank
+2025-01-25,2342.78,office rent - terry group,,Only in Bank
+2025-03-06,7731.66,customer refund - joseph-cunningham,,Only in Bank
+2025-01-17,6012.74,office rent - maldonado-davenport,,Only in Bank
+2025-01-21,1890.38,insurance payout - gould and sons,,Only in Bank
+2025-01-22,7239.71,"invoice payment - wilson, tran and weeks",,Only in Bank
+2025-02-22,3706.56,salary transfer - ford inc,,Only in Bank
+2025-01-30,5386.71,travel expense - valdez-clark,,Only in Bank
+2025-03-02,9049.35,salary transfer - wong plc,,Only in Bank
+2025-02-18,5078.78,service fee - frank llc,,Only in Bank
+2025-01-18,8742.72,invoice payment - taylor plc,,Only in Bank
+2025-03-24,4857.85,"bank charges - white, dawson and quinn",,Only in Bank
+2025-03-12,9349.51,customer refund - cummings ltd,,Only in Bank
+2025-01-16,2922.12,office rent - berger-evans,,Only in Bank
+2025-02-04,4548.26,"customer refund - perry, adams and miller",,Only in Bank
+2025-01-19,8327.36,"vendor payment - donaldson, gallagher and george",,Only in Bank
+2025-01-11,3811.64,"invoice payment - nicholson, smith and martinez",,Only in Bank
+2025-02-10,9315.18,bank charges - russell-burns,,Only in Bank
+2025-01-19,1462.24,travel expense - graham inc,,Only in Bank
+2025-03-02,6991.11,office rent - fox llc,,Only in Bank
+2025-04-01,4744.19,insurance payout - guerrero-serrano,,Only in Bank
+2025-01-01,9067.99,invoice payment - young plc,,Only in Bank
+2025-02-02,2234.98,office rent - jackson-gonzalez,,Only in Bank
+2025-03-12,9408.24,insurance payout - gonzalez ltd,,Only in Bank
+2025-01-31,3081.4,invoice payment - james-edwards,,Only in Bank
+2025-01-31,4256.27,insurance payout - king-harper,,Only in Bank
+2025-03-18,5406.93,customer refund - hernandez and sons,,Only in Bank
+2025-02-07,4349.47,insurance payout - irwin-butler,,Only in Bank
+2025-02-15,2481.59,service fee - ayers-davis,,Only in Bank
+2025-01-24,6677.28,vendor payment - sanders-jones,,Only in Bank
+2025-03-09,5486.41,customer refund - harvey group,,Only in Bank
+2025-03-12,301.31,"equipment purchase - clarke, griffin and chandler",,Only in Bank
+2025-02-02,7498.43,bank charges - chavez plc,,Only in Bank
+2025-01-09,3513.54,vendor payment - clayton-martin,,Only in Bank
+2025-01-18,538.92,"customer refund - leach, mueller and smith",,Only in Bank
+2025-02-13,8153.74,office rent - mcintosh plc,,Only in Bank
+2025-03-29,4699.77,equipment purchase - hall-novak,,Only in Bank
+2025-01-05,3005.08,invoice payment - friedman-rivera,,Only in Bank
+2025-01-26,8869.32,bank charges - kent-ware,,Only in Bank
+2025-02-09,5202.3,"customer refund - foley, johnson and young",,Only in Bank
+2025-03-02,2607.81,"salary transfer - rodriguez, torres and williams",,Only in Bank
+2025-02-06,3634.04,invoice payment - torres-wong,,Only in Bank
+2025-03-25,3386.05,vendor payment - sharp plc,,Only in Bank
+2025-02-17,4425.82,"service fee - crawford, brown and phelps",,Only in Bank
+2025-02-26,8956.91,"service fee - peterson, rivera and larson",,Only in Bank
+2025-01-11,4363.01,office rent - kidd group,,Only in Bank
+2025-03-11,3008.29,vendor payment - smith and sons,,Only in Bank
+2025-02-09,4514.57,service fee - francis llc,,Only in Bank
+2025-02-27,519.32,bank charges - evans and sons,,Only in Bank
+2025-03-20,9981.69,travel expense - crawford llc,,Only in Bank
+2025-01-10,6744.72,service fee - nunez-delgado,,Only in Bank
+2025-01-04,1513.52,insurance payout - whitaker-daniels,,Only in Bank
+2025-03-28,7834.99,invoice payment - hogan-taylor,,Only in Bank
+2025-01-17,765.61,bank charges - johnson inc,,Only in Bank
+2025-02-16,3890.26,insurance payout - thompson and sons,,Only in Bank
+2025-01-05,6090.44,equipment purchase - richards-hansen,,Only in Bank
+2025-02-17,3782.93,vendor payment - calhoun-turner,,Only in Bank
+2025-03-15,1463.18,bank charges - perez-gilmore,,Only in Bank
+2025-02-20,3212.42,travel expense - roberts group,,Only in Bank
+2025-02-01,9609.15,"invoice payment - hoffman, smith and white",,Only in Bank
+2025-01-24,5040.54,service fee - harris ltd,,Only in Bank
+2025-03-13,1265.83,travel expense - ford plc,,Only in Bank
+2025-01-12,8124.08,bank charges - thomas llc,,Only in Bank
+2025-03-27,3539.51,"vendor payment - brooks, wright and johnson",,Only in Bank
+2025-03-12,5467.5,travel expense - johnson-castaneda,,Only in Bank
+2025-01-21,7146.91,office rent - robinson inc,,Only in Bank
+2025-02-16,5136.68,"vendor payment - huff, clark and castillo",,Only in Bank
+2025-01-26,7941.45,salary transfer - ortega-wiggins,,Only in Bank
+2025-03-05,360.21,customer refund - hart-dunn,,Only in Bank
+2025-01-09,3161.98,"equipment purchase - brown, moore and ward",,Only in Bank
+2025-03-15,830.13,bank charges - maldonado-lloyd,,Only in Bank
+2025-03-24,834.23,equipment purchase - golden-keller,,Only in Bank
+2025-03-29,5221.86,"office rent - jones, martinez and hogan",,Only in Bank
+2025-03-12,6433.96,office rent - romero-johnson,,Only in Bank
+2025-01-17,4382.92,invoice payment - pierce-jones,,Only in Bank
+2025-01-16,5229.21,"travel expense - smith, garcia and blake",,Only in Bank
+2025-01-22,1703.47,"salary transfer - reed, meadows and woodard",,Only in Bank
+2025-02-14,9480.08,"customer refund - morris, wilkins and dixon",,Only in Bank
+2025-02-06,8474.74,"travel expense - coffey, franco and lindsey",,Only in Bank
+2025-02-05,1339.19,"travel expense - davis, williams and irwin",,Only in Bank
+2025-03-20,5381.43,customer refund - sanchez-nichols,,Only in Bank
+2025-03-24,1769.5,insurance payout - holmes group,,Only in Bank
+2025-01-06,8269.84,"invoice payment - rodriguez, walter and armstrong",,Only in Bank
+2025-01-11,550.07,insurance payout - welch llc,,Only in Bank
+2025-02-03,6546.19,insurance payout - sellers plc,,Only in Bank
+2025-03-05,8901.07,"customer refund - webb, bates and miranda",,Only in Bank
+2025-02-08,4590.09,"invoice payment - nichols, simmons and russell",,Only in Bank
+2025-03-01,2119.83,"insurance payout - compton, brooks and velazquez",,Only in Bank
+2025-01-19,3194.57,bank charges - burch inc,,Only in Bank
+2025-02-14,9756.2,office rent - moore-atkinson,,Only in Bank
+2025-02-17,5198.3,"vendor payment - smith, smith and phillips",,Only in Bank
+2025-02-04,4551.0,office rent - taylor inc,,Only in Bank
+2025-01-13,600.99,service fee - harvey-guerra,,Only in Bank
+2025-03-20,4239.53,office rent - gray-jimenez,,Only in Bank
+2025-02-11,9344.14,bank charges - baker-perry,,Only in Bank
+2025-03-07,4721.47,travel expense - wilcox-martin,,Only in Bank
+2025-03-05,329.45,service fee - james-davenport,,Only in Bank
+2025-03-06,4626.58,salary transfer - jackson inc,,Only in Bank
+2025-01-28,5875.11,invoice payment - watson plc,,Only in Bank
+2025-03-25,6757.95,travel expense - miller-waters,,Only in Bank
+2025-03-10,180.96,vendor payment - foster llc,,Only in Bank
+2025-02-25,1425.96,travel expense - gilmore-washington,,Only in Bank
+2025-02-16,7662.18,"bank charges - nguyen, morris and coleman",,Only in Bank
+2025-03-13,2027.09,customer refund - powell inc,,Only in Bank
+2025-02-06,827.96,"customer refund - moss, hamilton and smith",,Only in Bank
+2025-03-21,6835.95,"vendor payment - white, miller and fields",,Only in Bank
+2025-01-17,9753.32,"service fee - mitchell, hill and white",,Only in Bank
+2025-02-17,7969.48,bank charges - fletcher inc,,Only in Bank
+2025-01-26,6064.38,"service fee - peterson, cook and bennett",,Only in Bank
+2025-03-06,498.52,"invoice payment - ortega, douglas and mitchell",,Only in Bank
+2025-01-18,7164.56,"equipment purchase - french, jackson and anderson",,Only in Bank
+2025-03-08,4624.19,insurance payout - herrera-yates,,Only in Bank
+2025-03-07,1483.83,insurance payout - johnson ltd,,Only in Bank
+2025-02-08,5977.87,customer refund - elliott inc,,Only in Bank
+2025-02-08,4801.44,invoice payment - rollins and sons,,Only in Bank
+2025-02-17,3379.27,"vendor payment - webb, jones and whitehead",,Only in Bank
+2025-02-23,5878.65,invoice payment - lyons and sons,,Only in Bank
+2025-03-18,4798.44,insurance payout - mitchell-garcia,,Only in Bank
+2025-03-15,2352.68,"invoice payment - sullivan, callahan and smith",,Only in Bank
+2025-03-16,4856.44,"customer refund - barajas, hernandez and barrett",,Only in Bank
+2025-01-19,8234.45,salary transfer - jones-lawrence,,Only in Bank
+2025-01-05,5768.45,"vendor payment - ross, lee and lewis",,Only in Bank
+2025-01-25,287.48,bank charges - mata-smith,,Only in Bank
+2025-02-23,1599.17,"salary transfer - johnson, clements and baker",,Only in Bank
+2025-02-22,5068.01,insurance payout - howard plc,,Only in Bank
+2025-04-01,1467.02,salary transfer - best and sons,,Only in Bank
+2025-03-13,3317.99,"equipment purchase - smith, payne and johnson",,Only in Bank
+2025-03-09,3830.57,office rent - clements-moody,,Only in Bank
+2025-02-28,9130.03,bank charges - olson-wyatt,,Only in Bank
+2025-03-11,3607.44,travel expense - hamilton-hernandez,,Only in Bank
+2025-03-20,4893.38,salary transfer - hale-gomez,,Only in Bank
+2025-02-05,5625.06,salary transfer - coleman-mayo,,Only in Bank
+2025-03-30,7079.38,bank charges - johnson-gonzalez,,Only in Bank
+2025-03-03,3553.15,travel expense - davis llc,,Only in Bank
+2025-02-06,1306.55,customer refund - moran plc,,Only in Bank
+2025-02-18,8968.03,service fee - luna-cortez,,Only in Bank
+2025-02-14,9550.63,"office rent - wise, serrano and perez",,Only in Bank
+2025-02-14,9247.7,"travel expense - evans, ferguson and silva",,Only in Bank
+2025-02-04,9336.94,travel expense - miller-higgins,,Only in Bank
+2025-01-18,1181.34,insurance payout - elliott plc,,Only in Bank
+2025-01-31,2500.33,customer refund - moss-collins,,Only in Bank
+2025-01-29,6415.65,invoice payment - pierce ltd,,Only in Bank
+2025-01-13,6843.8,office rent - sanchez group,,Only in Bank
+2025-01-01,9648.74,office rent - brown inc,,Only in Bank
+2025-03-03,6540.33,"travel expense - lee, edwards and ho",,Only in Bank
+2025-02-11,2925.61,invoice payment - cardenas group,,Only in Bank
+2025-01-12,6557.76,salary transfer - sandoval and sons,,Only in Bank
+2025-03-10,7413.0,invoice payment - raymond plc,,Only in Bank
+2025-01-05,9972.0,service fee - warren-frazier,,Only in Bank
+2025-03-05,1944.49,"travel expense - ford, miller and thomas",,Only in Bank
+2025-01-05,191.74,insurance payout - hall and sons,,Only in Bank
+2025-03-19,1162.28,bank charges - jones group,,Only in Bank
+2025-03-09,4989.73,"office rent - moses, brown and moore",,Only in Bank
+2025-01-02,7392.52,"travel expense - silva, watson and arnold",,Only in Bank
+2025-03-14,6776.57,"salary transfer - goodman, brown and rodriguez",,Only in Bank
+2025-01-23,6148.45,"service fee - brown, ross and ellis",,Only in Bank
+2025-02-24,5201.28,vendor payment - velazquez llc,,Only in Bank
+2025-02-21,6725.63,"office rent - dean, phillips and ross",,Only in Bank
+2025-01-18,4826.8,"salary transfer - yu, west and mata",,Only in Bank
+2025-01-01,2681.77,"salary transfer - owens, blackburn and green",,Only in Bank
+2025-02-27,7562.19,bank charges - brown inc,,Only in Bank
+2025-03-30,2439.4,vendor payment - johnson-irwin,,Only in Bank
+2025-03-01,3137.38,"service fee - richardson, arroyo and williams",,Only in Bank
+2025-03-30,1262.42,travel expense - graham inc,,Only in Bank
+2025-02-17,6184.79,salary transfer - guerrero-rice,,Only in Bank
+2025-01-18,4834.0,"equipment purchase - chapman, walsh and ortiz",,Only in Bank
+2025-03-19,3798.89,customer refund - cherry and sons,,Only in Bank
+2025-03-02,7597.77,"salary transfer - sellers, moore and brown",,Only in Bank
+2025-02-01,6835.39,"insurance payout - trevino, madden and robertson",,Only in Bank
+2025-01-11,5302.52,"customer refund - mahoney, johnson and lee",,Only in Bank
+2025-04-01,3681.67,insurance payout - white-rice,,Only in Bank
+2025-01-15,711.4,"customer refund - jennings, smith and garcia",,Only in Bank
+2025-03-06,2101.35,"customer refund - jimenez, beck and moore",,Only in Bank
+2025-01-20,1728.92,"customer refund - nicholson, gonzalez and brown",,Only in Bank
+2025-02-26,1250.78,"salary transfer - armstrong, sanchez and brown",,Only in Bank
+2025-03-16,4939.4,customer refund - rice-garrett,,Only in Bank
+2025-02-27,8106.05,equipment purchase - hernandez-medina,,Only in Bank
+2025-01-17,5181.15,equipment purchase - doyle-hurst,,Only in Bank
+2025-03-14,671.59,equipment purchase - butler inc,,Only in Bank
+2025-03-28,8088.46,invoice payment - gay-johnson,,Only in Bank
+2025-02-20,2619.13,"invoice payment - hickman, butler and morris",,Only in Bank
+2025-02-24,3510.84,vendor payment - fisher and sons,,Only in Bank
+2025-01-24,7712.82,service fee - smith-peters,,Only in Bank
+2025-02-27,8709.24,service fee - davis-lopez,,Only in Bank
+2025-01-16,1866.89,"customer refund - reyes, goodwin and smith",,Only in Bank
+2025-02-20,5335.54,salary transfer - thompson plc,,Only in Bank
+2025-01-01,7586.18,travel expense - ramirez-baker,,Only in Bank
+2025-02-24,5366.14,salary transfer - gentry plc,,Only in Bank
+2025-02-01,4660.19,office rent - hill-williams,,Only in Bank
+2025-03-20,7683.93,"invoice payment - hart, stevens and gibson",,Only in Bank
+2025-03-18,432.41,insurance payout - weeks-young,,Only in Bank
+2025-02-01,7431.36,"service fee - bryan, parker and crawford",,Only in Bank
+2025-01-08,1487.34,"travel expense - thomas, vance and flynn",,Only in Bank
+2025-02-10,5817.0,bank charges - ortiz-roach,,Only in Bank
+2025-01-31,3087.47,"office rent - riley, elliott and hoover",,Only in Bank
+2025-02-08,2824.02,"customer refund - hammond, dominguez and moss",,Only in Bank
+2025-03-17,8809.17,office rent - lee group,,Only in Bank
+2025-03-05,564.15,bank charges - young ltd,,Only in Bank
+2025-03-24,6746.29,"customer refund - bryant, cooper and wood",,Only in Bank
+2025-02-10,6993.45,service fee - alvarado-mckinney,,Only in Bank
+2025-03-10,4787.84,salary transfer - jones-livingston,,Only in Bank
+2025-02-08,8589.66,office rent - yang inc,,Only in Bank
+2025-02-22,9681.08,"customer refund - webster, smith and escobar",,Only in Bank
+2025-03-09,1427.52,salary transfer - mayo inc,,Only in Bank
+2025-02-02,2113.03,vendor payment - ford and sons,,Only in Bank
+2025-03-10,7273.39,salary transfer - bowman group,,Only in Bank
+2025-01-07,2757.77,"insurance payout - porter, stanley and finley",,Only in Bank
+2025-03-19,491.52,vendor payment - ortiz llc,,Only in Bank
+2025-01-25,8066.04,insurance payout - steele-clark,,Only in Bank
+2025-01-27,8707.79,bank charges - webb-hart,,Only in Bank
+2025-01-28,9377.88,vendor payment - lewis-boone,,Only in Bank
+2025-03-03,9152.97,insurance payout - andrews-henderson,,Only in Bank
+2025-02-18,4715.88,bank charges - page-bishop,,Only in Bank
+2025-02-09,2689.46,"customer refund - gonzalez, alvarez and white",,Only in Bank
+2025-02-10,9151.87,bank charges - hunter llc,,Only in Bank
+2025-02-10,4197.91,insurance payout - gonzales group,,Only in Bank
+2025-03-16,7228.12,"travel expense - parker, scott and lester",,Only in Bank
+2025-01-20,2042.3,salary transfer - quinn-jensen,,Only in Bank
+2025-02-18,5740.92,salary transfer - huang-kaiser,,Only in Bank
+2025-03-05,5551.36,bank charges - simmons inc,,Only in Bank
+2025-02-02,7657.27,equipment purchase - whitehead-pearson,,Only in Bank
+2025-03-24,7421.98,equipment purchase - hatfield-young,,Only in Bank
+2025-01-22,7354.45,bank charges - ford inc,,Only in Bank
+2025-03-24,9576.65,customer refund - quinn llc,,Only in Bank
+2025-01-05,8406.78,vendor payment - sandoval-armstrong,,Only in Bank
+2025-03-27,580.29,"invoice payment - cross, salinas and woods",,Only in Bank
+2025-02-22,1461.17,"salary transfer - bryant, moore and hodges",,Only in Bank
+2025-01-09,7100.98,invoice payment - meyer llc,,Only in Bank
+2025-01-28,5106.76,"bank charges - doyle, allen and davis",,Only in Bank
+2025-03-03,6626.91,invoice payment - valenzuela-wyatt,,Only in Bank
+2025-01-01,5368.9,service fee - roberson ltd,,Only in Bank
+2025-01-02,265.59,travel expense - mcguire ltd,,Only in Bank
+2025-03-10,9777.05,invoice payment - jordan ltd,,Only in Bank
+2025-03-06,8150.26,service fee - edwards-english,,Only in Bank
+2025-03-09,1574.09,salary transfer - watts inc,,Only in Bank
+2025-03-21,5311.91,"bank charges - robinson, roy and williams",,Only in Bank
+2025-02-04,7969.87,vendor payment - taylor inc,,Only in Bank
+2025-02-17,9597.05,equipment purchase - koch-rodriguez,,Only in Bank
+2025-02-08,6872.01,"vendor payment - harper, green and hodge",,Only in Bank
+2025-01-12,4112.26,service fee - jones group,,Only in Bank
+2025-03-12,4812.45,"invoice payment - sanchez, chan and bennett",,Only in Bank
+2025-03-31,1796.7,equipment purchase - johnson group,,Only in Bank
+2025-02-25,6484.58,bank charges - logan and sons,,Only in Bank
+2025-03-09,9199.61,salary transfer - meyers-fuller,,Only in Bank
+2025-01-28,9022.6,insurance payout - rocha-daniels,,Only in Bank
+2025-03-02,2783.84,vendor payment - lucero plc,,Only in Bank
+2025-03-14,6615.28,office rent - james plc,,Only in Bank
+2025-02-10,255.02,"salary transfer - campbell, serrano and carter",,Only in Bank
+2025-03-17,1527.5,"service fee - humphrey, hart and stewart",,Only in Bank
+2025-01-31,5710.29,service fee - barr-cordova,,Only in Bank
+2025-03-28,8975.61,"bank charges - donovan, mclean and alexander",,Only in Bank
+2025-02-19,7580.53,"office rent - walsh, phillips and payne",,Only in Bank
+2025-03-30,7269.22,customer refund - green inc,,Only in Bank
+2025-02-14,631.59,"service fee - benitez, ramirez and robertson",,Only in Bank
+2025-01-30,8402.88,"bank charges - coleman, brown and owen",,Only in Bank
+2025-03-19,7713.16,"insurance payout - middleton, benson and sloan",,Only in Bank
+2025-01-04,6377.82,"equipment purchase - knight, williams and davis",,Only in Bank
+2025-03-04,2358.57,customer refund - mcbride and sons,,Only in Bank
+2025-02-18,4375.29,insurance payout - crawford-davis,,Only in Bank
+2025-03-26,3862.72,insurance payout - hensley-short,,Only in Bank
+2025-02-07,8000.75,vendor payment - owens ltd,,Only in Bank
+2025-01-11,2752.92,service fee - chandler ltd,,Only in Bank
+2025-03-23,1627.34,service fee - wong inc,,Only in Bank
+2025-02-10,3670.93,vendor payment - guzman-watson,,Only in Bank
+2025-01-01,9435.31,"equipment purchase - wilson, cox and lopez",,Only in Bank
+2025-02-16,7637.33,vendor payment - giles-williams,,Only in Bank
+2025-01-17,964.24,service fee - malone-vega,,Only in Bank
+2025-02-27,5614.15,customer refund - carlson-byrd,,Only in Bank
+2025-02-22,1122.6,vendor payment - williams-rivas,,Only in Bank
+2025-02-15,5586.78,"insurance payout - stout, ramos and rivers",,Only in Bank
+2025-01-11,7275.95,"customer refund - kim, smith and mayer",,Only in Bank
+2025-03-29,3869.25,office rent - warren llc,,Only in Bank
+2025-02-04,3081.2,equipment purchase - duncan and sons,,Only in Bank
+2025-02-05,4268.91,equipment purchase - glenn llc,,Only in Bank
+2025-01-10,3675.14,"salary transfer - kirk, dean and pena",,Only in Bank
+2025-03-22,5008.44,"insurance payout - joseph, morris and monroe",,Only in Bank
+2025-01-26,4632.83,office rent - hernandez ltd,,Only in Bank
+2025-02-12,8431.97,"service fee - fisher, banks and baker",,Only in Bank
+2025-02-12,4458.21,service fee - meyers-parker,,Only in Bank
+2025-03-25,9744.83,"office rent - morris, lowery and flynn",,Only in Bank
+2025-02-08,3274.59,"salary transfer - ward, mitchell and hill",,Only in Bank
+2025-03-03,3210.41,service fee - spencer-vazquez,,Only in Bank
+2025-02-10,2985.34,equipment purchase - carr-wilson,,Only in Bank
+2025-02-18,2874.97,service fee - murphy-castillo,,Only in Bank
+2025-02-16,1227.49,insurance payout - rojas-savage,,Only in Bank
+2025-01-26,5963.05,"customer refund - anderson, powell and huang",,Only in Bank
+2025-01-24,6848.96,"customer refund - walker, tyler and edwards",,Only in Bank
+2025-01-04,9534.75,equipment purchase - mcdonald-carr,,Only in Bank
+2025-04-01,2175.52,travel expense - hamilton-palmer,,Only in Bank
+2025-03-30,784.67,service fee - king ltd,,Only in Bank
+2025-03-28,5043.1,travel expense - charles group,,Only in Bank
+2025-01-31,2601.55,office rent - quinn-williams,,Only in Bank
+2025-02-24,7911.86,vendor payment - lawrence ltd,,Only in Bank
+2025-02-27,9907.94,equipment purchase - huffman and sons,,Only in Bank
+2025-03-30,4241.18,invoice payment - hernandez-irwin,,Only in Bank
+2025-02-16,7046.18,customer refund - smith-evans,,Only in Bank
+2025-01-14,7712.65,bank charges - bell inc,,Only in Bank
+2025-01-22,6505.3,invoice payment - silva and sons,,Only in Bank
+2025-03-14,9837.72,service fee - moore-white,,Only in Bank
+2025-02-12,9660.6,service fee - hayes plc,,Only in Bank
+2025-01-14,204.42,travel expense - lewis-mccarthy,,Only in Bank
+2025-01-29,5155.69,customer refund - smith-nunez,,Only in Bank
+2025-01-29,4513.21,"service fee - norman, bell and smith",,Only in Bank
+2025-03-01,7746.19,insurance payout - cooper and sons,,Only in Bank
+2025-03-30,5054.61,bank charges - lane-lopez,,Only in Bank
+2025-01-15,8330.05,"office rent - aguilar, travis and moreno",,Only in Bank
+2025-02-14,3187.71,"equipment purchase - andersen, velez and jensen",,Only in Bank
+2025-03-02,1066.47,equipment purchase - odonnell inc,,Only in Bank
+2025-02-10,765.03,invoice payment - durham and sons,,Only in Bank
+2025-04-01,1239.34,bank charges - hoffman-evans,,Only in Bank
+2025-02-01,5208.34,"customer refund - bush, rivera and parker",,Only in Bank
+2025-03-22,1926.07,"service fee - mitchell, dawson and murphy",,Only in Bank
+2025-02-20,389.0,insurance payout - ross plc,,Only in Bank
+2025-01-26,4550.79,"service fee - osborne, king and stewart",,Only in Bank
+2025-01-24,3721.35,"salary transfer - patel, harris and barrera",,Only in Bank
+2025-03-18,3947.53,service fee - cannon-shields,,Only in Bank
+2025-02-28,6211.89,"travel expense - hamilton, small and bray",,Only in Bank
+2025-02-10,1266.83,travel expense - olsen-hayes,,Only in Bank
+2025-03-07,3945.79,insurance payout - graham-brown,,Only in Bank
+2025-01-18,5790.58,"service fee - atkinson, robinson and moore",,Only in Bank
+2025-01-24,4918.04,customer refund - mitchell-barker,,Only in Bank
+2025-03-30,9199.69,office rent - thompson-smith,,Only in Bank
+2025-03-13,1751.97,travel expense - lopez ltd,,Only in Bank
+2025-03-21,630.75,bank charges - macdonald-escobar,,Only in Bank
+2025-02-19,9641.91,customer refund - marquez and sons,,Only in Bank
+2025-03-25,5000.2,"equipment purchase - riley, leach and crawford",,Only in Bank
+2025-03-04,1755.81,insurance payout - alexander-thomas,,Only in Bank
+2025-01-04,7979.22,salary transfer - wallace-johnson,,Only in Bank
+2025-02-07,423.68,salary transfer - banks-silva,,Only in Bank
+2025-03-10,2957.84,"equipment purchase - villarreal, lopez and rivas",,Only in Bank
+2025-03-14,7450.93,"equipment purchase - klein, gutierrez and martinez",,Only in Bank
+2025-03-12,5156.98,"insurance payout - patterson, roberts and martin",,Only in Bank
+2025-01-15,2752.1,"customer refund - kennedy, perez and sexton",,Only in Bank
+2025-02-16,5466.23,"invoice payment - bishop, gonzales and cox",,Only in Bank
+2025-02-26,5508.9,service fee - nelson-olson,,Only in Bank
+2025-02-27,2701.87,vendor payment - sparks-duncan,,Only in Bank
+2025-01-31,2177.79,insurance payout - howard llc,,Only in Bank
+2025-03-30,3571.25,insurance payout - williams inc,,Only in Bank
+2025-03-22,4338.85,insurance payout - anderson-mcintyre,,Only in Bank
+2025-02-05,6008.89,office rent - estrada-mcdonald,,Only in Bank
+2025-02-07,5770.08,customer refund - edwards-bell,,Only in Bank
+2025-03-28,8170.29,office rent - horton inc,,Only in Bank
+2025-02-22,9195.81,travel expense - kane-thompson,,Only in Bank
+2025-02-01,1547.81,bank charges - robinson and sons,,Only in Bank
+2025-02-01,7638.59,service fee - cox llc,,Only in Bank
+2025-03-04,1507.5,travel expense - johnson-williams,,Only in Bank
+2025-03-22,4200.83,equipment purchase - garrison group,,Only in Bank
+2025-01-10,6372.91,vendor payment - franklin group,,Only in Bank
+2025-02-21,5204.57,travel expense - tran group,,Only in Bank
+2025-02-28,9507.52,bank charges - pearson-gutierrez,,Only in Bank
+2025-03-16,124.48,vendor payment - myers-jones,,Only in Bank
+2025-02-28,6384.92,bank charges - proctor-sullivan,,Only in Bank
+2025-01-09,7977.21,service fee - brown-bush,,Only in Bank
+2025-01-28,9684.47,salary transfer - adams-herrera,,Only in Bank
+2025-03-05,2758.51,travel expense - baker inc,,Only in Bank
+2025-03-29,7646.31,"invoice payment - newton, taylor and hayes",,Only in Bank
+2025-01-03,1329.95,office rent - moody-thomas,,Only in Bank
+2025-02-26,4619.53,"service fee - middleton, baker and crawford",,Only in Bank
+2025-01-26,9957.37,"office rent - hendricks, jones and meyer",,Only in Bank
+2025-03-25,3088.47,travel expense - lynch-tapia,,Only in Bank
+2025-01-12,6580.42,travel expense - reed-andersen,,Only in Bank
+2025-01-11,3781.25,"office rent - key, oconnor and young",,Only in Bank
+2025-03-31,7576.8,service fee - bass-nixon,,Only in Bank
+2025-03-25,1002.87,vendor payment - austin group,,Only in Bank
+2025-01-17,5977.43,customer refund - armstrong plc,,Only in Bank
+2025-03-29,4506.16,invoice payment - beck llc,,Only in Bank
+2025-03-31,3501.38,"vendor payment - smith, brown and johnson",,Only in Bank
+2025-02-24,6970.91,equipment purchase - bradley-garcia,,Only in Bank
+2025-01-10,2366.57,vendor payment - becker-white,,Only in Bank
+2025-03-24,9930.11,office rent - gordon ltd,,Only in Bank
+2025-01-09,5352.03,invoice payment - powers-woodward,,Only in Bank
+2025-02-14,7252.08,office rent - hicks inc,,Only in Bank
+2025-01-28,958.21,"vendor payment - bray, elliott and white",,Only in Bank
+2025-01-18,7549.21,insurance payout - haynes inc,,Only in Bank
+2025-02-19,3580.2,"service fee - snyder, hill and craig",,Only in Bank
+2025-02-10,7931.66,salary transfer - rowe group,,Only in Bank
+2025-03-12,6049.89,insurance payout - hopkins-ewing,,Only in Bank
+2025-02-06,7811.8,"invoice payment - lynn, turner and higgins",,Only in Bank
+2025-03-26,8770.69,salary transfer - thomas-patel,,Only in Bank
+2025-03-08,6108.58,salary transfer - hodges-gonzalez,,Only in Bank
+2025-02-20,3025.87,invoice payment - johnson plc,,Only in Bank
+2025-01-31,4999.39,"vendor payment - white, phelps and crawford",,Only in Bank
+2025-01-31,5045.87,insurance payout - zamora-allen,,Only in Bank
+2025-02-16,9345.85,"office rent - jennings, skinner and greene",,Only in Bank
+2025-02-19,8622.06,insurance payout - curtis-fields,,Only in Bank
+2025-03-02,9549.08,vendor payment - le inc,,Only in Bank
+2025-01-03,5914.9,invoice payment - cherry-turner,,Only in Bank
+2025-02-03,2235.86,invoice payment - little-turner,,Only in Bank
+2025-02-20,5115.44,customer refund - cunningham-franklin,,Only in Bank
+2025-02-23,4293.39,"service fee - turner, wood and conley",,Only in Bank
+2025-01-11,6441.32,customer refund - sanchez inc,,Only in Bank
+2025-03-20,1611.54,"vendor payment - knight, mills and miller",,Only in Bank
+2025-01-20,5410.26,service fee - thornton llc,,Only in Bank
+2025-03-17,6379.51,vendor payment - johnston-russell,,Only in Bank
+2025-01-15,4588.38,"insurance payout - fleming, price and miranda",,Only in Bank
+2025-01-08,3161.97,office rent - collins-cherry,,Only in Bank
+2025-01-16,225.38,"office rent - alexander, greer and summers",,Only in Bank
+2025-03-31,212.37,"equipment purchase - garcia, lewis and anderson",,Only in Bank
+2025-02-14,5277.75,"travel expense - johnson, ryan and smith",,Only in Bank
+2025-02-12,8090.37,travel expense - webb-evans,,Only in Bank
+2025-03-07,3665.23,equipment purchase - rose-nguyen,,Only in Bank
+2025-03-14,1752.13,"office rent - hall, lee and romero",,Only in Bank
+2025-02-02,7755.96,insurance payout - oneal-hayes,,Only in Bank
+2025-03-28,7255.51,salary transfer - vasquez llc,,Only in Bank
+2025-03-07,125.43,invoice payment - shannon plc,,Only in Bank
+2025-01-29,3285.84,service fee - moore-barajas,,Only in Bank
+2025-03-15,3790.8,customer refund - davis llc,,Only in Bank
+2025-03-28,9029.22,office rent - marquez-johnson,,Only in Bank
+2025-02-21,782.37,"equipment purchase - lara, barton and diaz",,Only in Bank
+2025-02-06,7757.92,"travel expense - gibson, morris and koch",,Only in Bank
+2025-01-02,3752.3,"travel expense - krause, gonzalez and oliver",,Only in Bank
+2025-03-14,7866.62,insurance payout - miller-williams,,Only in Bank
+2025-02-01,4692.87,insurance payout - smith plc,,Only in Bank
+2025-03-05,9978.09,salary transfer - wilkins-myers,,Only in Bank
+2025-03-11,7628.77,salary transfer - martin inc,,Only in Bank
+2025-01-20,163.14,service fee - davis-martin,,Only in Bank
+2025-01-04,2406.68,bank charges - wright-murphy,,Only in Bank
+2025-02-09,1129.1,customer refund - russell-williams,,Only in Bank
+2025-01-19,7145.36,"vendor payment - smith, dixon and clark",,Only in Bank
+2025-02-22,7038.38,bank charges - reed-perez,,Only in Bank
+2025-02-28,9748.09,"vendor payment - king, evans and taylor",,Only in Bank
+2025-03-16,1046.21,"office rent - ochoa, williams and obrien",,Only in Bank
+2025-03-23,8217.63,vendor payment - rivera plc,,Only in Bank
+2025-03-26,9645.76,salary transfer - waters-rodriguez,,Only in Bank
+2025-02-07,2683.81,bank charges - obrien-smith,,Only in Bank
+2025-02-20,7037.18,"bank charges - short, love and johnston",,Only in Bank
+2025-02-10,4582.3,salary transfer - lopez and sons,,Only in Bank
+2025-01-10,9441.19,office rent - jones group,,Only in Bank
+2025-03-16,1178.83,vendor payment - anderson-roberts,,Only in Bank
+2025-01-22,4550.71,"bank charges - jackson, davis and clark",,Only in Bank
+2025-02-22,1295.29,"bank charges - castro, hale and price",,Only in Bank
+2025-01-27,4573.98,"equipment purchase - evans, ballard and smith",,Only in Bank
+2025-01-21,8095.21,"travel expense - jones, lewis and armstrong",,Only in Bank
+2025-04-01,6999.09,invoice payment - carter-ellis,,Only in Bank
+2025-01-19,1003.01,"salary transfer - tucker, maldonado and frazier",,Only in Bank
+2025-02-15,4022.82,"invoice payment - becker, rhodes and nicholson",,Only in Bank
+2025-01-04,9525.76,"equipment purchase - lynch, morales and riley",,Only in Bank
+2025-03-13,7505.98,salary transfer - jones and sons,,Only in Bank
+2025-01-13,4674.23,"office rent - lester, martinez and ward",,Only in Bank
+2025-01-16,218.37,"salary transfer - sanders, nichols and pugh",,Only in Bank
+2025-01-17,2061.52,service fee - foster-edwards,,Only in Bank
+2025-03-16,5902.58,vendor payment - huffman-harper,,Only in Bank
+2025-03-24,4489.97,office rent - miller ltd,,Only in Bank
+2025-01-12,9060.27,"bank charges - hicks, lambert and robinson",,Only in Bank
+2025-01-16,522.69,equipment purchase - gross and sons,,Only in Bank
+2025-01-07,1763.09,insurance payout - sanders plc,,Only in Bank
+2025-02-25,8234.69,service fee - esparza plc,,Only in Bank
+2025-02-05,2870.56,office rent - castro plc,,Only in Bank
+2025-01-05,6179.66,insurance payout - farley ltd,,Only in Bank
+2025-02-01,6508.06,"equipment purchase - king, hill and malone",,Only in Bank
+2025-02-22,8839.51,equipment purchase - nicholson-padilla,,Only in Bank
+2025-01-08,968.44,"service fee - nash, christian and leonard",,Only in Bank
+2025-02-01,6344.47,"customer refund - gonzalez, miller and baker",,Only in Bank
+2025-01-03,9895.1,bank charges - walker plc,,Only in Bank
+2025-01-04,3256.89,salary transfer - glass-hale,,Only in Bank
+2025-01-04,8968.07,travel expense - savage llc,,Only in Bank
+2025-01-08,8105.67,"equipment purchase - jones, allen and mclaughlin",,Only in Bank
+2025-03-09,3638.59,insurance payout - rowland ltd,,Only in Bank
+2025-01-30,9742.4,vendor payment - lee ltd,,Only in Bank
+2025-02-01,6602.96,"travel expense - khan, carter and guzman",,Only in Bank
+2025-03-10,8181.22,invoice payment - smith and sons,,Only in Bank
+2025-02-15,9358.54,office rent - barry-jackson,,Only in Bank
+2025-03-31,3651.95,"insurance payout - gonzalez, armstrong and yoder",,Only in Bank
+2025-01-04,7064.18,bank charges - steele llc,,Only in Bank
+2025-03-14,5679.7,insurance payout - yang-pierce,,Only in Bank
+2025-01-25,8383.3,equipment purchase - walker-miller,,Only in Bank
+2025-03-11,3159.63,equipment purchase - phillips-hardy,,Only in Bank
+2025-01-05,993.55,salary transfer - chaney plc,,Only in Bank
+2025-03-03,106.77,insurance payout - brown ltd,,Only in Bank
+2025-01-26,8083.81,"bank charges - webb, stewart and bass",,Only in Bank
+2025-01-23,9195.93,bank charges - marquez-stokes,,Only in Bank
+2025-01-08,316.94,insurance payout - collins group,,Only in Bank
+2025-03-09,8620.63,"vendor payment - mitchell, holland and burnett",,Only in Bank
+2025-02-25,7939.24,equipment purchase - willis and sons,,Only in Bank
+2025-03-25,3241.11,"customer refund - green, fuller and jordan",,Only in Bank
+2025-03-30,8907.04,"insurance payout - jackson, underwood and roberts",,Only in Bank
+2025-02-15,2310.05,"insurance payout - donovan, gallagher and mcguire",,Only in Bank
+2025-01-17,1859.31,invoice payment - sullivan-parsons,,Only in Bank
+2025-03-14,420.59,insurance payout - koch-nixon,,Only in Bank
+2025-02-10,9218.28,insurance payout - austin-jackson,,Only in Bank
+2025-01-31,3533.42,"bank charges - carroll, goodwin and moreno",,Only in Bank
+2025-04-01,6733.24,bank charges - morris plc,,Only in Bank
+2025-02-27,212.82,salary transfer - foster-nguyen,,Only in Bank
+2025-02-01,6962.44,"bank charges - shepard, grant and mccoy",,Only in Bank
+2025-02-02,7891.5,invoice payment - lee inc,,Only in Bank
+2025-01-07,3920.78,service fee - montgomery-miller,,Only in Bank
+2025-01-22,8857.06,"equipment purchase - fox, mueller and green",,Only in Bank
+2025-02-18,3577.19,"service fee - cummings, ball and jones",,Only in Bank
+2025-03-25,7606.61,salary transfer - gonzalez-brown,,Only in Bank
+2025-01-21,4567.75,"invoice payment - smith, willis and rivers",,Only in Bank
+2025-02-07,298.77,"travel expense - adams, campbell and phillips",,Only in Bank
+2025-02-27,2701.87,vendor payment - sparks-duncan,,Only in Bank
+2025-01-17,964.24,service fee - malone-vega,,Only in Bank
+2025-01-14,1018.18,vendor payment - reyes llc,,Only in Bank
+2025-03-31,8813.06,customer refund - morgan group,,Only in Bank
+2025-03-20,9981.69,travel expense - crawford llc,,Only in Bank
+2025-02-18,4715.88,bank charges - page-bishop,,Only in Bank
+2025-01-28,7696.76,travel expense - lee-singh,,Only in Bank
+2025-03-26,9647.66,insurance payout - alvarez-reyes,,Only in Bank
+2025-02-04,1339.19,"travel expense - davis, williams and irwin",,Only in ERP
+2025-02-07,5977.87,customer refund - elliott inc,,Only in ERP
+2025-03-10,7500.41,"customer refund jones, gallagher and bryant",,Only in ERP
+2025-02-09,5990.94,insurance payout kelly-moore,,Only in ERP
+2025-03-03,9152.97,insurance payout andrews-henderson,,Only in ERP
+2025-03-04,9333.27,travel expense kelley plc,,Only in ERP
+2025-02-06,3576.35,customer refund jensen-solomon,,Only in ERP
+2025-02-08,7559.4,service fee valdez group,,Only in ERP
+2025-03-29,580.29,"invoice txn cross, salinas and woods",,Only in ERP
+2025-01-05,9895.1,bank charges walker plc,,Only in ERP
+2025-02-03,3290.82,"salary txn taylor, hudson and dunn",,Only in ERP
+2025-02-28,8337.06,bank charges fisher inc,,Only in ERP
+2025-03-26,8770.69,salary txn thomas-patel,,Only in ERP
+2025-02-28,6384.92,bank charges proctor-sullivan,,Only in ERP
+2025-03-22,4476.21,invoice txn durham inc,,Only in ERP
+2025-02-01,4692.87,insurance payout smith plc,,Only in ERP
+2025-03-09,5486.41,customer refund harvey group,,Only in ERP
+2025-01-08,5109.01,bank charges berg and sons,,Only in ERP
+2025-02-02,7657.27,equipment purchase whitehead-pearson,,Only in ERP
+2025-02-09,5202.3,"customer refund foley, johnson and young",,Only in ERP
+2025-03-29,784.67,service fee - king ltd,,Only in ERP
+2025-01-30,9742.4,vendor txn lee ltd,,Only in ERP
+2025-02-06,1306.55,customer refund moran plc,,Only in ERP
+2025-01-15,4588.38,"insurance payout fleming, price and miranda",,Only in ERP
+2025-02-27,2701.87,vendor txn sparks-duncan,,Only in ERP
+2025-03-06,6093.73,vendor txn hernandez-butler,,Only in ERP
+2025-01-30,8660.04,invoice payment - vance-olson,,Only in ERP
+2025-01-07,8269.84,"invoice payment - rodriguez, walter and armstrong",,Only in ERP
+2025-01-22,5410.26,service fee - thornton llc,,Only in ERP
+2025-02-26,1747.01,travel expense stewart-perez,,Only in ERP
+2025-03-25,3088.47,travel expense lynch-tapia,,Only in ERP
+2025-01-18,7454.52,"office rent pennington, carney and carter",,Only in ERP
+2025-02-10,4197.91,insurance payout gonzales group,,Only in ERP
+2025-01-27,779.24,"customer refund baker, castro and green",,Only in ERP
+2025-01-17,5977.43,customer refund armstrong plc,,Only in ERP
+2025-02-24,1236.29,salary txn ruiz and sons,,Only in ERP
+2025-02-19,9057.9,"insurance payout wells, murphy and wheeler",,Only in ERP
+2025-03-05,564.15,bank charges young ltd,,Only in ERP
+2025-02-08,5120.51,service fee allen-martin,,Only in ERP
+2025-01-27,5963.05,"customer refund - anderson, powell and huang",,Only in ERP
+2025-01-30,5155.69,customer refund - smith-nunez,,Only in ERP
+2025-02-03,7755.96,insurance payout - oneal-hayes,,Only in ERP
+2025-01-19,2517.55,service fee davis ltd,,Only in ERP
+2025-01-28,4573.98,"equipment purchase - evans, ballard and smith",,Only in ERP
+2025-01-14,3913.43,"insurance payout - short, mitchell and jenkins",,Only in ERP
+2025-02-26,7371.89,insurance payout - reynolds-peters,,Only in ERP
+2025-01-02,265.59,travel expense mcguire ltd,,Only in ERP
+2025-01-17,5608.07,"insurance payout ortiz, jenkins and jimenez",,Only in ERP
+2025-03-31,3501.38,"vendor txn smith, brown and johnson",,Only in ERP
+2025-01-29,334.28,"salary txn stephens, chapman and gardner",,Only in ERP
+2025-03-06,5631.36,bank charges torres inc,,Only in ERP
+2025-02-09,4514.57,service fee francis llc,,Only in ERP
+2025-02-05,7544.9,"service fee warner, hart and parker",,Only in ERP
+2025-03-01,2119.83,"insurance payout compton, brooks and velazquez",,Only in ERP
+2025-02-26,5614.15,customer refund carlson-byrd,,Only in ERP
+2025-01-22,1703.47,"salary txn reed, meadows and woodard",,Only in ERP
+2025-02-24,6892.37,equipment purchase lamb-white,,Only in ERP
+2025-03-14,9837.72,service fee moore-white,,Only in ERP
+2025-01-24,287.48,bank charges - mata-smith,,Only in ERP
+2025-01-14,4674.23,"office rent lester, martinez and ward",,Only in ERP
+2025-03-24,9576.65,customer refund quinn llc,,Only in ERP
+2025-01-01,9067.99,invoice txn young plc,,Only in ERP
+2025-01-07,6090.44,equipment purchase - richards-hansen,,Only in ERP
+2025-02-13,3575.13,office rent davis-ryan,,Only in ERP
+2025-01-31,8659.6,"office rent adams, hodges and kennedy",,Only in ERP
+2025-03-05,7495.44,office rent hernandez llc,,Only in ERP
+2025-01-30,5386.71,travel expense valdez-clark,,Only in ERP
+2025-02-28,9507.52,bank charges pearson-gutierrez,,Only in ERP
+2025-03-09,3945.79,insurance payout graham-brown,,Only in ERP
+2025-03-29,5221.86,"office rent jones, martinez and hogan",,Only in ERP
+2025-03-22,630.75,bank charges macdonald-escobar,,Only in ERP
+2025-01-21,3801.75,"office rent - smith, perez and rogers",,Only in ERP
+2025-01-04,3256.89,salary txn glass-hale,,Only in ERP
+2025-01-23,663.11,customer refund vazquez-sherman,,Only in ERP
+2025-01-31,5831.3,invoice payment - white and sons,,Only in ERP
+2025-03-28,6019.07,"bank charges mendez, banks and cooper",,Only in ERP
+2025-01-03,5214.61,salary txn moore group,,Only in ERP
+2025-01-13,2424.52,customer refund cooley plc,,Only in ERP
+2025-02-06,4747.03,equipment purchase lewis-spears,,Only in ERP
+2025-01-19,2042.3,salary txn quinn-jensen,,Only in ERP
+2025-03-13,7450.93,"equipment purchase - klein, gutierrez and martinez",,Only in ERP
+2025-01-04,8362.49,insurance payout hinton llc,,Only in ERP
+2025-03-19,6715.07,bank charges - mcclain plc,,Only in ERP
+2025-01-17,964.24,service fee malone-vega,,Only in ERP
+2025-03-31,7576.8,service fee bass-nixon,,Only in ERP
+2025-02-03,8365.62,"equipment purchase reed, marshall and english",,Only in ERP
+2025-03-14,2992.15,office rent - kelly-thornton,,Only in ERP
+2025-03-28,8088.46,invoice txn gay-johnson,,Only in ERP
+2025-03-25,3386.05,vendor txn sharp plc,,Only in ERP
+2025-01-02,5914.9,invoice payment - cherry-turner,,Only in ERP
+2025-01-28,9684.47,salary txn adams-herrera,,Only in ERP
+2025-01-02,4637.03,"insurance payout levy, gibson and perkins",,Only in ERP
+2025-02-09,423.68,salary txn banks-silva,,Only in ERP
+2025-03-22,5008.44,"insurance payout joseph, morris and monroe",,Only in ERP
+2025-03-18,432.41,insurance payout weeks-young,,Only in ERP
+2025-03-31,4699.77,equipment purchase - hall-novak,,Only in ERP
+2025-03-12,5156.98,"insurance payout patterson, roberts and martin",,Only in ERP
+2025-03-24,1769.5,insurance payout holmes group,,Only in ERP
+2025-01-19,3864.05,"salary txn nguyen, ruiz and medina",,Only in ERP
+2025-03-20,6835.95,"vendor payment - white, miller and fields",,Only in ERP
+2025-03-04,2607.81,"salary txn rodriguez, torres and williams",,Only in ERP
+2025-02-20,3212.42,travel expense roberts group,,Only in ERP
+2025-03-29,8859.41,travel expense cameron ltd,,Only in ERP
+2025-01-31,4256.27,insurance payout king-harper,,Only in ERP
+2025-02-14,2319.8,"vendor txn costa, kelly and santos",,Only in ERP
+2025-01-31,6835.39,"insurance payout - trevino, madden and robertson",,Only in ERP
+2025-03-29,3539.51,"vendor payment - brooks, wright and johnson",,Only in ERP
+2025-02-06,2180.81,insurance payout turner group,,Only in ERP
+2025-03-14,7866.62,insurance payout miller-williams,,Only in ERP
+2025-02-25,6350.71,travel expense ware-williams,,Only in ERP
+2025-02-12,3441.26,service fee gonzalez-salas,,Only in ERP
+2025-03-21,5387.82,service fee martin inc,,Only in ERP
+2025-01-03,2681.77,"salary txn owens, blackburn and green",,Only in ERP
+2025-01-16,2752.1,"customer refund - kennedy, perez and sexton",,Only in ERP
+2025-03-22,1061.92,invoice txn mejia-charles,,Only in ERP
+2025-03-10,4787.84,salary txn jones-livingston,,Only in ERP
+2025-01-22,8857.06,"equipment purchase fox, mueller and green",,Only in ERP
+2025-03-15,124.48,vendor txn myers-jones,,Only in ERP
+2025-01-28,5875.11,invoice txn watson plc,,Only in ERP
+2025-02-04,7498.43,bank charges chavez plc,,Only in ERP
+2025-02-18,7969.48,bank charges fletcher inc,,Only in ERP
+2025-01-18,218.37,"salary txn sanders, nichols and pugh",,Only in ERP
+2025-01-18,2554.27,"vendor txn romero, torres and lawson",,Only in ERP
+2025-01-03,9525.76,"equipment purchase - lynch, morales and riley",,Only in ERP
+2025-03-13,8776.96,"bank charges - cook, rodriguez and cisneros",,Only in ERP
+2025-02-15,1083.61,bank charges pope-weiss,,Only in ERP
+2025-01-12,4423.45,"vendor txn hurley, holder and ruiz",,Only in ERP
+2025-03-01,2783.84,vendor txn lucero plc,,Only in ERP
+2025-01-05,6179.66,insurance payout farley ltd,,Only in ERP
+2025-03-09,2957.84,"equipment purchase villarreal, lopez and rivas",,Only in ERP
+2025-01-31,4513.21,"service fee norman, bell and smith",,Only in ERP
+2025-03-09,878.61,travel expense benson group,,Only in ERP
+2025-01-30,5925.56,invoice txn lee-robinson,,Only in ERP
+2025-01-03,7252.19,service fee - sheppard-williams,,Only in ERP
+2025-03-11,3607.44,travel expense hamilton-hernandez,,Only in ERP
+2025-03-10,8620.63,"vendor payment - mitchell, holland and burnett",,Only in ERP
+2025-02-07,2683.81,bank charges obrien-smith,,Only in ERP
+2025-03-11,9199.61,salary txn meyers-fuller,,Only in ERP
+2025-01-24,2857.6,salary txn turner-holmes,,Only in ERP
+2025-03-29,3869.25,office rent warren llc,,Only in ERP
+2025-01-11,1649.67,service fee - richardson group,,Only in ERP
+2025-03-04,833.41,"invoice txn wells, hodges and hinton",,Only in ERP
+2025-01-31,3087.47,"office rent riley, elliott and hoover",,Only in ERP
+2025-03-31,3091.68,service fee jackson plc,,Only in ERP
+2025-03-28,7212.24,"office rent - cunningham, martinez and hall",,Only in ERP
+2025-03-07,4985.81,invoice txn palmer-holland,,Only in ERP
+2025-03-14,1752.13,"office rent hall, lee and romero",,Only in ERP
+2025-03-29,9498.87,"customer refund - sexton, leach and mitchell",,Only in ERP
+2025-01-09,3513.54,vendor txn clayton-martin,,Only in ERP
+2025-02-19,8968.03,service fee luna-cortez,,Only in ERP
+2025-01-22,8421.01,"office rent pineda, escobar and kelley",,Only in ERP
+2025-03-14,671.59,equipment purchase butler inc,,Only in ERP
+2025-01-21,1658.36,"insurance payout - henson, walsh and ross",,Only in ERP
+2025-01-26,8083.81,"bank charges webb, stewart and bass",,Only in ERP
+2025-03-17,3712.13,office rent - thomas-sanders,,Only in ERP
+2025-01-05,993.55,salary txn chaney plc,,Only in ERP
+2025-02-05,8113.36,invoice txn collins llc,,Only in ERP
+2025-02-25,8234.69,service fee esparza plc,,Only in ERP
+2025-02-11,9161.03,salary txn gomez-jackson,,Only in ERP
+2025-02-10,9218.28,insurance payout austin-jackson,,Only in ERP
+2025-01-24,7712.82,service fee smith-peters,,Only in ERP
+2025-03-30,2439.4,vendor txn johnson-irwin,,Only in ERP
+2025-02-01,1547.81,bank charges robinson and sons,,Only in ERP
+2025-02-05,827.96,"customer refund moss, hamilton and smith",,Only in ERP
+2025-02-27,8709.24,service fee davis-lopez,,Only in ERP
+2025-02-09,6872.01,"vendor payment - harper, green and hodge",,Only in ERP
+2025-04-01,2175.52,travel expense hamilton-palmer,,Only in ERP
+2025-02-22,3349.79,"vendor payment - johnson, boone and morgan",,Only in ERP
+2025-03-19,1162.28,bank charges jones group,,Only in ERP
+2025-02-24,9966.65,customer refund riley-choi,,Only in ERP
+2025-03-05,7731.66,customer refund - joseph-cunningham,,Only in ERP
+2025-02-17,5198.3,"vendor txn smith, smith and phillips",,Only in ERP
+2025-01-09,8804.78,bank charges juarez plc,,Only in ERP
+2025-01-29,6109.94,bank charges welch-smith,,Only in ERP
+2025-03-01,3137.38,"service fee richardson, arroyo and williams",,Only in ERP
+2025-02-22,1461.17,"salary txn bryant, moore and hodges",,Only in ERP
+2025-01-10,5302.52,"customer refund - mahoney, johnson and lee",,Only in ERP
+2025-02-12,8656.04,"bank charges - lawrence, johnston and holloway",,Only in ERP
+2025-02-24,9681.08,"customer refund - webster, smith and escobar",,Only in ERP
+2025-01-18,5181.15,equipment purchase doyle-hurst,,Only in ERP
+2025-03-18,8988.33,"equipment purchase clarke, shields and johnson",,Only in ERP
+2025-01-23,3365.06,"equipment purchase salas, young and kelly",,Only in ERP
+2025-03-04,5551.36,bank charges simmons inc,,Only in ERP
+2025-02-28,9907.94,equipment purchase huffman and sons,,Only in ERP
+2025-03-03,3553.15,travel expense davis llc,,Only in ERP
+2025-01-25,8066.04,insurance payout steele-clark,,Only in ERP
+2025-02-06,7969.87,vendor payment - taylor inc,,Only in ERP
+2025-02-21,3580.2,"service fee - snyder, hill and craig",,Only in ERP
+2025-02-09,6673.2,"bank charges bowman, chavez and mason",,Only in ERP
+2025-03-26,3862.72,insurance payout hensley-short,,Only in ERP
+2025-02-10,4801.44,invoice txn rollins and sons,,Only in ERP
+2025-03-23,1608.59,"office rent walker, alvarez and rose",,Only in ERP
+2025-02-08,3581.3,insurance payout - george-mason,,Only in ERP
+2025-02-13,3187.71,"equipment purchase - andersen, velez and jensen",,Only in ERP
+2025-01-07,4041.58,salary transfer - weaver-mcintyre,,Only in ERP
+2025-02-07,3648.79,"service fee parrish, chan and taylor",,Only in ERP
+2025-03-02,4537.92,"bank charges randolph, watson and cohen",,Only in ERP
+2025-02-27,8982.36,"equipment purchase silva, stafford and mercado",,Only in ERP
+2025-02-06,298.77,"travel expense - adams, campbell and phillips",,Only in ERP
+2025-03-26,4947.44,office rent king-levy,,Only in ERP
+2025-01-01,5368.9,service fee roberson ltd,,Only in ERP
+2025-03-14,5679.7,insurance payout yang-pierce,,Only in ERP
+2025-01-10,316.94,insurance payout collins group,,Only in ERP
+2025-03-25,1002.87,vendor txn austin group,,Only in ERP
+2025-01-04,555.31,invoice txn pena and sons,,Only in ERP
+2025-01-24,3721.35,"salary txn patel, harris and barrera",,Only in ERP
+2025-01-13,8528.29,vendor payment - thomas inc,,Only in ERP
+2025-03-01,7569.01,insurance payout horton ltd,,Only in ERP
+2025-01-16,9495.21,"equipment purchase lynch, buck and mann",,Only in ERP
+2025-01-14,5945.88,invoice payment - hale llc,,Only in ERP
+2025-03-03,106.77,insurance payout brown ltd,,Only in ERP
+2025-03-30,3571.25,insurance payout williams inc,,Only in ERP
+2025-02-09,5770.08,customer refund - edwards-bell,,Only in ERP
+2025-01-20,4453.65,equipment purchase rangel plc,,Only in ERP
+2025-01-10,5961.77,"salary txn warner, sims and johnson",,Only in ERP
+2025-01-18,4826.8,"salary txn yu, west and mata",,Only in ERP
+2025-03-27,6569.21,vendor txn ramirez llc,,Only in ERP
+2025-01-10,7100.98,invoice payment - meyer llc,,Only in ERP
+2025-03-28,7432.61,customer refund lynch inc,,Only in ERP
+2025-01-25,8383.3,equipment purchase walker-miller,,Only in ERP
+2025-02-10,1801.54,"insurance payout bowman, glass and williamson",,Only in ERP
+2025-03-24,4338.85,insurance payout - anderson-mcintyre,,Only in ERP
+2025-03-07,4721.47,travel expense wilcox-martin,,Only in ERP
+2025-02-01,3081.4,invoice txn james-edwards,,Only in ERP
+2025-01-04,6377.82,"equipment purchase knight, williams and davis",,Only in ERP
+2025-02-15,5136.68,"vendor txn huff, clark and castillo",,Only in ERP
+2025-01-08,4085.95,bank charges gutierrez-clark,,Only in ERP
+2025-03-09,3665.23,equipment purchase - rose-nguyen,,Only in ERP
+2025-03-08,6059.99,customer refund - weber inc,,Only in ERP
+2025-02-17,4022.82,"invoice txn becker, rhodes and nicholson",,Only in ERP
+2025-04-01,9142.96,service fee johnson plc,,Only in ERP
+2025-01-15,1018.18,vendor txn reyes llc,,Only in ERP
+2025-01-12,4031.0,invoice txn day ltd,,Only in ERP
+2025-02-08,943.29,"salary txn watkins, henry and burke",,Only in ERP
+2025-01-31,6344.47,"customer refund gonzalez, miller and baker",,Only in ERP
+2025-03-19,4289.07,salary txn martin ltd,,Only in ERP
+2025-01-05,8968.07,travel expense - savage llc,,Only in ERP
+2025-02-07,1240.22,"invoice txn marquez, ortiz and gonzales",,Only in ERP
+2025-02-01,6962.44,"bank charges shepard, grant and mccoy",,Only in ERP
+2025-01-27,4357.69,"salary txn williams, brooks and baker",,Only in ERP
+2025-03-10,3830.57,office rent - clements-moody,,Only in ERP
+2025-02-27,6843.22,"insurance payout aguilar, riggs and mccann",,Only in ERP
+2025-01-20,3400.28,"insurance payout fitzpatrick, rose and pearson",,Only in ERP
+2025-03-29,9409.6,office rent - gould-henry,,Only in ERP
+2025-03-09,9777.05,invoice txn jordan ltd,,Only in ERP
+2025-03-02,9748.09,"vendor payment - king, evans and taylor",,Only in ERP
+2025-02-11,9398.45,vendor payment - contreras-mccoy,,Only in ERP
+2025-02-09,4634.62,invoice txn castillo inc,,Only in ERP
+2025-03-23,8926.59,equipment purchase barr group,,Only in ERP
+2025-02-12,255.02,"salary txn campbell, serrano and carter",,Only in ERP
+2025-03-24,2845.38,customer refund - figueroa group,,Only in ERP
+2025-03-13,6433.96,office rent - romero-johnson,,Only in ERP
+2025-01-30,7573.94,vendor payment - rice plc,,Only in ERP
+2025-03-14,7150.31,service fee jones inc,,Only in ERP
+2025-02-06,6659.58,"service fee bowman, smith and conway",,Only in ERP
+2025-01-01,9435.31,"equipment purchase wilson, cox and lopez",,Only in ERP
+2025-01-22,7354.45,bank charges ford inc,,Only in ERP
+2025-01-04,1207.49,bank charges alvarez-sanders,,Only in ERP
+2025-01-28,5106.76,"bank charges doyle, allen and davis",,Only in ERP
+2025-01-03,9648.74,office rent - brown inc,,Only in ERP
+2025-03-19,3798.89,customer refund cherry and sons,,Only in ERP
+2025-01-16,8739.93,"insurance payout - owen, wong and jones",,Only in ERP
+2025-03-07,5977.29,equipment purchase torres inc,,Only in ERP
+2025-01-18,6012.74,office rent - maldonado-davenport,,Only in ERP
+2025-01-28,9022.6,insurance payout rocha-daniels,,Only in ERP
+2025-01-19,8327.36,"vendor txn donaldson, gallagher and george",,Only in ERP
+2025-03-04,9137.01,"office rent - proctor, smith and cortez",,Only in ERP
+2025-02-12,4458.21,service fee meyers-parker,,Only in ERP
+2025-03-04,329.45,service fee james-davenport,,Only in ERP
+2025-01-29,6402.52,"insurance payout ward, rodgers and preston",,Only in ERP
+2025-02-18,3379.27,"vendor txn webb, jones and whitehead",,Only in ERP
+2025-01-20,1890.38,insurance payout gould and sons,,Only in ERP
+2025-03-12,7273.39,salary txn bowman group,,Only in ERP
+2025-01-20,1728.92,"customer refund nicholson, gonzalez and brown",,Only in ERP
+2025-03-26,8706.74,equipment purchase drake-turner,,Only in ERP
+2025-01-01,7392.52,"travel expense silva, watson and arnold",,Only in ERP
+2025-03-30,9199.69,office rent thompson-smith,,Only in ERP
+2025-01-18,8742.72,invoice txn taylor plc,,Only in ERP
+2025-02-16,7046.18,customer refund smith-evans,,Only in ERP
+2025-03-02,9049.35,salary txn wong plc,,Only in ERP
+2025-01-14,8202.39,salary transfer - oneill-perez,,Only in ERP
+2025-01-17,765.61,bank charges johnson inc,,Only in ERP
+2025-02-23,3455.42,equipment purchase - carroll-ramsey,,Only in ERP
+2025-02-10,3274.59,"salary txn ward, mitchell and hill",,Only in ERP
+2025-02-10,2925.61,invoice txn cardenas group,,Only in ERP
+2025-02-05,6008.89,office rent estrada-mcdonald,,Only in ERP
+2025-02-20,5115.44,customer refund cunningham-franklin,,Only in ERP
+2025-03-01,597.16,"salary txn watson, colon and hill",,Only in ERP
+2025-03-29,4506.16,invoice txn beck llc,,Only in ERP
+2025-02-04,7273.39,customer refund hernandez-arellano,,Only in ERP
+2025-02-02,2601.55,office rent - quinn-williams,,Only in ERP
+2025-02-14,7301.05,"office rent frey, harris and snyder",,Only in ERP
+2025-03-01,9094.19,travel expense nelson-brewer,,Only in ERP
+2025-03-19,7713.16,"insurance payout middleton, benson and sloan",,Only in ERP
+2025-03-29,8607.49,service fee hawkins-wilson,,Only in ERP
+2025-01-13,3811.64,"invoice payment - nicholson, smith and martinez",,Only in ERP
+2025-03-06,498.52,"invoice txn ortega, douglas and mitchell",,Only in ERP
+2025-01-12,6580.42,travel expense reed-andersen,,Only in ERP
+2025-04-01,4744.19,insurance payout guerrero-serrano,,Only in ERP
+2025-03-16,7228.12,"travel expense parker, scott and lester",,Only in ERP
+2025-03-28,8975.61,"bank charges donovan, mclean and alexander",,Only in ERP
+2025-01-18,7164.56,"equipment purchase french, jackson and anderson",,Only in ERP
+2025-03-13,4812.45,"invoice txn sanchez, chan and bennett",,Only in ERP
+2025-02-24,3510.84,vendor txn fisher and sons,,Only in ERP
+2025-02-25,5366.14,salary transfer - gentry plc,,Only in ERP
+2025-01-18,5706.58,service fee morris llc,,Only in ERP
+2025-02-01,6508.06,"equipment purchase king, hill and malone",,Only in ERP
+2025-01-16,5229.21,"travel expense smith, garcia and blake",,Only in ERP
+2025-03-12,1566.13,office rent conley-lopez,,Only in ERP
+2025-03-04,8178.63,customer refund roberson-guzman,,Only in ERP
+2025-03-31,293.37,insurance payout potts-schmitt,,Only in ERP
+2025-01-13,6843.8,office rent sanchez group,,Only in ERP
+2025-02-16,5815.79,vendor txn anderson-jones,,Only in ERP
+2025-01-08,3920.78,service fee - montgomery-miller,,Only in ERP
+2025-03-23,8217.63,vendor txn rivera plc,,Only in ERP
+2025-03-29,7255.51,salary txn vasquez llc,,Only in ERP
+2025-03-07,4624.19,insurance payout - herrera-yates,,Only in ERP
+2025-02-10,765.03,invoice txn durham and sons,,Only in ERP
+2025-03-04,5237.74,equipment purchase dennis-humphrey,,Only in ERP
+2025-01-06,3005.08,invoice txn friedman-rivera,,Only in ERP
+2025-01-21,8234.45,salary txn jones-lawrence,,Only in ERP
+2025-01-31,3533.42,"bank charges carroll, goodwin and moreno",,Only in ERP
+2025-01-02,1329.95,office rent - moody-thomas,,Only in ERP
+2025-03-06,2725.48,bank charges jimenez and sons,,Only in ERP
+2025-02-26,6970.91,equipment purchase - bradley-garcia,,Only in ERP
+2025-01-01,7586.18,travel expense ramirez-baker,,Only in ERP
+2025-01-12,9060.27,"bank charges hicks, lambert and robinson",,Only in ERP
+2025-01-16,2561.7,salary txn lowery plc,,Only in ERP
+2025-03-10,3638.59,insurance payout - rowland ltd,,Only in ERP
+2025-03-14,7848.09,bank charges lee plc,,Only in ERP
+2025-01-08,3161.97,office rent collins-cherry,,Only in ERP
+2025-01-18,5624.92,service fee skinner-kennedy,,Only in ERP
+2025-03-15,4939.4,customer refund rice-garrett,,Only in ERP
+2025-03-04,6991.11,office rent fox llc,,Only in ERP
+2025-02-21,4218.3,vendor txn bell-rodriguez,,Only in ERP
+2025-03-14,1638.93,travel expense mendoza-brooks,,Only in ERP
+2025-01-07,191.74,insurance payout hall and sons,,Only in ERP
+2025-01-05,5768.45,"vendor txn ross, lee and lewis",,Only in ERP
+2025-02-12,6270.27,"service fee - price, cervantes and cooper",,Only in ERP
+2025-01-19,9753.32,"service fee mitchell, hill and white",,Only in ERP
+2025-02-23,716.43,service fee hill-jones,,Only in ERP
+2025-01-26,9957.37,"office rent hendricks, jones and meyer",,Only in ERP
+2025-03-18,3947.53,service fee cannon-shields,,Only in ERP
+2025-01-21,3194.57,bank charges burch inc,,Only in ERP
+2025-01-04,6233.51,customer refund morales-hill,,Only in ERP
+2025-03-30,5043.1,travel expense charles group,,Only in ERP
+2025-03-15,3790.8,customer refund davis llc,,Only in ERP
+2025-03-19,2901.69,vendor payment - smith llc,,Only in ERP
+2025-01-18,7549.21,insurance payout haynes inc,,Only in ERP
+2025-01-29,2743.86,office rent hood-collins,,Only in ERP
+2025-03-01,5845.26,"invoice txn carson, torres and richards",,Only in ERP
+2025-01-21,831.23,bank charges berg ltd,,Only in ERP
+2025-02-15,5586.78,"insurance payout stout, ramos and rivers",,Only in ERP
+2025-01-27,8707.79,bank charges webb-hart,,Only in ERP
+2025-03-15,4779.44,"equipment purchase mitchell, flores and cox",,Only in ERP
+2025-01-25,9226.49,"customer refund marks, garcia and baker",,Only in ERP
+2025-03-16,9512.78,"travel expense jones, pitts and willis",,Only in ERP
+2025-03-23,5125.86,"salary txn graham, walker and jones",,Only in ERP
+2025-04-01,2898.91,"equipment purchase williams, alvarado and lucas",,Only in ERP
+2025-02-22,8839.51,equipment purchase nicholson-padilla,,Only in ERP
+2025-02-12,3278.48,vendor txn hernandez-cooke,,Only in ERP
+2025-03-31,1614.61,office rent - rich inc,,Only in ERP
+2025-03-20,9981.69,travel expense crawford llc,,Only in ERP
+2025-03-19,7477.2,travel expense jacobs ltd,,Only in ERP
+2025-02-07,6722.88,salary txn butler-smith,,Only in ERP
+2025-02-02,2113.03,vendor txn ford and sons,,Only in ERP
+2025-01-19,2541.61,"customer refund soto, wilson and young",,Only in ERP
+2025-01-16,1866.89,"customer refund reyes, goodwin and smith",,Only in ERP
+2025-02-05,1896.74,insurance payout hampton and sons,,Only in ERP
+2025-03-06,4936.47,"invoice txn cox, bennett and price",,Only in ERP
+2025-02-12,3582.92,"equipment purchase nunez, gill and dickerson",,Only in ERP
+2025-03-28,3173.15,salary txn chen llc,,Only in ERP
+2025-02-09,6993.45,service fee alvarado-mckinney,,Only in ERP
+2025-02-11,9151.87,bank charges hunter llc,,Only in ERP
+2025-02-23,7911.86,vendor txn lawrence ltd,,Only in ERP
+2025-01-16,7240.71,"bank charges lloyd, reynolds and daniel",,Only in ERP
+2025-03-17,1046.21,"office rent ochoa, williams and obrien",,Only in ERP
+2025-03-18,772.81,salary txn hartman-barton,,Only in ERP
+2025-03-28,7269.75,service fee knight-pope,,Only in ERP
+2025-01-14,6379.42,travel expense king plc,,Only in ERP
+2025-01-15,711.4,"customer refund jennings, smith and garcia",,Only in ERP
+2025-01-17,2815.68,invoice txn smith-alexander,,Only in ERP
+2025-03-18,5352.51,equipment purchase smith-watkins,,Only in ERP
+2025-03-04,6304.81,travel expense schmidt-ayala,,Only in ERP
+2025-01-27,7941.45,salary transfer - ortega-wiggins,,Only in ERP
+2025-03-24,725.85,equipment purchase wilson llc,,Only in ERP
+2025-03-14,6776.57,"salary txn goodman, brown and rodriguez",,Only in ERP
+2025-02-05,3135.57,salary txn johnson llc,,Only in ERP
+2025-01-20,1462.24,travel expense graham inc,,Only in ERP
+2025-03-03,5078.22,customer refund wilson-williams,,Only in ERP
+2025-01-30,2802.06,"equipment purchase - hill, scott and montgomery",,Only in ERP
+2025-02-11,2985.34,equipment purchase carr-wilson,,Only in ERP
+2025-02-17,9540.57,"equipment purchase lynch, cook and hubbard",,Only in ERP
+2025-02-03,4551.0,office rent taylor inc,,Only in ERP
+2025-03-27,7606.61,salary transfer - gonzalez-brown,,Only in ERP
+2025-02-18,4369.84,bank charges green group,,Only in ERP
+2025-01-09,8105.67,"equipment purchase jones, allen and mclaughlin",,Only in ERP
+2025-03-12,7413.0,invoice payment - raymond plc,,Only in ERP
+2025-01-30,8235.85,bank charges burke ltd,,Only in ERP
+2025-03-12,1335.78,service fee foster-thomas,,Only in ERP
+2025-03-05,2758.51,travel expense baker inc,,Only in ERP
+2025-02-16,9550.63,"office rent wise, serrano and perez",,Only in ERP
+2025-03-28,8170.29,office rent horton inc,,Only in ERP
+2025-03-03,1066.47,equipment purchase odonnell inc,,Only in ERP
+2025-01-03,1513.52,insurance payout - whitaker-daniels,,Only in ERP
+2025-01-22,2474.67,customer refund bass-barrett,,Only in ERP
+2025-03-08,6108.58,salary txn hodges-gonzalez,,Only in ERP
+2025-03-15,2338.98,service fee smith plc,,Only in ERP
+2025-02-09,7907.24,invoice txn stewart-lynch,,Only in ERP
+2025-03-12,9408.24,insurance payout gonzalez ltd,,Only in ERP
+2025-02-17,3782.93,vendor txn calhoun-turner,,Only in ERP
+2025-03-20,6782.27,customer refund turner-sparks,,Only in ERP
+2025-01-10,2366.57,vendor txn becker-white,,Only in ERP
+2025-03-07,3682.1,bank charges solis-hester,,Only in ERP
+2025-03-21,3207.76,"vendor txn hodges, aguilar and hughes",,Only in ERP
+2025-01-17,5448.13,"office rent lucas, yang and phelps",,Only in ERP
+2025-03-09,125.43,invoice payment - shannon plc,,Only in ERP
+2025-01-31,2177.79,insurance payout howard llc,,Only in ERP
+2025-03-20,8168.56,customer refund peters group,,Only in ERP
+2025-03-25,6746.29,"customer refund - bryant, cooper and wood",,Only in ERP
+2025-02-17,7637.33,vendor txn giles-williams,,Only in ERP
+2025-03-12,9349.51,customer refund cummings ltd,,Only in ERP
+2025-03-12,3317.99,"equipment purchase - smith, payne and johnson",,Only in ERP
+2025-02-25,6484.58,bank charges logan and sons,,Only in ERP
+2025-01-28,9377.88,vendor txn lewis-boone,,Only in ERP
+2025-03-19,6386.29,customer refund rodriguez-charles,,Only in ERP
+2025-03-25,3241.11,"customer refund green, fuller and jordan",,Only in ERP
+2025-03-23,9800.0,office rent simmons llc,,Only in ERP
+2025-03-21,911.64,"insurance payout hood, black and underwood",,Only in ERP
+2025-03-21,1926.07,"service fee - mitchell, dawson and murphy",,Only in ERP
+2025-01-15,8238.94,"service fee murray, hernandez and mason",,Only in ERP
+2025-03-12,6049.89,insurance payout hopkins-ewing,,Only in ERP
+2025-01-09,1487.34,"travel expense thomas, vance and flynn",,Only in ERP
+2025-02-27,212.82,salary txn foster-nguyen,,Only in ERP
+2025-01-15,825.28,salary transfer - anderson-hernandez,,Only in ERP
+2025-01-19,538.92,"customer refund leach, mueller and smith",,Only in ERP
+2025-02-22,4723.54,invoice txn hayes-lindsey,,Only in ERP
+2025-01-11,7977.21,service fee - brown-bush,,Only in ERP
+2025-02-20,2619.13,"invoice txn hickman, butler and morris",,Only in ERP
+2025-03-02,9130.03,bank charges - olson-wyatt,,Only in ERP
+2025-01-01,3752.3,"travel expense - krause, gonzalez and oliver",,Only in ERP
+2025-01-27,6588.84,service fee summers and sons,,Only in ERP
+2025-01-20,5790.58,"service fee atkinson, robinson and moore",,Only in ERP
+2025-03-25,1963.57,insurance payout matthews-vasquez,,Only in ERP
+2025-03-06,4784.54,office rent - barry-woodard,,Only in ERP
+2025-02-10,9344.14,bank charges - baker-perry,,Only in ERP
+2025-03-17,3061.63,"service fee medina, hull and hernandez",,Only in ERP
+2025-03-10,9026.79,"bank charges - coleman, martin and anderson",,Only in ERP
+2025-01-08,7299.71,"customer refund - thompson, pruitt and gordon",,Only in ERP
+2025-03-13,9748.01,insurance payout harris llc,,Only in ERP
+2025-01-26,6064.38,"service fee peterson, cook and bennett",,Only in ERP
+2025-02-19,9641.91,customer refund marquez and sons,,Only in ERP
+2025-01-13,8754.48,"equipment purchase hernandez, hernandez and oneal",,Only in ERP
+2025-02-23,2282.36,"insurance payout roberts, park and schneider",,Only in ERP
+2025-03-26,1500.14,"bank charges chapman, mclean and dixon",,Only in ERP
+2025-01-12,4753.1,service fee burke-thompson,,Only in ERP
+2025-02-09,9959.68,vendor txn mitchell llc,,Only in ERP
+2025-02-13,8431.97,"service fee fisher, banks and baker",,Only in ERP
+2025-03-30,8907.04,"insurance payout jackson, underwood and roberts",,Only in ERP
+2025-01-23,3702.59,travel expense - fernandez-phillips,,Only in ERP
+2025-01-07,3151.76,invoice payment - hawkins plc,,Only in ERP
+2025-03-19,4798.44,insurance payout mitchell-garcia,,Only in ERP
+2025-02-08,7490.94,bank charges - lawson group,,Only in ERP
+2025-02-20,3878.03,"equipment purchase - tran, lopez and villa",,Only in ERP
+2025-02-02,2235.86,invoice payment - little-turner,,Only in ERP
+2025-01-14,204.42,travel expense lewis-mccarthy,,Only in ERP
+2025-03-27,1117.66,"customer refund king, cook and gross",,Only in ERP
+2025-02-09,9315.18,bank charges - russell-burns,,Only in ERP
+2025-03-24,5000.2,"equipment purchase - riley, leach and crawford",,Only in ERP
+2025-02-28,896.37,"invoice payment - tran, kim and valencia",,Only in ERP
+2025-01-17,2822.66,insurance payout jones inc,,Only in ERP
+2025-02-01,9609.15,"invoice txn hoffman, smith and white",,Only in ERP
+2025-02-16,631.59,"service fee benitez, ramirez and robertson",,Only in ERP
+2025-02-27,1124.67,"bank charges nguyen, clements and castro",,Only in ERP
+2025-03-01,2627.73,invoice payment - garner and sons,,Only in ERP
+2025-01-05,6933.78,salary txn jones-reynolds,,Only in ERP
+2025-01-10,3675.14,"salary txn kirk, dean and pena",,Only in ERP
+2025-01-22,1833.19,insurance payout ross-riley,,Only in ERP
+2025-03-25,9645.76,salary transfer - waters-rodriguez,,Only in ERP
+2025-02-02,5208.34,"customer refund bush, rivera and parker",,Only in ERP
+2025-04-03,1467.02,salary transfer - best and sons,,Only in ERP
+2025-02-26,1425.96,travel expense gilmore-washington,,Only in ERP
+2025-02-02,9416.53,"equipment purchase solomon, edwards and bennett",,Only in ERP
+2025-03-06,9657.0,"bank charges brown, brown and brown",,Only in ERP
+2025-03-12,8353.88,travel expense butler-colon,,Only in ERP
+2025-02-23,5914.67,"office rent gonzalez, estes and hess",,Only in ERP
+2025-03-20,5981.39,"service fee williams, collins and tate",,Only in ERP
+2025-01-11,9105.32,bank charges kramer and sons,,Only in ERP
+2025-01-11,4363.01,office rent kidd group,,Only in ERP
+2025-01-12,6744.72,service fee nunez-delgado,,Only in ERP
+2025-03-07,8901.07,"customer refund - webb, bates and miranda",,Only in ERP
+2025-01-12,6495.65,service fee peterson-higgins,,Only in ERP
+2025-02-07,2870.56,office rent - castro plc,,Only in ERP
+2025-02-28,8106.05,equipment purchase - hernandez-medina,,Only in ERP
+2025-03-30,5054.61,bank charges lane-lopez,,Only in ERP
+2025-02-04,5625.06,salary transfer - coleman-mayo,,Only in ERP
+2025-02-16,5466.23,"invoice txn bishop, gonzales and cox",,Only in ERP
+2025-01-13,7275.95,"customer refund - kim, smith and mayer",,Only in ERP
+2025-01-18,225.38,"office rent - alexander, greer and summers",,Only in ERP
+2025-03-30,7269.22,customer refund green inc,,Only in ERP
+2025-02-21,6827.23,customer refund daniels-johnson,,Only in ERP
+2025-01-25,6848.96,"customer refund - walker, tyler and edwards",,Only in ERP
+2025-01-28,8488.02,"bank charges - alvarez, schwartz and myers",,Only in ERP
+2025-02-26,7562.19,bank charges - brown inc,,Only in ERP
+2025-01-16,522.69,equipment purchase gross and sons,,Only in ERP
+2025-01-17,5990.91,vendor txn boyd inc,,Only in ERP
+2025-01-22,2644.0,equipment purchase burnett-perez,,Only in ERP
+2025-01-11,3173.04,"equipment purchase barton, moore and mcdowell",,Only in ERP
+2025-01-09,1763.09,insurance payout - sanders plc,,Only in ERP
+2025-03-12,7628.77,salary transfer - martin inc,,Only in ERP
+2025-03-31,1796.7,equipment purchase johnson group,,Only in ERP
+2025-02-04,4268.91,equipment purchase - glenn llc,,Only in ERP
+2025-02-20,3025.87,invoice txn johnson plc,,Only in ERP
+2025-02-24,8042.13,salary txn harper-horton,,Only in ERP
+2025-02-12,8090.37,travel expense webb-evans,,Only in ERP
+2025-01-16,2922.12,office rent berger-evans,,Only in ERP
+2025-01-14,4736.48,vendor payment - johnson-simmons,,Only in ERP
+2025-01-05,7515.34,invoice txn kennedy and sons,,Only in ERP
+2025-03-12,455.4,vendor payment - welch group,,Only in ERP
+2025-01-08,5352.03,invoice payment - powers-woodward,,Only in ERP
+2025-01-19,1003.01,"salary txn tucker, maldonado and frazier",,Only in ERP
+2025-02-09,9680.2,service fee fitzgerald llc,,Only in ERP
+2025-02-03,3469.35,insurance payout fox-singh,,Only in ERP
+2025-02-02,1117.76,travel expense hale plc,,Only in ERP
+2025-02-25,4502.49,"salary txn campbell, martinez and roberts",,Only in ERP
+2025-01-06,9687.15,insurance payout young plc,,Only in ERP
+2025-03-24,4489.97,office rent miller ltd,,Only in ERP
+2025-03-17,8809.17,office rent lee group,,Only in ERP
+2025-01-30,2729.58,office rent manning llc,,Only in ERP
+2025-02-19,4146.82,bank charges williams-nunez,,Only in ERP
+2025-01-30,8402.88,"bank charges coleman, brown and owen",,Only in ERP
+2025-03-29,6044.07,vendor txn blake inc,,Only in ERP
+2025-03-30,2575.97,travel expense meyers-robinson,,Only in ERP
+2025-01-10,8567.65,vendor payment - powers plc,,Only in ERP
+2025-03-18,1527.5,"service fee humphrey, hart and stewart",,Only in ERP
+2025-01-29,958.21,"vendor txn bray, elliott and white",,Only in ERP
+2025-03-22,1611.54,"vendor payment - knight, mills and miller",,Only in ERP
+2025-03-17,3891.41,"service fee - smith, white and hansen",,Only in ERP
+2025-02-08,2824.02,"customer refund hammond, dominguez and moss",,Only in ERP
+2025-02-21,8662.61,invoice txn brewer-santiago,,Only in ERP
+2025-03-12,8181.22,invoice txn smith and sons,,Only in ERP
+2025-02-22,1286.88,insurance payout - pope-randall,,Only in ERP
+2025-03-26,9702.57,vendor txn scott plc,,Only in ERP
+2025-02-28,827.56,vendor payment - fitzgerald ltd,,Only in ERP
+2025-02-08,8589.66,office rent yang inc,,Only in ERP
+2025-01-21,7146.91,office rent robinson inc,,Only in ERP
+2025-02-02,7891.5,invoice txn lee inc,,Only in ERP
+2025-01-27,6906.22,"travel expense santiago, butler and woods",,Only in ERP
+2025-01-15,1613.13,office rent cross-li,,Only in ERP
+2025-01-13,2448.34,insurance payout - compton inc,,Only in ERP
+2025-03-22,5311.91,"bank charges - robinson, roy and williams",,Only in ERP
+2025-01-31,2500.33,customer refund moss-collins,,Only in ERP
+2025-04-01,3681.67,insurance payout white-rice,,Only in ERP
+2025-03-06,2101.35,"customer refund jimenez, beck and moore",,Only in ERP
+2025-02-05,180.17,invoice txn white-dunlap,,Only in ERP
+2025-03-15,1751.97,travel expense - lopez ltd,,Only in ERP
+2025-02-22,3600.62,service fee kelley llc,,Only in ERP
+2025-03-21,4200.83,equipment purchase - garrison group,,Only in ERP
+2025-02-15,2481.59,service fee ayers-davis,,Only in ERP
+2025-03-14,6849.82,office rent smith llc,,Only in ERP
+2025-01-25,2242.21,"equipment purchase sullivan, sullivan and wade",,Only in ERP
+2025-02-10,5800.02,insurance payout wallace llc,,Only in ERP
+2025-02-06,8474.74,"travel expense coffey, franco and lindsey",,Only in ERP
+2025-01-21,8095.21,"travel expense jones, lewis and armstrong",,Only in ERP
+2025-02-02,4660.19,office rent hill-williams,,Only in ERP
+2025-01-09,2999.04,office rent - snyder-pineda,,Only in ERP
+2025-01-16,6976.73,travel expense - gardner inc,,Only in ERP
+2025-02-12,5317.82,customer refund - simon-price,,Only in ERP
+2025-01-27,6988.71,insurance payout - wheeler-ferguson,,Only in ERP
+2025-01-08,1182.09,customer refund - freeman plc,,Only in ERP
+2025-01-12,4888.26,insurance payout - chambers and sons,,Only in ERP
+2025-04-01,2943.15,insurance payout - lewis-ryan,,Only in ERP
+2025-02-10,2670.63,insurance payout - larson-green,,Only in ERP
+2025-03-21,3603.15,office rent - ward llc,,Only in ERP
+2025-03-20,5670.08,customer refund - vaughan ltd,,Only in ERP
+2025-03-22,5027.64,office rent - thomas-hicks,,Only in ERP
+2025-03-20,2403.94,travel expense - smith-garcia,,Only in ERP
+2025-01-25,115.65,"invoice payment - romero, calderon and gutierrez",,Only in ERP
+2025-03-01,6292.06,vendor payment - schultz llc,,Only in ERP
+2025-01-27,8015.69,service fee - mayo-frank,,Only in ERP
+2025-02-22,550.37,"bank charges - odonnell, bradley and mccall",,Only in ERP
+2025-03-13,8079.83,salary transfer - ruiz ltd,,Only in ERP
+2025-01-02,6442.12,travel expense - hoffman and sons,,Only in ERP
+2025-02-02,7922.94,"travel expense - pham, edwards and ryan",,Only in ERP
+2025-02-08,5116.23,bank charges - allen group,,Only in ERP
+2025-01-01,1226.98,"bank charges - bennett, stark and walker",,Only in ERP
+2025-02-13,4020.89,"insurance payout - ferguson, davis and allen",,Only in ERP
+2025-03-20,9605.12,office rent - hays inc,,Only in ERP
+2025-01-25,3372.1,bank charges - holder-young,,Only in ERP
+2025-03-28,4843.17,equipment purchase - dorsey ltd,,Only in ERP
+2025-01-05,6491.96,equipment purchase - kidd-christensen,,Only in ERP
+2025-01-20,6309.28,customer refund - johnson llc,,Only in ERP
+2025-02-12,4678.45,service fee - blair-white,,Only in ERP
+2025-01-08,8367.55,"travel expense - moore, roman and palmer",,Only in ERP
+2025-03-14,7277.15,"bank charges - dixon, martinez and smith",,Only in ERP
+2025-03-13,5405.27,salary transfer - carney group,,Only in ERP
+2025-03-15,6886.38,"bank charges - duncan, blackwell and nicholson",,Only in ERP
+2025-01-09,9699.17,travel expense - giles-carpenter,,Only in ERP
+2025-01-04,3457.61,service fee - garza-garcia,,Only in ERP
+2025-03-22,5389.3,"office rent - nelson, skinner and burns",,Only in ERP
+2025-03-15,6096.32,"office rent - avila, schmidt and smith",,Only in ERP
+2025-03-18,1256.76,"travel expense - green, ewing and taylor",,Only in ERP
+2025-04-01,8592.41,invoice payment - jackson-wright,,Only in ERP
+2025-02-04,4197.31,equipment purchase - johnson group,,Only in ERP
+2025-01-31,3778.68,travel expense - stevenson inc,,Only in ERP
+2025-01-28,5298.49,office rent - lopez and sons,,Only in ERP
+2025-01-15,3804.74,invoice payment - smith plc,,Only in ERP
+2025-01-26,9142.2,equipment purchase - bell-baker,,Only in ERP
+2025-03-06,346.85,equipment purchase - mcdonald-valencia,,Only in ERP
+2025-03-06,1625.37,bank charges - perez-bailey,,Only in ERP
+2025-03-03,7351.17,customer refund - williams-ho,,Only in ERP
+2025-02-09,7777.78,office rent - stafford-robinson,,Only in ERP
+2025-01-13,8239.17,customer refund - carter llc,,Only in ERP
+2025-03-28,9927.93,salary transfer - richardson-rocha,,Only in ERP
+2025-01-05,4647.75,customer refund - todd-williams,,Only in ERP
+2025-01-15,140.69,"invoice payment - green, larsen and olson",,Only in ERP
+2025-03-29,8496.43,vendor payment - white-shaw,,Only in ERP
+2025-02-12,4722.07,"invoice payment - atkinson, glover and burton",,Only in ERP
+2025-01-14,5253.72,travel expense - gomez group,,Only in ERP
+2025-01-03,5817.84,travel expense - mullen-wells,,Only in ERP
+2025-03-23,8932.14,bank charges - taylor-andrade,,Only in ERP
+2025-01-26,2006.2,travel expense - abbott-vaughn,,Only in ERP
+2025-03-10,3259.58,"equipment purchase - johnson, miller and dickson",,Only in ERP
+2025-03-27,1264.74,office rent - rodriguez-sullivan,,Only in ERP
+2025-01-21,2809.01,"invoice payment - grant, simmons and lindsey",,Only in ERP
+2025-03-21,5640.3,vendor payment - lynn llc,,Only in ERP
+2025-01-27,5471.03,customer refund - hines inc,,Only in ERP
+2025-02-10,2783.42,travel expense - jordan-martin,,Only in ERP
+2025-03-15,2523.77,vendor payment - johnson plc,,Only in ERP
+2025-02-09,6171.3,bank charges - vazquez-cain,,Only in ERP
+2025-03-11,4492.11,office rent - mcclure-thomas,,Only in ERP
+2025-01-04,4760.28,invoice payment - lyons-martin,,Only in ERP
+2025-01-14,3897.64,vendor payment - jackson llc,,Only in ERP
+2025-02-24,3979.98,insurance payout - valdez plc,,Only in ERP
+2025-03-17,6331.76,equipment purchase - nelson and sons,,Only in ERP
+2025-03-20,3620.68,"bank charges - carpenter, lowery and smith",,Only in ERP
+2025-01-26,7157.7,customer refund - bowman ltd,,Only in ERP
+2025-01-11,9739.45,equipment purchase - thomas inc,,Only in ERP
+2025-03-14,1404.77,"equipment purchase - bush, atkinson and carter",,Only in ERP
+2025-01-13,4610.28,"equipment purchase - wood, ortiz and weber",,Only in ERP
+2025-03-02,2393.77,salary transfer - obrien llc,,Only in ERP
+2025-01-19,8624.85,insurance payout - jackson llc,,Only in ERP
+2025-02-03,9137.33,"service fee - james, roberson and doyle",,Only in ERP
+2025-01-24,7026.18,"bank charges - roman, mccarthy and walker",,Only in ERP
+2025-02-11,4587.5,"invoice payment - carpenter, johnson and schultz",,Only in ERP
+2025-01-09,4805.81,bank charges - carter plc,,Only in ERP
+2025-03-03,4666.29,office rent - thomas plc,,Only in ERP
+2025-02-06,7702.62,"insurance payout - collins, richardson and evans",,Only in ERP
+2025-03-15,1361.2,vendor payment - richmond and sons,,Only in ERP
+2025-02-21,8193.77,vendor payment - duffy-frost,,Only in ERP
+2025-02-11,5605.88,vendor payment - hernandez plc,,Only in ERP
+2025-02-08,5374.18,service fee - martin-arnold,,Only in ERP
+2025-03-17,4193.07,"insurance payout - ramirez, bradley and moss",,Only in ERP
+2025-02-01,5524.7,"equipment purchase - andrews, pearson and howard",,Only in ERP
+2025-02-19,753.99,salary transfer - villegas-butler,,Only in ERP
+2025-03-30,5950.6,service fee - pham-clark,,Only in ERP
+2025-03-14,7894.54,customer refund - pope-charles,,Only in ERP
+2025-03-30,2437.93,vendor payment - mullen-hunt,,Only in ERP
+2025-03-15,8383.81,vendor payment - salazar-preston,,Only in ERP
+2025-03-17,6001.15,bank charges - pierce and sons,,Only in ERP
+2025-03-13,1066.77,equipment purchase - rogers and sons,,Only in ERP
+2025-01-23,3149.55,service fee - stephens llc,,Only in ERP
+2025-01-09,6022.77,insurance payout - waller-bond,,Only in ERP
+2025-02-18,3341.34,invoice payment - carrillo-greene,,Only in ERP
+2025-01-12,2254.36,office rent - green-colon,,Only in ERP
+2025-03-16,9042.23,"invoice payment - michael, allen and gonzalez",,Only in ERP
+2025-01-19,6642.73,equipment purchase - delacruz group,,Only in ERP
+2025-03-10,2985.88,insurance payout - wood-fry,,Only in ERP
+2025-03-15,4526.88,"salary transfer - ramirez, underwood and anderson",,Only in ERP
+2025-03-29,8786.51,travel expense - travis-taylor,,Only in ERP
+2025-03-14,7964.03,"travel expense - waters, wagner and salinas",,Only in ERP
+2025-02-25,7206.13,bank charges - martin and sons,,Only in ERP
+2025-01-12,5869.0,insurance payout - flores plc,,Only in ERP
+2025-03-07,4101.55,"office rent - hall, bennett and hill",,Only in ERP
+2025-02-07,717.86,customer refund - bush-franklin,,Only in ERP
+2025-01-07,108.35,"customer refund - hall, estrada and gould",,Only in ERP
+2025-02-15,1186.01,travel expense - brown-nunez,,Only in ERP
+2025-01-04,2428.89,insurance payout - marshall-george,,Only in ERP
+2025-02-20,6289.62,service fee - pineda-riley,,Only in ERP
+2025-02-21,3877.49,customer refund - nelson group,,Only in ERP
+2025-01-28,6658.63,"equipment purchase - deleon, rodriguez and owens",,Only in ERP
+2025-01-18,1963.45,"service fee - yoder, wolf and wolf",,Only in ERP
+2025-02-16,8415.63,office rent - thomas ltd,,Only in ERP
+2025-02-06,9974.81,"office rent - ochoa, johnson and shepard",,Only in ERP
+2025-01-18,214.87,"invoice payment - thomas, wilson and curtis",,Only in ERP
+2025-01-19,7241.26,equipment purchase - mcbride inc,,Only in ERP
+2025-03-26,4423.68,office rent - rodriguez ltd,,Only in ERP
+2025-01-11,1458.48,service fee - hogan-parker,,Only in ERP
+2025-02-28,8946.47,insurance payout - andrade plc,,Only in ERP
+2025-02-24,6270.16,"equipment purchase - stone, bowers and smith",,Only in ERP
+2025-03-07,4298.83,equipment purchase - chapman-mitchell,,Only in ERP
+2025-02-19,3617.54,"office rent - rojas, wilson and vega",,Only in ERP
+2025-02-24,6085.28,insurance payout - lozano inc,,Only in ERP
+2025-03-05,8483.36,salary transfer - sanchez-jackson,,Only in ERP
+2025-03-06,2765.58,"customer refund - butler, smith and bailey",,Only in ERP
+2025-03-15,3733.0,invoice payment - harper-fleming,,Only in ERP
+2025-03-14,4884.35,bank charges - short llc,,Only in ERP
+2025-01-15,5844.66,"vendor payment - bass, lambert and mcfarland",,Only in ERP
+2025-01-19,7328.84,"customer refund - sandoval, lambert and alexander",,Only in ERP
+2025-02-05,4702.87,"vendor payment - yang, deleon and rocha",,Only in ERP
+2025-03-08,8910.16,vendor payment - shea inc,,Only in ERP
+2025-02-01,4777.27,vendor payment - tran llc,,Only in ERP
+2025-03-29,6373.51,insurance payout - green-moody,,Only in ERP
+2025-02-09,6169.09,bank charges - williams and sons,,Only in ERP
+2025-03-10,7807.42,equipment purchase - powers-kerr,,Only in ERP
+2025-02-28,5175.36,equipment purchase - smith-garrett,,Only in ERP
+2025-03-15,7364.76,service fee - shaw and sons,,Only in ERP
+2025-02-15,9609.75,travel expense - jones-villa,,Only in ERP
+2025-02-07,1758.33,insurance payout - brown inc,,Only in ERP
+2025-02-08,7297.02,"insurance payout - fletcher, mccarty and rivera",,Only in ERP
+2025-02-03,708.04,equipment purchase - brown-watson,,Only in ERP
+2025-03-16,1773.88,invoice payment - english group,,Only in ERP
+2025-03-26,9904.61,"insurance payout - clements, baker and griffin",,Only in ERP
+2025-01-04,2939.47,"vendor payment - ramos, brooks and olson",,Only in ERP
+2025-01-17,5105.4,travel expense - myers inc,,Only in ERP
+2025-02-02,1412.13,travel expense - sparks group,,Only in ERP
+2025-02-05,8592.8,invoice payment - ray llc,,Only in ERP
+2025-01-15,6077.83,insurance payout - gomez and sons,,Only in ERP
+2025-01-20,6625.64,bank charges - chambers-cooper,,Only in ERP
+2025-01-23,2686.4,salary transfer - robertson group,,Only in ERP
+2025-03-04,1890.01,customer refund - walters-myers,,Only in ERP
+2025-01-05,3494.2,vendor payment - jones-stevenson,,Only in ERP
+2025-01-19,5995.89,"office rent - young, carroll and pearson",,Only in ERP
+2025-03-05,7552.34,"service fee - cox, wilson and bryant",,Only in ERP
+2025-02-19,2455.68,equipment purchase - holland and sons,,Only in ERP
+2025-03-23,1756.1,insurance payout - guerrero and sons,,Only in ERP
+2025-02-14,637.83,travel expense - richardson inc,,Only in ERP
+2025-01-15,619.98,"equipment purchase - phillips, gonzalez and bowman",,Only in ERP
+2025-02-21,4814.7,equipment purchase - prince-camacho,,Only in ERP
+2025-03-10,2413.25,"service fee - phillips, curry and barajas",,Only in ERP
+2025-03-02,2699.99,customer refund - hansen group,,Only in ERP
+2025-02-25,217.44,equipment purchase - thornton-phillips,,Only in ERP
+2025-02-18,6817.08,customer refund - moore group,,Only in ERP
+2025-03-29,9563.12,vendor payment - nielsen and sons,,Only in ERP
+2025-03-10,6410.5,service fee - johnson llc,,Only in ERP
+2025-03-20,9188.62,travel expense - white-wilson,,Only in ERP
+2025-02-12,2776.23,vendor payment - harris inc,,Only in ERP
+2025-02-02,6578.0,service fee - rose and sons,,Only in ERP
+2025-03-01,7754.2,"salary transfer - frye, knight and harvey",,Only in ERP
+2025-03-28,5928.37,salary transfer - walker inc,,Only in ERP
+2025-03-08,3440.33,office rent - bradley ltd,,Only in ERP
+2025-02-10,5521.36,invoice payment - wilson llc,,Only in ERP
+2025-01-09,218.42,vendor payment - wright plc,,Only in ERP
+2025-03-09,1128.68,equipment purchase - wheeler-ortiz,,Only in ERP
+2025-02-14,2272.22,"travel expense - dunn, guzman and snyder",,Only in ERP
+2025-02-02,2011.49,"invoice payment - moreno, lee and wright",,Only in ERP
+2025-03-21,1010.22,"insurance payout - mcdowell, turner and wright",,Only in ERP
+2025-03-26,8950.27,"salary transfer - weaver, morris and richardson",,Only in ERP
+2025-03-18,6417.02,"vendor payment - burke, clarke and myers",,Only in ERP
+2025-01-12,8578.76,office rent - padilla inc,,Only in ERP
+2025-02-18,6598.31,insurance payout - munoz-carter,,Only in ERP
+2025-01-24,8970.42,office rent - meyer-larson,,Only in ERP
+2025-02-02,3016.23,vendor payment - griffin-johnson,,Only in ERP
+2025-03-23,4589.09,travel expense - perry llc,,Only in ERP
+2025-02-24,6952.99,bank charges - liu and sons,,Only in ERP
+2025-02-02,1703.46,vendor payment - stewart inc,,Only in ERP
+2025-02-05,7793.35,service fee - villarreal group,,Only in ERP
+2025-02-19,3393.28,invoice payment - hernandez-brewer,,Only in ERP
+2025-02-03,9560.5,travel expense - weber-pennington,,Only in ERP
+2025-01-23,4461.69,"equipment purchase - warren, huffman and torres",,Only in ERP
+2025-01-26,6141.99,"office rent - ramirez, castro and blair",,Only in ERP
+2025-03-24,4971.37,"office rent - cox, mcdonald and gray",,Only in ERP
+2025-03-11,7710.2,salary transfer - morgan llc,,Only in ERP
+2025-03-20,6469.05,equipment purchase - fisher-martin,,Only in ERP
+2025-02-03,1122.54,vendor payment - knight plc,,Only in ERP
+2025-01-10,5756.31,"travel expense - reese, stewart and stone",,Only in ERP
+2025-02-27,285.77,equipment purchase - dixon inc,,Only in ERP
+2025-01-20,6563.37,"invoice payment - weber, west and wagner",,Only in ERP
+2025-01-05,6679.6,travel expense - clark-park,,Only in ERP
+2025-01-20,7030.55,service fee - richardson inc,,Only in ERP
+2025-03-15,136.67,"equipment purchase - krause, price and washington",,Only in ERP
+2025-03-03,4416.97,vendor payment - stein group,,Only in ERP
+2025-03-11,2335.88,"service fee - rosales, gonzalez and porter",,Only in ERP
+2025-03-30,8197.97,equipment purchase - benson plc,,Only in ERP
+2025-01-16,5715.71,bank charges - robbins-hernandez,,Only in ERP
+2025-02-12,6850.17,service fee - baldwin-martin,,Only in ERP
+2025-01-08,6359.5,vendor payment - miller-peck,,Only in ERP
+2025-02-16,5392.8,bank charges - medina-guerrero,,Only in ERP
+2025-01-11,8427.7,"travel expense - miller, bell and kelly",,Only in ERP
+2025-03-24,2110.89,customer refund - harris-russell,,Only in ERP
+2025-01-06,9678.38,salary transfer - roberts inc,,Only in ERP
+2025-02-08,6989.23,"vendor payment - cain, ferguson and johns",,Only in ERP
+2025-03-22,6919.54,equipment purchase - smith-hess,,Only in ERP
+2025-01-11,8863.62,equipment purchase - baxter group,,Only in ERP
+2025-01-25,1485.44,"salary transfer - crawford, shepard and thompson",,Only in ERP
+2025-01-04,7225.42,insurance payout - campbell-mcmillan,,Only in ERP
+2025-01-31,4943.4,vendor payment - gomez-morales,,Only in ERP
+2025-03-11,6469.74,equipment purchase - jimenez group,,Only in ERP
+2025-03-10,9653.04,equipment purchase - allen ltd,,Only in ERP
+2025-01-03,466.72,invoice payment - lynch plc,,Only in ERP
+2025-02-13,7899.01,"invoice payment - hardy, hayden and young",,Only in ERP
+2025-02-21,1270.05,"customer refund - higgins, whitehead and martin",,Only in ERP
+2025-02-28,9406.89,customer refund - taylor inc,,Only in ERP
+2025-01-20,7436.41,"salary transfer - castillo, fernandez and rivera",,Only in ERP
+2025-01-10,465.09,"office rent - green, walls and brown",,Only in ERP
+2025-03-04,6572.93,"equipment purchase - allen, taylor and franco",,Only in ERP
+2025-03-21,553.44,"office rent - garcia, murphy and daniels",,Only in ERP
+2025-01-02,1805.27,invoice payment - white plc,,Only in ERP
+2025-02-09,8225.32,"vendor payment - walters, rodriguez and manning",,Only in ERP
+2025-02-28,6151.14,"insurance payout - morales, anderson and hernandez",,Only in ERP
+2025-01-09,8196.22,vendor payment - delgado and sons,,Only in ERP
+2025-01-15,5021.72,"insurance payout - simmons, benson and pittman",,Only in ERP
+2025-01-29,724.79,"salary transfer - lawson, hernandez and sawyer",,Only in ERP
+2025-02-24,3439.7,"service fee - banks, barrett and jackson",,Only in ERP
+2025-02-11,1295.94,insurance payout - lopez group,,Only in ERP
+2025-03-11,1459.56,salary transfer - henry and sons,,Only in ERP
+2025-01-06,5971.54,bank charges - french-hoover,,Only in ERP
+2025-01-09,1295.38,"office rent - bradford, west and white",,Only in ERP
+2025-02-23,1763.7,"bank charges - hoffman, maynard and carter",,Only in ERP
+2025-03-12,1733.56,salary transfer - patel inc,,Only in ERP
+2025-03-16,502.92,"vendor payment - russell, villa and rodriguez",,Only in ERP
+2025-03-22,6163.17,"office rent - simon, ramsey and shaffer",,Only in ERP
+2025-01-03,8808.31,vendor payment - perez plc,,Only in ERP
+2025-01-01,171.52,vendor payment - cruz-thomas,,Only in ERP
+2025-04-01,6552.38,travel expense - cox plc,,Only in ERP
+2025-02-23,6965.68,"equipment purchase - reese, davis and wong",,Only in ERP
+2025-03-30,1356.23,office rent - barker group,,Only in ERP
+2025-03-23,2782.4,equipment purchase - jensen-perez,,Only in ERP
+2025-02-22,2468.61,office rent - jacobs and sons,,Only in ERP
+2025-03-20,6947.57,insurance payout - foley llc,,Only in ERP
+2025-01-24,7200.27,insurance payout - washington llc,,Only in ERP
+2025-01-12,6309.2,"travel expense - shepherd, french and scott",,Only in ERP
+2025-02-14,4245.98,customer refund - edwards-townsend,,Only in ERP
+2025-01-31,1999.84,customer refund - tapia and sons,,Only in ERP
+2025-01-13,6227.32,customer refund - crane-salazar,,Only in ERP
+2025-03-06,2270.83,"salary transfer - kelly, vasquez and ware",,Only in ERP
+2025-02-05,625.38,"vendor payment - perez, combs and hudson",,Only in ERP
+2025-01-20,6883.91,equipment purchase - brown-spencer,,Only in ERP
+2025-03-05,1845.61,invoice payment - rollins plc,,Only in ERP
+2025-01-07,6484.12,"travel expense - holder, nelson and schultz",,Only in ERP
+2025-01-27,4403.25,bank charges - wall ltd,,Only in ERP
+2025-03-20,8071.02,equipment purchase - snow and sons,,Only in ERP
+2025-01-06,1133.77,"invoice payment - schmidt, smith and mcdonald",,Only in ERP
+2025-03-10,1841.29,"invoice payment - hayes, brown and rangel",,Only in ERP
+2025-03-04,5197.55,vendor payment - hodge-dudley,,Only in ERP
+2025-01-31,7241.89,"insurance payout - jones, ortega and patterson",,Only in ERP
+2025-03-16,3327.13,salary transfer - jones-watts,,Only in ERP
+2025-03-28,8993.89,salary transfer - johns-summers,,Only in ERP
+2025-01-15,3328.71,"vendor payment - sandoval, hodge and jones",,Only in ERP
+2025-01-31,7403.7,salary transfer - mullen inc,,Only in ERP
+2025-02-18,8924.51,vendor payment - pollard-riley,,Only in ERP
+2025-03-02,5892.41,invoice payment - beasley and sons,,Only in ERP
+2025-02-25,1534.92,insurance payout - jones-brown,,Only in ERP
+2025-02-28,1862.8,"bank charges - owens, choi and kirby",,Only in ERP
+2025-01-18,4631.63,"salary transfer - mendoza, ruiz and pacheco",,Only in ERP
+2025-03-22,3650.04,travel expense - kelley group,,Only in ERP
+2025-01-26,3425.32,invoice payment - lam-moore,,Only in ERP
+2025-03-30,5729.79,"travel expense - thomas, cantu and perez",,Only in ERP
+2025-01-18,1199.98,equipment purchase - mahoney plc,,Only in ERP
+2025-02-28,4240.42,bank charges - wong llc,,Only in ERP
+2025-01-29,8875.45,"insurance payout - cunningham, smith and francis",,Only in ERP
+2025-01-21,7916.51,insurance payout - harding group,,Only in ERP
+2025-01-22,5823.4,customer refund - jones ltd,,Only in ERP
+2025-01-30,956.1,customer refund - sanchez plc,,Only in ERP
+2025-03-04,8635.77,"salary transfer - williams, thomas and dunn",,Only in ERP
+2025-03-17,4787.54,equipment purchase - webb and sons,,Only in ERP
+2025-02-05,243.59,"service fee - calderon, wright and dodson",,Only in ERP
+2025-02-01,2553.53,"service fee - mason, oconnell and turner",,Only in ERP
+2025-03-16,2301.83,insurance payout - deleon and sons,,Only in ERP
+2025-01-20,9146.17,invoice payment - prince and sons,,Only in ERP
+2025-02-23,9803.82,invoice payment - armstrong and sons,,Only in ERP
+2025-03-02,7361.42,customer refund - castillo-smith,,Only in ERP
+2025-01-05,4314.41,"service fee - stein, torres and holt",,Only in ERP
+2025-03-03,8116.19,"vendor payment - walters, kennedy and silva",,Only in ERP
+2025-02-27,5003.32,vendor payment - hawkins-roy,,Only in ERP
